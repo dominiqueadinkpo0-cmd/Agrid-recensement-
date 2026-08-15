@@ -123,7 +123,22 @@
 | `src/UI/*/.../Resources/Drawable/capi_splash.png` + `splash.axml` | Splash screens |
 | `src/UI/*/.../Resources/drawable-*/icon.png` | Icônes launcher |
 | `src/UI/*/.../Resources/drawable-*/login_logo.png` / `loginLogo.png` | Logos de login |
-| `src/UI/*/.../Properties/AssemblyInfo.cs` | `AssemblyCopyright("The World Bank …")` |
+
+> **Hors périmètre Phase 1B** : `src/UI/*/.../Properties/AssemblyInfo.cs` (`AssemblyCopyright`,
+> métadonnées d'assembly, fichiers binaires générés). Ne pas modifier : les informations
+> d'attribution existantes sont conservées. *Assembly metadata review postponed; requires
+> license review and source verification.*
+
+#### Constats de l'audit Android (15 août 2026 — doc seule, aucun fichier modifié)
+
+| Inventaire | Résultat |
+|---|---|
+| `AssemblyInfo.cs` | **23** fichiers dans `src/` (Core, UI, Infrastructure, Services, Tests). Encodage hétérogène : **20 en UTF-8 (BOM)**, **3 en UTF-16** (Interviewer, Supervisor, Headquarters.Core). |
+| « The World Bank » dans `AssemblyCopyright` | **2 fichiers seulement** : `Interviewer` (« Copyright © The World Bank 2014 ») et `Supervisor` (« Copyright © The World Bank 2018 »), tous deux UTF-16. Les 21 autres ont `AssemblyCopyright("Copyright ©  <année>")` sans mention WB. |
+| Manifests Android | `Interviewer` → `android:label="Interviewer"`, package `org.worldbank.solutions.interviewer` ; `Supervisor` → `android:label="Supervisor"`, `org.worldbank.solutions.supervisor` ; `Tester` → `android:label="Tester"`, `org.worldbank.solutions.Vtester`. Les `package` restent **intacts** (contrat Firebase/FileProvider/API — voir §3). |
+| Resx apps Core (16 langues × 3 séries) | `UIResources.*.resx`, `EnumeratorUIResources.*.resx`, `TesterUIResources.*.resx` — **50 fichiers** référencent « Survey Solutions » (valeurs à rebrander, clés intactes). |
+| Images Android | **15** `icon.png` launcher, **2** `capi_splash.png`, **18** `login_logo.png`/`loginLogo.png` (Interviewer + Supervisor + Tester, densités mdpi→xxxhdpi). |
+| Décision Phase 1B | `AssemblyInfo.cs` : **hors périmètre** (attribution WB conservée). Manifests (labels), resx et images : **dans le périmètre**, à traiter en phase applicative. |
 
 ### Services d'export
 
@@ -213,7 +228,7 @@ Rebrander **l'aspect visible** uniquement, en conservant l'identité technique i
 
 3. **Web — vues** : éditer les `.cshtml` / `.vue` de la liste phase 1 (titres, alt, footers, wordmarks SVG inline).
 
-4. **Android** : `android:label` des 3 manifests + valeurs des `UIResources.resx` / `EnumeratorUIResources.resx` / `TesterUIResources.resx` + AssemblyInfo (copyright).
+4. **Android** : `android:label` des 3 manifests + valeurs des `UIResources.resx` / `EnumeratorUIResources.resx` / `TesterUIResources.resx`. `AssemblyInfo.cs` **hors périmètre** (attribution conservée — voir §2).
 
 5. **Services** : `<Product>` des csproj Export, textes des exports (+ tests en synchrone).
 
@@ -234,3 +249,176 @@ Rebrander **l'aspect visible** uniquement, en conservant l'identité technique i
 
 - Assets AGRID : `branding/` (logo, transparent, icône app, login, favicon — thème navy/gold/white/light green)
 - Audit complet des apps web, Android et hors-code : réalisé le 15 août 2026 sur le dépôt cloné
+
+---
+
+## 7. Matrice détaillée Phase 1B — Android (50 resx + 35 images)
+
+> Phase 1B = uniquement les valeurs visibles. **Aucun fichier modifié lors de cet audit** :
+> matrice de référence pour la phase applicative. Règle d'or : ne changer que les **valeurs**,
+> jamais les **clés** (`<data name="…">` intact).
+
+### 7.1 Règles de remplacement (applicables à toutes les langues)
+
+| Motif ancien | Remplacé par AGRID |
+|---|---|
+| `Survey Solutions` (générique) | `AGRID` |
+| `Survey Solutions Interviewer` | `AGRID Interviewer` |
+| `Survey Solutions Supervisor` | `AGRID Supervisor` |
+| `Survey Solutions Designer` | `AGRID Designer` |
+| `Survey Solutions server` | `AGRID server` |
+| `Survey Solutions Web Survey` | `AGRID Web Survey` |
+| `Survey Solutions Questionnaire Tester` | `AGRID Questionnaire Tester` |
+| `Garant Survey Solutions` (cs) | `Garant AGRID` |
+
+> Dans les traductions (ar, cs, es, fr, id, ka, km, pt, ro, ru, sq, th, uk, vi, zh), la marque
+> est translittérée en alphabet local : remplacer la séquence `Survey Solutions` par `AGRID`
+> **en gardant la structure grammaticale locale** (ex. fr : « Enquêteur Survey Solutions » →
+> « Enquêteur AGRID » ; ru : « Survey Solutions Designer » → « AGRID Designer »). Les clés et
+> les `\n`, espaces et `{0}` de format restent inchangés.
+
+### 7.2 Séries de fichiers resx — cartographie applicative
+
+| Série | App concernée | Projet | Fichiers |
+|---|---|---|---|
+| `UIResources.*.resx` | **Shared** (Interviewer + Supervisor + Tester) | `Core/SharedKernels/Enumerator/Enumerator/Properties` | 16 |
+| `EnumeratorUIResources.*.resx` | **Shared** (Interviewer + Supervisor) | `Core/SharedKernels/Enumerator/Enumerator/Properties` | 16 |
+| `WebInterview.*.resx` | **Web Survey** (page d'enquête web partagée) | `Core/SharedKernels/Enumerator/WB.Enumerator.Native/Resources` | 16 |
+| `TesterUIResources.*.resx` | **Tester** (app Tester / Designer) | `Core/BoundedContexts/Tester/WB.Core.BoundedContexts.Tester/Properties` | 16 (dont 2 avec branding) |
+
+### 7.3 Matrice resx — fichiers et clés (valeurs base EN)
+
+> Ancienne valeur = base (`UIResources.resx` / `EnumeratorUIResources.resx` / `WebInterview.resx`,
+> langue EN). Nouvelle valeur = proposition AGRID. Les traductions suivent la règle §7.1.
+
+#### `UIResources.*.resx` — Shared (Interviewer/Supervisor/Tester) — 16 fichiers
+
+| Clé | Ancienne valeur (base EN) | Nouvelle valeur AGRID | Action |
+|---|---|---|---|
+| `LoginTitleText` | Survey Solutions Questionnaire Tester | AGRID Questionnaire Tester | modifier |
+| `Interviewer_ApplicationName` | Survey Solutions Interviewer | AGRID Interviewer | modifier |
+| `Supervisor_ApplicationName` | Survey Solutions Supervisor | AGRID Supervisor | modifier |
+| `ErrorMessage_Maintenance` | The website of Survey Solutions Designer is on the maintenance mode now. Sorry for the inconvenience | The website of AGRID Designer is on the maintenance mode now. Sorry for the inconvenience | modifier |
+| `ErrorMessage_RequestTimeout` | Timeout when connecting to the Survey Solutions Designer website. Check your internet connection. | Timeout when connecting to the AGRID Designer website. Check your internet connection. | modifier |
+| `ErrorMessage_ServiceUnavailable` | No connection to the Survey Solutions Designer. Please make sure that the website is available. | No connection to the AGRID Designer. Please make sure that the website is available. | modifier |
+| `ErrorMessage_InvalidEndpoint` | Provided Survey Solutions Designer URL is invalid. Check settings. | Provided AGRID Designer URL is invalid. Check settings. | modifier |
+| `Dashboard_EmptyQuestionnairesList` | No questionnaires yet. \n\nYou can create or edit your questionnaires in Survey Solutions Designer | No questionnaires yet. \n\nYou can create or edit your questionnaires in AGRID Designer | modifier |
+| `MissingPermissions_Storage_Global` | To store maps on the mobile device Survey Solutions needs access to the files. … | To store maps on the mobile device AGRID needs access to the files. … | modifier |
+
+> Clés en plus selon langue : `ErrorMessage_UpgradeRequired` (th), `LoginTitleText` (ru = « Survey
+> Solutions Questionnaire Tester » → « AGRID Questionnaire Tester »). Fichiers : base + `ar, cs, es,
+> fr, id, ka, km, pt, ro, ru, sq, th, uk, vi, zh` (le `.ar` ne référence que
+> `MissingPermissions_Storage_Global`).
+
+#### `EnumeratorUIResources.*.resx` — Shared (Interviewer/Supervisor) — 16 fichiers
+
+| Clé | Ancienne valeur (base EN) | Nouvelle valeur AGRID | Action |
+|---|---|---|---|
+| `Maintenance` | The website of Survey Solutions Supervisor is on maintenance. Sorry for the inconvenience | The website of AGRID Supervisor is on maintenance. Sorry for the inconvenience | modifier |
+| `RequestTimeout` | Timeout when connecting to the Survey Solutions Supervisor website. Check your internet connection. | Timeout when connecting to the AGRID Supervisor website. Check your internet connection. | modifier |
+| `ServiceUnavailable` | No connection to the Survey Solutions Supervisor. Please make sure that the website is available. | No connection to the AGRID Supervisor. Please make sure that the website is available. | modifier |
+| `CommunicationIntegrityFailed` | The response received does not appear to come from the Survey Solutions server. … | The response received does not appear to come from the AGRID server. … | modifier |
+| `Prefs_AllowSyncWithHq_Summary_Disabled` (cs) | … aplikací Garant Survey Solutions | … aplikací Garant AGRID | modifier |
+| `ApplicationIncompatibleWithServer`, `InvalidEndpoint`, `Prefs_BufferSizeSummary`, `Prefs_EndpointTitle`, `Troubleshooting_NoNewVersion`, `UpgradeRequired` (th) | « Survey Solutions Interviewer » / « Survey Solutions Supervisor » | « AGRID Interviewer » / « AGRID Supervisor » | modifier |
+
+#### `WebInterview.*.resx` — Web Survey — 16 fichiers
+
+| Clé | Ancienne valeur (base EN) | Nouvelle valeur AGRID | Action |
+|---|---|---|---|
+| `WelcomeText` | Hello and Welcome to the Survey Solutions Web Survey | Hello and Welcome to the AGRID Web Survey | modifier |
+| `WebSurvey` | Survey Solutions Web Survey | AGRID Web Survey | modifier |
+| `Resume_WelcomeText` | Hello and Welcome to the Survey Solutions Web Survey | Hello and Welcome to the AGRID Web Survey | modifier |
+
+> Les **16 fichiers** de la série (base + 15 langues) référencent les 3 clés. Traductions : la
+> séquence `Survey Solutions` est remplacée par `AGRID` dans la phrase locale.
+
+#### `TesterUIResources.*.resx` — Tester — 2 fichiers avec branding (sur 16)
+
+| Fichier | Clé | Ancienne valeur | Nouvelle valeur AGRID | Action |
+|---|---|---|---|---|
+| `TesterUIResources.ru.resx` | `Prefs_DesignerEndPointSummary` | URL для подключения к приложению Survey Solutions Designer | URL для подключения к приложению AGRID Designer | modifier |
+| `TesterUIResources.ru.resx` | `ImportQuestionnaire_Error_PreconditionFailed` | … Исправьте, пожалуйста, их в Survey Solutions Designer. | … Исправьте, пожалуйста, их в AGRID Designer. | modifier |
+| `TesterUIResources.th.resx` | `ImportQuestionnaire_Error_PreconditionFailed` | … กรุณาแก้ไขแบบสอบถามที่ Survey Solutions Designer | … กรุณาแก้ไขแบบสอบถามที่ AGRID Designer | modifier |
+| `TesterUIResources.th.resx` | `Login_Error_NotFound` | … ของ Survey Solutions Designer … | … ของ AGRID Designer … | modifier |
+| `TesterUIResources.th.resx` | `Prefs_DesignerEndPointSummary` | URL ที่ใช้ในการติดต่อกับ Survey Solutions Designer | URL ที่ใช้ในการติดต่อกับ AGRID Designer | modifier |
+| `TesterUIResources.th.resx` | `Prefs_DesignerEndPointTitle` | URL ของ Survey Solutions Designer | URL ของ AGRID Designer | modifier |
+
+> **Conserver** : le fichier base `TesterUIResources.resx` et les 13 autres langues (aucune
+> référence à la marque — clés `…Designer…` génériques déjà compatibles AGRID).
+
+### 7.4 Matrice images — 35 fichiers
+
+> Rôles : **icône** (launcher), **splash** (capi_splash), **login** (logo d'écran de connexion).
+> Asset source AGRID : `branding/agrid-app-icon-512.png` (icône), `branding/agrid-login-logo-800.png`
+> (login/splash), `branding/agrid-logo-transparent.png` (splash alt). Redimensionner en gardant le
+> **nom et le chemin exacts** de chaque fichier cible.
+
+#### Interviewer — 12 fichiers (`src/UI/Interviewer/WB.UI.Interviewer/Resources/`)
+
+| Chemin | Rôle | Dimensions actuelles | Asset AGRID source (redimensionné) |
+|---|---|---|---|
+| `Drawable/Icon.png` | icône | 512×512 | `agrid-app-icon-512.png` (512) |
+| `Drawable/capi_splash.png` | splash | 480×800 | `agrid-logo-transparent.png` composé sur fond (480×800) |
+| `Drawable/login_logo.png` | login | 800×800 | `agrid-login-logo-800.png` (800) |
+| `drawable-mdpi/icon.png` | icône | 48×48 | `agrid-app-icon-512.png` (48) |
+| `drawable-hdpi/icon.png` | icône | 72×72 | `agrid-app-icon-512.png` (72) |
+| `drawable-xhdpi/icon.png` | icône | 96×96 | `agrid-app-icon-512.png` (96) |
+| `drawable-xxhdpi/icon.png` | icône | 144×144 | `agrid-app-icon-512.png` (144) |
+| `drawable-mdpi/login_logo.png` | login | 240×240 | `agrid-login-logo-800.png` (240) |
+| `drawable-hdpi/login_logo.png` | login | 360×360 | `agrid-login-logo-800.png` (360) |
+| `drawable-xhdpi/login_logo.png` | login | 480×480 | `agrid-login-logo-800.png` (480) |
+| `drawable-xxhdpi/login_logo.png` | login | 720×720 | `agrid-login-logo-800.png` (720) |
+| `drawable-xxxhdpi/login_logo.png` | login | 960×960 | `agrid-login-logo-800.png` (960) |
+
+#### Supervisor — 12 fichiers (`src/UI/Supervisor/WB.UI.Supervisor/Resources/`)
+
+| Chemin | Rôle | Dimensions actuelles | Asset AGRID source (redimensionné) |
+|---|---|---|---|
+| `Drawable/Icon.png` | icône | 512×512 | `agrid-app-icon-512.png` (512) |
+| `Drawable/capi_splash.png` | splash | 480×800 | `agrid-logo-transparent.png` composé sur fond (480×800) |
+| `Drawable/login_logo.png` | login | 800×800 | `agrid-login-logo-800.png` (800) |
+| `drawable-mdpi/icon.png` | icône | 48×48 | `agrid-app-icon-512.png` (48) |
+| `drawable-hdpi/icon.png` | icône | 72×72 | `agrid-app-icon-512.png` (72) |
+| `drawable-xhdpi/icon.png` | icône | 96×96 | `agrid-app-icon-512.png` (96) |
+| `drawable-xxhdpi/icon.png` | icône | 144×144 | `agrid-app-icon-512.png` (144) |
+| `drawable-mdpi/login_logo.png` | login | 240×240 | `agrid-login-logo-800.png` (240) |
+| `drawable-hdpi/login_logo.png` | login | 360×360 | `agrid-login-logo-800.png` (360) |
+| `drawable-xhdpi/login_logo.png` | login | 480×480 | `agrid-login-logo-800.png` (480) |
+| `drawable-xxhdpi/login_logo.png` | login | 720×720 | `agrid-login-logo-800.png` (720) |
+| `drawable-xxxhdpi/login_logo.png` | login | 960×960 | `agrid-login-logo-800.png` (960) |
+
+#### Tester — 11 fichiers (`src/UI/Tester/WB.UI.Tester/Resources/`)
+
+| Chemin | Rôle | Dimensions actuelles | Asset AGRID source (redimensionné) |
+|---|---|---|---|
+| `Drawable/Icon.png` | icône | 512×512 | `agrid-app-icon-512.png` (512) |
+| `Drawable/loginLogo.png` | login | 800×800 | `agrid-login-logo-800.png` (800) |
+| `drawable-mdpi/icon.png` | icône | 48×48 | `agrid-app-icon-512.png` (48) |
+| `drawable-hdpi/icon.png` | icône | 72×72 | `agrid-app-icon-512.png` (72) |
+| `drawable-xhdpi/icon.png` | icône | 96×96 | `agrid-app-icon-512.png` (96) |
+| `drawable-xxhdpi/icon.png` | icône | 144×144 | `agrid-app-icon-512.png` (144) |
+| `drawable-mdpi/loginLogo.png` | login | 240×240 | `agrid-login-logo-800.png` (240) |
+| `drawable-hdpi/loginLogo.png` | login | 360×360 | `agrid-login-logo-800.png` (360) |
+| `drawable-xhdpi/loginLogo.png` | login | 480×480 | `agrid-login-logo-800.png` (480) |
+| `drawable-xxhdpi/loginLogo.png` | login | 720×720 | `agrid-login-logo-800.png` (720) |
+| `drawable-xxxhdpi/loginLogo.png` | login | 960×960 | `agrid-login-logo-800.png` (960) |
+
+### 7.5 Ordre recommandé d'application des changements Android (Phase 1B)
+
+1. **Préparer les assets** (machine avec ImageMagick/PIL, hors repo) : redimensionner
+   `agrid-app-icon-512.png` → 7 tailles d'icône (48/72/96/144/512), `agrid-login-logo-800.png` →
+   6 tailles de login (240/360/480/720/800/960), préparer le splash 480×800 à partir de
+   `agrid-logo-transparent.png`. Ne rien committer tant que les visuels ne sont pas validés.
+2. **Manifests** : `android:label` des 3 `AndroidManifest.xml`
+   (`Interviewer` → « AGRID Interviewer », `Supervisor` → « AGRID Supervisor », `Tester` →
+   « AGRID Tester »). Ne **pas** toucher à `package=` (contrat Firebase/API — §3).
+3. **Textes partagés** : `UIResources.*.resx` (16) puis `EnumeratorUIResources.*.resx` (16) —
+   appliquer §7.1, d'abord la base EN, puis les 15 traductions.
+4. **Textes Web Survey** : `WebInterview.*.resx` (16) — les 3 clés.
+5. **Textes Tester** : `TesterUIResources.ru.resx` et `.th.resx` (2 fichiers, 6 clés).
+6. **Images** : remplacer les 35 fichiers par les assets redimensionnés **en conservant noms et
+   chemins** (Interviewer 12, Supervisor 12, Tester 11).
+7. **Conserver** : `AssemblyInfo.cs` (23) — hors périmètre, attribution WB intacte.
+8. **Vérifier** : `git status` → seuls les fichiers resx/manifests/images attendus changent ;
+   build .NET (`WB.sln`) + contrôle qu'aucun fichier §3 n'a été touché ; test unitaire resx
+   (build de traduction) puis validation visuelle sur émulateur/device.
