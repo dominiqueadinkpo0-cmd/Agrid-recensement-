@@ -248,7 +248,7 @@ hoặc liên hệ với giám sát viên của bạn
     <value>Sai mật khẩu</value>
   </data>
     <data name="Maintenance" xml:space="preserve">
-    <value>Trang web của Giám sát viên Survey Solutions đang bảo trì. Xin lỗi vì sự bất tiện</value>
+    <value>Trang web của Giám sát viên AGRID đang bảo trì. Xin lỗi vì sự bất tiện</value>
   </data>
     <data name="NoNetwork" xml:space="preserve">
     <value>Không có mạng. Kiểm tra cài đặt mạng của bạn</value>
@@ -296,10 +296,10 @@ hoặc liên hệ với giám sát viên của bạn
     <value>Yêu cầu bị hủy bởi người dùng</value>
   </data>
     <data name="RequestTimeout" xml:space="preserve">
-    <value>Hết thời gian chờ khi kết nối với trang web Giám sát viên Survey Solutions. Kiểm tra kết nối internet của bạn.</value>
+    <value>Hết thời gian chờ khi kết nối với trang web Giám sát viên AGRID. Kiểm tra kết nối internet của bạn.</value>
   </data>
     <data name="ServiceUnavailable" xml:space="preserve">
-    <value>Không có kết nối với Giám sát viên Survey Solutions. Vui lòng đảm bảo rằng trang web có sẵn.</value>
+    <value>Không có kết nối với Giám sát viên AGRID. Vui lòng đảm bảo rằng trang web có sẵn.</value>
   </data>
     <data name="Synchronization_Cancel" xml:space="preserve">
     <value>Hủy bỏ</value>
@@ -1031,7 +1031,7 @@ hoặc liên hệ với giám sát viên của bạn
     <value>Bạn đã sử dụng Định vị địa lý hoặc Định vị địa lý khi tạo cuộc phỏng vấn. Vui lòng bật lại nếu bạn muốn sử dụng nó.</value>
   </data>
     <data name="CommunicationIntegrityFailed" xml:space="preserve">
-    <value>Phản hồi nhận được dường như không đến từ máy chủ Survey Solutions. Điều này thường do proxy mạng, tường lửa hoặc cổng bảo mật chặn kết nối. Vui lòng kiểm tra kết nối mạng hoặc liên hệ với bộ phận hỗ trợ CNTT.</value>
+    <value>Phản hồi nhận được dường như không đến từ máy chủ AGRID. Điều này thường do proxy mạng, tường lửa hoặc cổng bảo mật chặn kết nối. Vui lòng kiểm tra kết nối mạng hoặc liên hệ với bộ phận hỗ trợ CNTT.</value>
   </data>
   <data name="Dashboard_Assignment_Status_Completed" xml:space="preserve">
     <value>Trạng thái: Hoàn thành</value>

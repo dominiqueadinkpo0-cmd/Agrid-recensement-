@@ -148,10 +148,10 @@
     <value>Se connecter</value>
   </data>
   <data name="LoginTitleText" xml:space="preserve">
-    <value>Testeur de questionnaire Survey Solutions</value>
+    <value>Testeur de questionnaire AGRID</value>
   </data>
   <data name="ErrorMessage_Maintenance" xml:space="preserve">
-    <value>Le site Web de Survey Solutions Designer est en mode maintenance. Désolé pour le désagrément</value>
+    <value>Le site Web de AGRID Designer est en mode maintenance. Désolé pour le désagrément</value>
   </data>
   <data name="PrefilledQuestions_StartInterview" xml:space="preserve">
     <value>DÉMARRER</value>
@@ -169,10 +169,10 @@
     <value>Confirmer le nouveau mot de passe</value>
   </data>
   <data name="ErrorMessage_RequestTimeout" xml:space="preserve">
-    <value>Délai d'attente lors de la connexion au site Web de Survey Solutions Designer. Vérifiez votre connexion Internet.</value>
+    <value>Délai d'attente lors de la connexion au site Web de AGRID Designer. Vérifiez votre connexion Internet.</value>
   </data>
   <data name="ErrorMessage_ServiceUnavailable" xml:space="preserve">
-    <value>Aucune connexion à Survey Solutions Designer. Veuillez vous assurer que le site Web est disponible.</value>
+    <value>Aucune connexion à AGRID Designer. Veuillez vous assurer que le site Web est disponible.</value>
   </data>
   <data name="StaySignedInText" xml:space="preserve">
     <value>Rester connecté</value>
@@ -300,7 +300,7 @@
   <data name="Dashboard_EmptyQuestionnairesList" xml:space="preserve">
     <value>Aucun questionnaire pour le moment.
 
-Vous pouvez créer ou modifier vos questionnaires dans Survey Solutions Designer</value>
+Vous pouvez créer ou modifier vos questionnaires dans AGRID Designer</value>
   </data>
   <data name="TextListQuestion_Hint" xml:space="preserve">
     <value>Appuyez pour entrer un nouvel élément</value>
@@ -321,7 +321,7 @@ Vous pouvez créer ou modifier vos questionnaires dans Survey Solutions Designer
     <value>Aucune application de navigation trouvée</value>
   </data>
   <data name="ErrorMessage_InvalidEndpoint" xml:space="preserve">
-    <value>L'URL de Survey Solutions Designer fournie est invalide. Vérifiez les paramètres.</value>
+    <value>L'URL de AGRID Designer fournie est invalide. Vérifiez les paramètres.</value>
   </data>
   <data name="Interview_LinkedQuestion_Empty" xml:space="preserve">
     <value>Les catégories apparaîtront uniquement après avoir répondu à la question qui définit les catégories de cette question.</value>
@@ -411,10 +411,10 @@ Vous pouvez créer ou modifier vos questionnaires dans Survey Solutions Designer
     <value>Terminer</value>
   </data>
   <data name="Interviewer_ApplicationName" xml:space="preserve">
-    <value>Enquêteur Survey Solutions</value>
+    <value>Enquêteur AGRID</value>
   </data>
   <data name="Supervisor_ApplicationName" xml:space="preserve">
-    <value>Superviseur Survey Solutions</value>
+    <value>Superviseur AGRID</value>
   </data>
   <data name="Interview_CompleteScreen_ButtonText" xml:space="preserve">
     <value>Pour terminer l'écran</value>
@@ -576,7 +576,7 @@ Vous pouvez créer ou modifier vos questionnaires dans Survey Solutions Designer
     <value>L'application doit avoir l'autorisation d'utiliser le microphone. Réessayez la dernière action et autorisez l'accès. Si vous ne voyez pas la fenêtre contextuelle des autorisations, allez dans les paramètres et autorisez l'application à utiliser le microphone.</value>
   </data>
   <data name="MissingPermissions_Storage_Global" xml:space="preserve">
-    <value>Pour stocker des cartes sur l'appareil mobile, Survey Solutions a besoin d'accéder aux fichiers. Si cette autorisation n'est pas accordée, l'application ne pourra stocker aucune carte pour une utilisation hors ligne.</value>
+    <value>Pour stocker des cartes sur l'appareil mobile, AGRID a besoin d'accéder aux fichiers. Si cette autorisation n'est pas accordée, l'application ne pourra stocker aucune carte pour une utilisation hors ligne.</value>
   </data>
   <data name="MissingPermission" xml:space="preserve">
     <value>L'application n'a pas suffisamment d'autorisations pour exécuter l'action demandée</value>

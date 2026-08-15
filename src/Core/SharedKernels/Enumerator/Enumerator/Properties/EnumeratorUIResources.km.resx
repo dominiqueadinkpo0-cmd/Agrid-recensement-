@@ -565,7 +565,7 @@
     <value>បំរាម</value>
   </data>
   <data name="CommunicationIntegrityFailed" xml:space="preserve">
-    <value>ការឆ្លើយតបដែលទទួលបានហាក់ដូចជាមិនមកពីម៉ាស៊ីនមេ Survey Solutions។ ជាទូទៅនេះកើតឡើងដោយพรុកស៊ី (proxy) បណ្ដាញ ដ៏ជា firewall ឬប្រព័ន្ធជម្រកសុវត្ថិភាពដែលរាំងខ្ទប់ការតភ្ជាប់។ សូមពិនិត្យការតភ្ជាប់បណ្ដាញ ឬទាក់ទងការគាំទ្រ IT។</value>
+    <value>ការឆ្លើយតបដែលទទួលបានហាក់ដូចជាមិនមកពីម៉ាស៊ីនមេ AGRID។ ជាទូទៅនេះកើតឡើងដោយพรុកស៊ី (proxy) បណ្ដាញ ដ៏ជា firewall ឬប្រព័ន្ធជម្រកសុវត្ថិភាពដែលរាំងខ្ទប់ការតភ្ជាប់។ សូមពិនិត្យការតភ្ជាប់បណ្ដាញ ឬទាក់ទងការគាំទ្រ IT។</value>
   </data>
   <data name="Dashboard_CompleteAssignment" xml:space="preserve">
     <value>បញ្ចប់</value>

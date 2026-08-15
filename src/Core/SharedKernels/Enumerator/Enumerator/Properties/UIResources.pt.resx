@@ -148,10 +148,10 @@
     <value>Entrar</value>
   </data>
   <data name="LoginTitleText" xml:space="preserve">
-    <value>Testador de Questionários do Survey Solutions</value>
+    <value>Testador de Questionários do AGRID</value>
   </data>
   <data name="ErrorMessage_Maintenance" xml:space="preserve">
-    <value>O site do Survey Solutions Designer está em modo de manutenção agora. Desculpe pela inconveniência</value>
+    <value>O site do AGRID Designer está em modo de manutenção agora. Desculpe pela inconveniência</value>
   </data>
   <data name="PrefilledQuestions_StartInterview" xml:space="preserve">
     <value>INICIAR</value>
@@ -169,10 +169,10 @@
     <value>Confirme a nova senha</value>
   </data>
   <data name="ErrorMessage_RequestTimeout" xml:space="preserve">
-    <value>Tempo esgotado ao conectar ao site do Survey Solutions Designer. Verifique sua conexão com a internet.</value>
+    <value>Tempo esgotado ao conectar ao site do AGRID Designer. Verifique sua conexão com a internet.</value>
   </data>
   <data name="ErrorMessage_ServiceUnavailable" xml:space="preserve">
-    <value>Sem conexão com o Survey Solutions Designer. Por favor, certifique-se de que o site está disponível.</value>
+    <value>Sem conexão com o AGRID Designer. Por favor, certifique-se de que o site está disponível.</value>
   </data>
   <data name="StaySignedInText" xml:space="preserve">
     <value>Permanecer conectado</value>
@@ -291,7 +291,7 @@
   <data name="Dashboard_EmptyQuestionnairesList" xml:space="preserve">
     <value>Ainda não há questionários.
 
-Você pode criar ou editar seus questionários no Survey Solutions Designer</value>
+Você pode criar ou editar seus questionários no AGRID Designer</value>
   </data>
   <data name="TextListQuestion_Hint" xml:space="preserve">
     <value>Toque para inserir novo item</value>
@@ -312,7 +312,7 @@ Você pode criar ou editar seus questionários no Survey Solutions Designer</val
     <value>Aplicativo de navegação não encontrado</value>
   </data>
   <data name="ErrorMessage_InvalidEndpoint" xml:space="preserve">
-    <value>A URL fornecida do Survey Solutions Designer é inválida. Verifique as configurações.</value>
+    <value>A URL fornecida do AGRID Designer é inválida. Verifique as configurações.</value>
   </data>
   <data name="Interview_LinkedQuestion_Empty" xml:space="preserve">
     <value>As categorias aparecerão apenas após responder à pergunta que define as categorias desta pergunta.</value>
@@ -402,10 +402,10 @@ Você pode criar ou editar seus questionários no Survey Solutions Designer</val
     <value>Completo</value>
   </data>
   <data name="Interviewer_ApplicationName" xml:space="preserve">
-    <value>Entrevistador do Survey Solutions</value>
+    <value>Entrevistador do AGRID</value>
   </data>
   <data name="Supervisor_ApplicationName" xml:space="preserve">
-    <value>Supervisor do Survey Solutions</value>
+    <value>Supervisor do AGRID</value>
   </data>
   <data name="Interview_CompleteScreen_ButtonText" xml:space="preserve">
     <value>Para completar a tela</value>
@@ -567,7 +567,7 @@ Você pode criar ou editar seus questionários no Survey Solutions Designer</val
     <value>O aplicativo precisa de permissão para usar o microfone. Tente a última ação novamente e permita o acesso. Se você não vir o pop-up de permissões, vá para Configurações e permita que o aplicativo use o microfone.</value>
   </data>
   <data name="MissingPermissions_Storage_Global" xml:space="preserve">
-    <value>Para armazenar mapas no dispositivo móvel, o Survey Solutions precisa de acesso aos arquivos. Se essa permissão não for concedida, o aplicativo não poderá armazenar nenhum mapa para uso offline.</value>
+    <value>Para armazenar mapas no dispositivo móvel, o AGRID precisa de acesso aos arquivos. Se essa permissão não for concedida, o aplicativo não poderá armazenar nenhum mapa para uso offline.</value>
   </data>
   <data name="MissingPermission" xml:space="preserve">
     <value>O aplicativo não tem permissões suficientes para executar a ação solicitada</value>

@@ -163,7 +163,7 @@
     <value>Время ожидания при общении с сервером</value>
   </data>
   <data name="Prefs_DesignerEndPointSummary" xml:space="preserve">
-    <value>URL для подключения к приложению Survey Solutions Designer</value>
+    <value>URL для подключения к приложению AGRID Designer</value>
   </data>
   <data name="Prefs_ConnectionSettings" xml:space="preserve">
     <value>Настройки подключения</value>
@@ -209,7 +209,7 @@
     <value>Версия: {0}</value>
   </data>
   <data name="ImportQuestionnaire_Error_PreconditionFailed" xml:space="preserve">
-    <value>Невозможно открыть опросник {0}. Опросник содержит ошибки. Исправьте, пожалуйста, их в Survey Solutions Designer.</value>
+    <value>Невозможно открыть опросник {0}. Опросник содержит ошибки. Исправьте, пожалуйста, их в AGRID Designer.</value>
   </data>
   <data name="Prefs_VersionTitle" xml:space="preserve">
     <value>Версия приложения</value>

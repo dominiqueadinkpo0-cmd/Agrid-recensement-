@@ -124,7 +124,7 @@
     <value>Zkontrolujte, zda je v zařízení garanta zapnuta WiFi a Bluetooth a zda tablety jsou v těsné blízkosti</value>
   </data>
   <data name="SendToSupervisor_ConnectionFailed" xml:space="preserve">
-    <value>Jsou tazatelské a garantské zařízení v těsné blízkosti; WiFi a Bluetooth by měly být povoleny na obou zařízeních; Aplikace Garant Survey Solutions by měla být otevřena na garantském zařízení</value>
+    <value>Jsou tazatelské a garantské zařízení v těsné blízkosti; WiFi a Bluetooth by měly být povoleny na obou zařízeních; Aplikace Garant AGRID by měla být otevřena na garantském zařízení</value>
   </data>
   <data name="SendToSupervisor_DeviceConnectionAccepted" xml:space="preserve">
     <value>Připojeno ke garantskému zařízení</value>

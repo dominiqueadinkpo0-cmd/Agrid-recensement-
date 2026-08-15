@@ -214,7 +214,7 @@
     <value>您可以浏览以下调查中的访谈：“%QUESTIONNAIRE%”</value>
   </data>
   <data name="Resume_WelcomeText" xml:space="preserve">
-    <value>您好，欢迎使用Survey Solutions网络访谈</value>
+    <value>您好，欢迎使用AGRID网络访谈</value>
   </data>
   <data name="ServerUnderLoad" xml:space="preserve">
     <value>非常抱歉，同时访问网站的人的太多。我们正在解决这个问题。请稍后再试。</value>
@@ -232,10 +232,10 @@
     <value>进行访谈</value>
   </data>
   <data name="WebSurvey" xml:space="preserve">
-    <value>Survey Solutions网络访谈</value>
+    <value>AGRID网络访谈</value>
   </data>
   <data name="WelcomeText" xml:space="preserve">
-    <value>您好，欢迎使用Survey Solutions网络访谈</value>
+    <value>您好，欢迎使用AGRID网络访谈</value>
   </data>
 
 

@@ -220,7 +220,7 @@
     <value>Puede navegar a la entrevista en la siguiente encuesta: "%QUESTIONNAIRE%"</value>
   </data>
   <data name="Resume_WelcomeText" xml:space="preserve">
-    <value>Hola y bienvenido a la Encuesta Web  de Survey Solutions</value>
+    <value>Hola y bienvenido a la Encuesta Web  de AGRID</value>
   </data>
   <data name="ServerUnderLoad" xml:space="preserve">
     <value>Lo sentimos, demasiadas personas están accediendo a este sitio web al mismo tiempo. Estamos trabajando en este problema. Por favor, inténtelo de nuevo más tarde.</value>
@@ -238,10 +238,10 @@
     <value>Entrevistar</value>
   </data>
   <data name="WebSurvey" xml:space="preserve">
-    <value>Encuesta Web de Survey Solutions</value>
+    <value>Encuesta Web de AGRID</value>
   </data>
   <data name="WelcomeText" xml:space="preserve">
-    <value>Hola y bienvenido a la Encuesta Web de Survey Solutions</value>
+    <value>Hola y bienvenido a la Encuesta Web de AGRID</value>
   </data>
   <data name="CompleteInterview" xml:space="preserve">
     <value>Entrevista completada</value>

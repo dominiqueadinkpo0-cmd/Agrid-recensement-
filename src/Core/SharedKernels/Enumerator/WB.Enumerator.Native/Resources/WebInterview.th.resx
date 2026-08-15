@@ -47,8 +47,8 @@
   <data name="RefreshPage" xml:space="preserve"><value>รีเฟรชหน้า</value></data>
   <data name="InvitationSmallText" xml:space="preserve"><value>กระบวนการสัมภาษณ์ต้องการการเชื่อมต่ออินเทอร์เน็ต ไม่จำเป็นต้องใช้ซอฟต์แวร์เพิ่มเติม</value></data>
   <data name="InvitationText" xml:space="preserve"><value>คุณได้รับเชิญให้มีส่วนร่วมในการสำรวจต่อไปนี้: "%QUESTIONNAIRE%"</value></data>
-  <data name="WelcomeText" xml:space="preserve"><value>สวัสดีและยินดีต้อนรับสู่การสำรวจทางเว็บของ Survey Solutions</value></data>
-  <data name="WebSurvey" xml:space="preserve"><value>การสำรวจทางเว็บของ Survey Solutions</value></data>
+  <data name="WelcomeText" xml:space="preserve"><value>สวัสดีและยินดีต้อนรับสู่การสำรวจทางเว็บของ AGRID</value></data>
+  <data name="WebSurvey" xml:space="preserve"><value>การสำรวจทางเว็บของ AGRID</value></data>
   <data name="CompletionText" xml:space="preserve"><value>การสัมภาษณ์นี้เสร็จสมบูรณ์แล้ว</value></data>
   <data name="InProgressText" xml:space="preserve"><value>กำลังดำเนินการ</value></data>
   <data name="NotStartedText" xml:space="preserve"><value>ยังไม่เริ่ม</value></data>
@@ -72,7 +72,7 @@
   <data name="HasPreviousStartedInterview" xml:space="preserve"><value>คุณเริ่มการสัมภาษณ์แล้ว</value></data>
   <data name="Resume_InvitationSmallText" xml:space="preserve"><value>กระบวนการสัมภาษณ์ต้องการการเชื่อมต่ออินเทอร์เน็ต ไม่จำเป็นต้องใช้ซอฟต์แวร์เพิ่มเติม</value></data>
   <data name="Resume_InvitationText" xml:space="preserve"><value>คุณสามารถนำทางไปยังการสัมภาษณ์ในการสำรวจต่อไปนี้: "%QUESTIONNAIRE%"</value></data>
-  <data name="Resume_WelcomeText" xml:space="preserve"><value>สวัสดีและยินดีต้อนรับสู่การสำรวจทางเว็บของ Survey Solutions</value></data>
+  <data name="Resume_WelcomeText" xml:space="preserve"><value>สวัสดีและยินดีต้อนรับสู่การสำรวจทางเว็บของ AGRID</value></data>
   <data name="Error_InterviewExpired" xml:space="preserve"><value>ลิงก์หมดอายุแล้ว</value></data>
   <data name="Error_NoActionsNeeded" xml:space="preserve"><value>ข้อมูลเกี่ยวกับการสัมภาษณ์นั้นได้รับการบันทึกแล้ว ไม่จำเป็นต้องดำเนินการเพิ่มเติม</value></data>
   <data name="InterviewReceivedByInterviewer" xml:space="preserve"><value>ไม่สามารถแก้ไขการสัมภาษณ์ที่ได้รับโดยอุปกรณ์</value></data>

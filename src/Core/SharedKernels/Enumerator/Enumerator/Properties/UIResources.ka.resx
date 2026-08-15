@@ -177,7 +177,7 @@
   <data name="Dashboard_EmptyQuestionnairesList" xml:space="preserve">
     <value>ჯერ არცერთი კითხვარი
 
-თქვენ შეგიძლიათ შექმნათ ან რედაქტირება გაუკეთოთ თქვენს კითხვარებს Survey Solutions Designer-ში</value>
+თქვენ შეგიძლიათ შექმნათ ან რედაქტირება გაუკეთოთ თქვენს კითხვარებს AGRID Designer-ში</value>
   </data>
   <data name="Dashboard_EmptySearchResult" xml:space="preserve">
     <value>კითხვარები არ არის ნაპოვნი</value>
@@ -213,16 +213,16 @@
     <value>სერვერის შეცდომა. დაუკავშირდით მხარდაჭერის გუნდს.</value>
   </data>
   <data name="ErrorMessage_InvalidEndpoint" xml:space="preserve">
-    <value>მოცემული Survey Solutions Designer-ის ვებ-მისამართი არასწორია. შეამოწმეთ პარამეტრები</value>
+    <value>მოცემული AGRID Designer-ის ვებ-მისამართი არასწორია. შეამოწმეთ პარამეტრები</value>
   </data>
   <data name="ErrorMessage_Maintenance" xml:space="preserve">
-    <value>Survey Solutions Designer-ის ვებ-გვერდზე მიმდინარეობს ტექნიკური სამუშაოები, რისთვისაც ბოდიშს გიხდით </value>
+    <value>AGRID Designer-ის ვებ-გვერდზე მიმდინარეობს ტექნიკური სამუშაოები, რისთვისაც ბოდიშს გიხდით </value>
   </data>
   <data name="ErrorMessage_RequestTimeout" xml:space="preserve">
-    <value>Survey Solutions Designer-ის ვებ-გვერდზე დაკავშირებისას ამოიწურა დრო. შეამოწმეთ ინტერნეტ კავშირი</value>
+    <value>AGRID Designer-ის ვებ-გვერდზე დაკავშირებისას ამოიწურა დრო. შეამოწმეთ ინტერნეტ კავშირი</value>
   </data>
   <data name="ErrorMessage_ServiceUnavailable" xml:space="preserve">
-    <value>კავშირი არაა Survey Solutions Designer-ის ვებ-გვერდზე. დარწმუნდით, რომ ვებ-გვერდი არსებობს</value>
+    <value>კავშირი არაა AGRID Designer-ის ვებ-გვერდზე. დარწმუნდით, რომ ვებ-გვერდი არსებობს</value>
   </data>
   <data name="ErrorMessage_Unauthorized" xml:space="preserve">
     <value>თქვენი მომხმარებლის სახელი ან პაროლი არასწორია</value>
@@ -420,7 +420,7 @@
     <value>ზედამხედველის კომენტარი</value>
   </data>
   <data name="Interviewer_ApplicationName" xml:space="preserve">
-    <value>Survey Solutions ინტერვიუერი</value>
+    <value>AGRID ინტერვიუერი</value>
   </data>
   <data name="Interviewer_AudioRecording" xml:space="preserve">
     <value>აუდიო-ჩაწერა</value>
@@ -456,7 +456,7 @@
     <value>შესვლა</value>
   </data>
   <data name="LoginTitleText" xml:space="preserve">
-    <value>Survey Solutions კითხვარის ტესტერი</value>
+    <value>AGRID კითხვარის ტესტერი</value>
   </data>
   <data name="MenuItem_Title_AreaCancel" xml:space="preserve">
     <value>რუკების ედიტორიდან გამოსვლა</value>
@@ -662,7 +662,7 @@
   </data>
 
   <data name="Supervisor_ApplicationName" xml:space="preserve">
-    <value>Survey Solutions ზედამხედველი</value>
+    <value>AGRID ზედამხედველი</value>
   </data>
 
   <data name="Interviewer_Reassign_Comment" xml:space="preserve">

@@ -248,7 +248,7 @@ for further instructions</value>
     <value>Wrong password</value>
   </data>
   <data name="Maintenance" xml:space="preserve">
-    <value>The website of Survey Solutions Supervisor is on maintenance. Sorry for the inconvenience</value>
+    <value>The website of AGRID Supervisor is on maintenance. Sorry for the inconvenience</value>
   </data>
   <data name="NoNetwork" xml:space="preserve">
     <value>No network. Check your network settings</value>
@@ -296,10 +296,10 @@ for further instructions</value>
     <value>Request cancelled by user</value>
   </data>
   <data name="RequestTimeout" xml:space="preserve">
-    <value>Timeout when connecting to the Survey Solutions Supervisor website. Check your internet connection.</value>
+    <value>Timeout when connecting to the AGRID Supervisor website. Check your internet connection.</value>
   </data>
   <data name="ServiceUnavailable" xml:space="preserve">
-    <value>No connection to the Survey Solutions Supervisor. Please make sure that the website is available.</value>
+    <value>No connection to the AGRID Supervisor. Please make sure that the website is available.</value>
   </data>
   <data name="Synchronization_Cancel" xml:space="preserve">
     <value>Cancel</value>
@@ -1038,7 +1038,7 @@ It will appear on interviewer device after next synchronization</value>
       <value>You have used Geo Tracking or Geo Fencing when creating an interview. Please enabled it again if you want to use it.</value>
   </data>
   <data name="CommunicationIntegrityFailed" xml:space="preserve">
-      <value>The response received does not appear to come from the Survey Solutions server. This is usually caused by a network proxy, firewall, or security gateway intercepting the connection. Please check your network connection or contact your IT support.</value>
+      <value>The response received does not appear to come from the AGRID server. This is usually caused by a network proxy, firewall, or security gateway intercepting the connection. Please check your network connection or contact your IT support.</value>
   </data>
   <data name="Dashboard_CompleteAssignment" xml:space="preserve">
     <value>Complete</value>

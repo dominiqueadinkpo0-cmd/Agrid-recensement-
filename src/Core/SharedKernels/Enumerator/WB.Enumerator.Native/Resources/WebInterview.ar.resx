@@ -223,7 +223,7 @@
     <value>يمكنك الانتقال إلى الاستجواب في المسح التالي: "%QUESTIONNAIRE%"</value>
   </data>
   <data name="Resume_WelcomeText" xml:space="preserve">
-    <value>مرحباً وأهلاً بك في المسح الإلكتروني من Survey Solutions </value>
+    <value>مرحباً وأهلاً بك في المسح الإلكتروني من AGRID </value>
   </data>
   <data name="ServerUnderLoad" xml:space="preserve">
     <value>عذراً، عدد كبير من الناس يتصلون بهذا الموقع  معاً في آنٍ واحد.  نحن نعمل على حل هذه المشكلة.  ترجى المحاولة لاحقاً.</value>
@@ -250,10 +250,10 @@
     <value>للاستجواب</value>
   </data>
   <data name="WebSurvey" xml:space="preserve">
-    <value>الاستجواب الإلكتروني من Survey Solutions </value>
+    <value>الاستجواب الإلكتروني من AGRID </value>
   </data>
   <data name="WelcomeText" xml:space="preserve">
-    <value>مرحباً وأهلاً بك في المسح الإلكتروني من Survey Solutions </value>
+    <value>مرحباً وأهلاً بك في المسح الإلكتروني من AGRID </value>
   </data>
   <data name="PoweredBy" xml:space="preserve">
     <value>مشغل بواسطة</value>

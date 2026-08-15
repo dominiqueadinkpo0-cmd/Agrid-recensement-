@@ -166,10 +166,10 @@
     <value>Vous avez été invité à participer à l'enquête suivante: "%QUESTIONNAIRE%"</value>
   </data>
   <data name="WelcomeText" xml:space="preserve">
-    <value>Bonjour et bienvenue dans l'enquête Web Survey Solutions</value>
+    <value>Bonjour et bienvenue dans l'enquête Web AGRID</value>
   </data>
   <data name="WebSurvey" xml:space="preserve">
-    <value>Enquête Web Survey Solutions</value>
+    <value>Enquête Web AGRID</value>
   </data>
   <data name="CompletionText" xml:space="preserve">
     <value>Cet entretien a été achevé</value>
@@ -260,7 +260,7 @@
   </data>
   <data name="Resume_WelcomeText" xml:space="preserve">
 
-    <value>Bonjour et bienvenue dans l'enquête Web Survey Solutions</value>
+    <value>Bonjour et bienvenue dans l'enquête Web AGRID</value>
   </data>
   <data name="Error_InterviewExpired" xml:space="preserve">
 

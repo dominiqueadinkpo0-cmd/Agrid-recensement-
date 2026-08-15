@@ -123,7 +123,7 @@
   <data name="Dashboard_EmptyQuestionnairesList" xml:space="preserve">
       <value>Ще немає анкет. 
 
-Ви можете створювати або редагувати свої анкети в Survey Solutions Designer</value>
+Ви можете створювати або редагувати свої анкети в AGRID Designer</value>
   </data>
   <data name="Dashboard_EmptySearchResult" xml:space="preserve">
     <value>Анкет не знайдено</value>
@@ -159,16 +159,16 @@
     <value>Помилка сервера. Будь ласка, зверніться до служби підтримки</value>
   </data>
   <data name="ErrorMessage_InvalidEndpoint" xml:space="preserve">
-    <value>Надана URL-адреса Survey Solutions Designer є невірною. Перевірте налаштування.</value>
+    <value>Надана URL-адреса AGRID Designer є невірною. Перевірте налаштування.</value>
   </data>
   <data name="ErrorMessage_Maintenance" xml:space="preserve">
-    <value>Сайт Survey Solutions Designer зараз знаходиться в режимі технічного обслуговування. Вибачте за незручності</value>
+    <value>Сайт AGRID Designer зараз знаходиться в режимі технічного обслуговування. Вибачте за незручності</value>
   </data>
   <data name="ErrorMessage_RequestTimeout" xml:space="preserve">
-    <value>Тайм-аут під час підключення до веб-сайту Survey Solutions Designer. Перевірте підключення до Інтернету.</value>
+    <value>Тайм-аут під час підключення до веб-сайту AGRID Designer. Перевірте підключення до Інтернету.</value>
   </data>
   <data name="ErrorMessage_ServiceUnavailable" xml:space="preserve">
-    <value>Немає зв'язку з Survey Solutions Designer. Переконайтеся, що веб-сайт доступний.</value>
+    <value>Немає зв'язку з AGRID Designer. Переконайтеся, що веб-сайт доступний.</value>
   </data>
   <data name="ErrorMessage_Unauthorized" xml:space="preserve">
     <value>Ваш логін або пароль невірні</value>
@@ -186,7 +186,7 @@
     <value>Натисніть, щоб ввести номер</value>
   </data>
   <data name="Interviewer_ApplicationName" xml:space="preserve">
-    <value>Survey Solutions Interviewer</value>
+    <value>AGRID Interviewer</value>
   </data>
   <data name="Interviewer_RelinkDevice_Cancel" xml:space="preserve">
     <value>Скасувати</value>
@@ -336,7 +336,7 @@
       <value>Увійти</value>
   </data>
   <data name="LoginTitleText" xml:space="preserve">
-    <value>Survey Solutions Tester</value>
+    <value>AGRID Tester</value>
   </data>
   <data name="No" xml:space="preserve">
     <value>Ні</value>
@@ -427,7 +427,7 @@
       <value>Додаток повинен мати дозвіл на використання мікрофона. Повторіть останню дію і дозвольте доступ. Якщо ви не бачите спливаюче вікно з дозволами, перейдіть до налаштувань і дозвольте програмі використовувати мікрофон.</value>
   </data>
   <data name="MissingPermissions_Storage_Global" xml:space="preserve">
-      <value>Щоб зберігати карти на мобільному пристрої, Survey Solutions потрібен доступ до файлів. Якщо цей дозвіл не надано, застосунок не зможе зберігати карти для офлайн-використання.</value>
+      <value>Щоб зберігати карти на мобільному пристрої, AGRID потрібен доступ до файлів. Якщо цей дозвіл не надано, застосунок не зможе зберігати карти для офлайн-використання.</value>
   </data>
   <data name="Adjust" xml:space="preserve">
     <value>Налаштувати</value>
@@ -856,7 +856,7 @@
     <value>Вібрувати, коли дається невірна відповідь</value>
   </data>
   <data name="Supervisor_ApplicationName" xml:space="preserve">
-    <value>Survey Solutions Supervisor</value>
+    <value>AGRID Supervisor</value>
   </data>
   <data name="Supervisor_Complete_Approve_btn" xml:space="preserve">
     <value>Схвалити</value>

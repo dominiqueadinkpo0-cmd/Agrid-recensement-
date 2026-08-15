@@ -363,7 +363,7 @@
     <value>არასწორი პაროლი</value>
   </data>
   <data name="Maintenance" xml:space="preserve">
-    <value>Survey Solutions Supervisor-ის ვებ-გვერდი დროებით მიუწვდომელია. ბოდიშს გიხდით შეფერხებისთვის</value>
+    <value>AGRID Supervisor-ის ვებ-გვერდი დროებით მიუწვდომელია. ბოდიშს გიხდით შეფერხებისთვის</value>
   </data>
   <data name="MenuItem_Title_Dashboard" xml:space="preserve">
     <value>პარამეტრების დაფა</value>
@@ -441,10 +441,10 @@
     <value>მოთხოვნა უარყოფილია მომხმარებლის მიერ</value>
   </data>
   <data name="RequestTimeout" xml:space="preserve">
-    <value>Survey Solutions Supervisor-ის ვებ-გვერდთან წვდომის დროს დაყოვნება. გადაამოწმეთ ინტერნეტთან კავშირი</value>
+    <value>AGRID Supervisor-ის ვებ-გვერდთან წვდომის დროს დაყოვნება. გადაამოწმეთ ინტერნეტთან კავშირი</value>
   </data>
   <data name="ServiceUnavailable" xml:space="preserve">
-    <value>არ არის კავშირი Survey Solutions Supervisor-ის ვებ-გვერდთან. გადაამოწმეთ, არსებობს თუ არა ვებ-გვერდი</value>
+    <value>არ არის კავშირი AGRID Supervisor-ის ვებ-გვერდთან. გადაამოწმეთ, არსებობს თუ არა ვებ-გვერდი</value>
   </data>
   <data name="Share_to_Title" xml:space="preserve">
     <value>გააზიარეთ ინფორმაცია...</value>
@@ -645,7 +645,7 @@
     <value>გაფრთხილება</value>
   </data>
   <data name="CommunicationIntegrityFailed" xml:space="preserve">
-    <value>დაავადება მიღებული პასუხი არ ჩანს სარეალარ(server) Survey Solutions. ეს ჩვეულებრივია გამოწვეული ქსელის პროქსით, ფაიერვოლით ან უსაფრთხოების გეითვეით, რომელიც ამარენტებს კავშირს. გთხოვთ შეამოწმოთ თქვენი ქსელის კავშირი ან დაუკავშირდით IT მხარდაჭერას.</value>
+    <value>დაავადება მიღებული პასუხი არ ჩანს სარეალარ(server) AGRID. ეს ჩვეულებრივია გამოწვეული ქსელის პროქსით, ფაიერვოლით ან უსაფრთხოების გეითვეით, რომელიც ამარენტებს კავშირს. გთხოვთ შეამოწმოთ თქვენი ქსელის კავშირი ან დაუკავშირდით IT მხარდაჭერას.</value>
   </data>
   <data name="Dashboard_CompleteAssignment" xml:space="preserve">
     <value>დასრულება</value>

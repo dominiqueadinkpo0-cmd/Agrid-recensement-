@@ -127,7 +127,7 @@
     <value>บัญชีผู้ใช้ไม่ได้รับการอนุมัติ กรุณาติดต่อ Supervisor</value>
   </data>
   <data name="ApplicationIncompatibleWithServer" xml:space="preserve">
-    <value>เวอร์ชันที่ใช้อยู่ไม่ตรงกับเซิร์ฟเวอร์ กรุณาปรับปรุง Survey Solutions Interviewer</value>
+    <value>เวอร์ชันที่ใช้อยู่ไม่ตรงกับเซิร์ฟเวอร์ กรุณาปรับปรุง AGRID Interviewer</value>
   </data>
   <data name="Dashboard_CompletedLinkText" xml:space="preserve">
     <value>เสร็จสมบูรณ์ : ({0})</value>
@@ -187,7 +187,7 @@
     <value>เซิร์ฟเวอร์ผิดพลาด. โปรดติดต่อผู้ดูแลเซิร์ฟเวอร์ของคุณ</value>
   </data>
   <data name="InvalidEndpoint" xml:space="preserve">
-    <value>แอดเดรสของเว็บไซต์ Survey Solutions Supervisor ไม่ถูกต้อง กรุณาระบุแอดเดรสที่ถูกต้อง</value>
+    <value>แอดเดรสของเว็บไซต์ AGRID Supervisor ไม่ถูกต้อง กรุณาระบุแอดเดรสที่ถูกต้อง</value>
   </data>
   <data name="Login_FinishInstallation_Message" xml:space="preserve">
     <value>สำหรับการใช้งานเครื่องครั้งแรก ชื่อผู้ใช้และโดเมนยังไม่ได้ถูกกำหนด ต้องเชื่อมต่ออินเทอร์เน็ตเพื่อดำเนินการต่อไป</value>
@@ -202,7 +202,7 @@
     <value>รหัสผ่านไม่ถูกต้อง</value>
   </data>
   <data name="Maintenance" xml:space="preserve">
-    <value>เว็บไซต์ Survey Solutions Supervisor อยู่ระหว่างการบำรุงรักษา ขออภัยในความไม่สะดวก</value>
+    <value>เว็บไซต์ AGRID Supervisor อยู่ระหว่างการบำรุงรักษา ขออภัยในความไม่สะดวก</value>
   </data>
   <data name="MenuItem_Title_Dashboard" xml:space="preserve">
     <value>แดชบอร์ด</value>
@@ -226,7 +226,7 @@
     <value>เวอร์ชันของแอพพลิเคชัน</value>
   </data>
   <data name="Prefs_BufferSizeSummary" xml:space="preserve">
-    <value>ขนาดของแพคเกจ (ไบต์) ที่รับ/ส่ง จาก/ถึง Survey Solutions  Supervisor</value>
+    <value>ขนาดของแพคเกจ (ไบต์) ที่รับ/ส่ง จาก/ถึง AGRID  Supervisor</value>
   </data>
   <data name="Prefs_BufferSizeTitle" xml:space="preserve">
     <value>ขนาดของแพคเกจ </value>
@@ -238,7 +238,7 @@
     <value>หมายเลขเครื่องที่ใช้งาน :</value>
   </data>
   <data name="Prefs_EndpointTitle" xml:space="preserve">
-    <value>URL ของ Survey Solutions Supervisor </value>
+    <value>URL ของ AGRID Supervisor </value>
   </data>
   <data name="Prefs_GpsReceiveTimeoutSecSummary" xml:space="preserve">
     <value>จำนวนวินาทีในการจับพิกัด</value>
@@ -262,10 +262,10 @@
     <value>การร้องขอถูกยกเลิกโดยผู้ใช้งาน</value>
   </data>
   <data name="RequestTimeout" xml:space="preserve">
-    <value>หมดเวลาการเชื่อมต่อเว็บไซต์ Survey Solutions Supervisor กรุณาตรวจสอบการเชื่อมต่ออินเทอร์เน็ต</value>
+    <value>หมดเวลาการเชื่อมต่อเว็บไซต์ AGRID Supervisor กรุณาตรวจสอบการเชื่อมต่ออินเทอร์เน็ต</value>
   </data>
   <data name="ServiceUnavailable" xml:space="preserve">
-    <value>ไม่สามารถเชื่อมต่อกับเว็บไซต์ Survey Solutions Supervisor กรุณาตรวจสอบให้แน่ใจว่าเว็บไซต์พร้อมใช้งาน</value>
+    <value>ไม่สามารถเชื่อมต่อกับเว็บไซต์ AGRID Supervisor กรุณาตรวจสอบให้แน่ใจว่าเว็บไซต์พร้อมใช้งาน</value>
   </data>
   <data name="Synchronization_Cancel" xml:space="preserve">
     <value>ยกเลิก</value>
@@ -370,7 +370,7 @@
     <value>มีเวอร์ชันใหม่แล้ว คุณต้องการดาวน์โหลดและปรับปรุง Survey solution Interviewer หรือไม่</value>
   </data>
   <data name="Troubleshooting_NoNewVersion" xml:space="preserve">
-    <value>คุณใช้ Survey Solutions Interviewer เวอร์ชันล่าสุดแล้ว</value>
+    <value>คุณใช้ AGRID Interviewer เวอร์ชันล่าสุดแล้ว</value>
   </data>
   <data name="Troubleshooting_Old_AreYouSureYouWantToRestore" xml:space="preserve">
     <value>ข้อมูลปัจจุบันทั้งหมดจะถูกลบ คุณต้องการกู้คืนข้อมูลหรือไม่ ถ้าใช่ กรุณาตรวจสอบว่าข้อมูลที่กู้คืนอยู่ที่ {0}</value>
@@ -427,7 +427,7 @@
     <value>ข้อผิดพลาดที่นอกเหนือจากที่คาดการณ์ไว้</value>
   </data>
   <data name="UpgradeRequired" xml:space="preserve">
-    <value>มีเวอร์ชันใหม่แล้ว กรุณาปรับปรุง Survey Solutions Interviewer</value>
+    <value>มีเวอร์ชันใหม่แล้ว กรุณาปรับปรุง AGRID Interviewer</value>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>คำเตือน</value>
@@ -436,7 +436,7 @@
       <value>ตรวจพบเวอร์ชันที่เข้ากันไม่ได้ โปรดติดต่อหัวหน้าของคุณเพื่อแก้ไขปัญหา</value>
   </data>
   <data name="CommunicationIntegrityFailed" xml:space="preserve">
-    <value>การตอบกลับที่ได้รับดูเหมือนไม่มาจากเซิร์ฟเวอร์ Survey Solutions โดยปกติสถานะนี้เกิดจากพร็อกซีเครือข่าย ไฟร์วอลล์ หรือเกตเวย์ความปลอดภัยที่ดักจับการเชื่อมต่อ กรุณาตรวจสอบการเชื่อมต่อเครือข่ายหรือ ติดต่อฝ่ายไอทีของคุณ</value>
+    <value>การตอบกลับที่ได้รับดูเหมือนไม่มาจากเซิร์ฟเวอร์ AGRID โดยปกติสถานะนี้เกิดจากพร็อกซีเครือข่าย ไฟร์วอลล์ หรือเกตเวย์ความปลอดภัยที่ดักจับการเชื่อมต่อ กรุณาตรวจสอบการเชื่อมต่อเครือข่ายหรือ ติดต่อฝ่ายไอทีของคุณ</value>
   </data>
   <data name="Dashboard_CompleteAssignment" xml:space="preserve">
     <value>เสร็จสิ้น</value>

@@ -139,10 +139,10 @@
     <value>Войти</value>
   </data>
   <data name="LoginTitleText" xml:space="preserve">
-    <value>Survey Solutions Questionnaire Tester</value>
+    <value>AGRID Questionnaire Tester</value>
   </data>
   <data name="ErrorMessage_Maintenance" xml:space="preserve">
-    <value>The website of survey solutions designer is in maintenance mode now. Sorry for the inconvenience</value>
+    <value>The website of agrid designer is in maintenance mode now. Sorry for the inconvenience</value>
   </data>
   <data name="PasswordHint" xml:space="preserve">
     <value>Пароль</value>
@@ -157,10 +157,10 @@
     <value>Подтвердите новый пароль</value>
   </data>
   <data name="ErrorMessage_RequestTimeout" xml:space="preserve">
-    <value>Время ожидания ответа от сервера Survey Solutions Designer истекло. Пожалуйста, проверьте Ваше интернет соединение.</value>
+    <value>Время ожидания ответа от сервера AGRID Designer истекло. Пожалуйста, проверьте Ваше интернет соединение.</value>
   </data>
   <data name="ErrorMessage_ServiceUnavailable" xml:space="preserve">
-    <value>Нет связи с Survey Solutions Designer.</value>
+    <value>Нет связи с AGRID Designer.</value>
   </data>
   <data name="StaySignedInText" xml:space="preserve">
     <value>Запомнить меня</value>
@@ -256,7 +256,7 @@
     <value>Не найдено приложение карт</value>
   </data>
   <data name="ErrorMessage_InvalidEndpoint" xml:space="preserve">
-    <value>Указан неверный адрес Survey Solutions Designer. Проверьте настройки.</value>
+    <value>Указан неверный адрес AGRID Designer. Проверьте настройки.</value>
   </data>
   <data name="Interview_LinkedQuestion_Empty" xml:space="preserve">
     <value>Опции будут доступны после ответа на соответствующий вопрос</value>
@@ -273,7 +273,7 @@
   <data name="Dashboard_EmptyQuestionnairesList" xml:space="preserve">
       <value>Опросники не обнаружены. 
 
-Вы можете создать или отредактировать свои опросники при помощи сервиса Survey Solutions Designer</value>
+Вы можете создать или отредактировать свои опросники при помощи сервиса AGRID Designer</value>
   </data>
   <data name="Interview_Group_Status_NotStarted" xml:space="preserve">
     <value>Секция не содержит ни одного ответа</value>
@@ -408,7 +408,7 @@
     <value>У вас нет ни одного интервью на устройстве. Отправьте информацию о таблете, очистите данные приложения и войдите под другой учетной записью</value>
   </data>
   <data name="Interviewer_ApplicationName" xml:space="preserve">
-    <value>Survey Solutions Interviewer</value>
+    <value>AGRID Interviewer</value>
   </data>
   <data name="Interviewer_TryOnlineLogin" xml:space="preserve">
     <value>Попробуйте войти онлайн</value>
@@ -729,7 +729,7 @@
     <value>Максимальное число опций ({0}) для вопроса выбрано</value>
   </data>
   <data name="Supervisor_ApplicationName" xml:space="preserve">
-    <value>Survey Solutions Supervisor</value>
+    <value>AGRID Supervisor</value>
   </data>
   <data name="Interview_Overview_NotAnswered" xml:space="preserve">
     <value>Не отвечен</value>
@@ -859,7 +859,7 @@
     <value>Приложению необходим доступ к микрофону.</value>
   </data>
   <data name="MissingPermissions_Storage_Global" xml:space="preserve">
-    <value>Для сохранения карт на мобильном устройстве Survey Solutions нужен доступ к файлам. Если это разрешение не предоставлено, приложение не сможет сохранять карты для офлайн-использования.</value>
+    <value>Для сохранения карт на мобильном устройстве AGRID нужен доступ к файлам. Если это разрешение не предоставлено, приложение не сможет сохранять карты для офлайн-использования.</value>
   </data>
   <data name="Comment" xml:space="preserve">
     <value>Комментарий</value>

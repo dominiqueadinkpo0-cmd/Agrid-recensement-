@@ -220,7 +220,7 @@
     <value>Ваша учетная запись не подтверждена. Обратитесь к Вашему супервизору.</value>
   </data>
   <data name="CommunicationIntegrityFailed" xml:space="preserve">
-    <value>Полученный ответ не выглядит исходящим с сервера Survey Solutions. Обычно это вызвано перехватом соединения сетевым прокси, брандмауэром или шлюзом безопасности. Пожалуйста, проверьте сетевое соединение или обратитесь в службу ИТ-поддержки.</value>
+    <value>Полученный ответ не выглядит исходящим с сервера AGRID. Обычно это вызвано перехватом соединения сетевым прокси, брандмауэром или шлюзом безопасности. Пожалуйста, проверьте сетевое соединение или обратитесь в службу ИТ-поддержки.</value>
   </data>
   <data name="ApplicationIncompatibleWithServer" xml:space="preserve">
     <value>Ваше приложение не совместимо с приложением супервизора. Обновите Ваше приложение Interviewer.</value>
@@ -265,7 +265,7 @@
     <value>Неверный пароль</value>
   </data>
   <data name="Maintenance" xml:space="preserve">
-    <value>Сайт Survey Solutions Supervisor находится на техническом обслуживании. Извините за доставленные неудобства</value>
+    <value>Сайт AGRID Supervisor находится на техническом обслуживании. Извините за доставленные неудобства</value>
   </data>
   <data name="NoNetwork" xml:space="preserve">
     <value>Нет подключения к сети. Проверьте настройки сети</value>
@@ -488,7 +488,7 @@
     <value>Отменить</value>
   </data>
   <data name="ServiceUnavailable" xml:space="preserve">
-    <value>Невозможно подключиться к Survey Solutions Supervisor. Убедитесь, что сайт доступен.</value>
+    <value>Невозможно подключиться к AGRID Supervisor. Убедитесь, что сайт доступен.</value>
   </data>
   <data name="Prefs_HttpResponseTimeoutTitle" xml:space="preserve">
     <value>Время ожидания ответа сервера</value>

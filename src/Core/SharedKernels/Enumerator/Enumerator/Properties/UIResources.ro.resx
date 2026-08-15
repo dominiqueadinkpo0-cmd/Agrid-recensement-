@@ -186,7 +186,7 @@
   <data name="Dashboard_EmptyQuestionnairesList" xml:space="preserve">
     <value>Nu există chestionare
 
-Puteți crea sau edita chestionare utilizând Survey Solutions Designer</value>
+Puteți crea sau edita chestionare utilizând AGRID Designer</value>
   </data>
   <data name="Dashboard_EmptySearchResult" xml:space="preserve">
     <value>Nu a fost găsit niciun chestionar</value>
@@ -222,16 +222,16 @@ Puteți crea sau edita chestionare utilizând Survey Solutions Designer</value>
     <value>Eroare de server. Vă rugăm să contactați echipa de suport</value>
   </data>
   <data name="ErrorMessage_InvalidEndpoint" xml:space="preserve">
-    <value>Adresa URL introdusă pentru Survey Solutions Designer nu este validă. Verificați setările.</value>
+    <value>Adresa URL introdusă pentru AGRID Designer nu este validă. Verificați setările.</value>
   </data>
   <data name="ErrorMessage_Maintenance" xml:space="preserve">
-    <value>Site-ul Survey Solutions Designer este în mod mentenanță acum. Ne cerem scuze pentru inconvenient</value>
+    <value>Site-ul AGRID Designer este în mod mentenanță acum. Ne cerem scuze pentru inconvenient</value>
   </data>
   <data name="ErrorMessage_RequestTimeout" xml:space="preserve">
-    <value>Eroare de conexiune la site-ul Survey Solutions Designer. Verificați conexiunea la Internet.</value>
+    <value>Eroare de conexiune la site-ul AGRID Designer. Verificați conexiunea la Internet.</value>
   </data>
   <data name="ErrorMessage_ServiceUnavailable" xml:space="preserve">
-    <value>Nu se poate conecta la Survey Solutions Designer. Verificați disponibilitatea site-ului.</value>
+    <value>Nu se poate conecta la AGRID Designer. Verificați disponibilitatea site-ului.</value>
   </data>
   <data name="ErrorMessage_Unauthorized" xml:space="preserve">
     <value>Numele de utilizator sau parola sunt incorecte</value>
@@ -252,7 +252,7 @@ Puteți crea sau edita chestionare utilizând Survey Solutions Designer</value>
     <value>Apăsați pentru a introduce numărul</value>
   </data>
   <data name="Interviewer_ApplicationName" xml:space="preserve">
-    <value>Intervievator Survey Solutions</value>
+    <value>Intervievator AGRID</value>
   </data>
   <data name="Interviewer_AudioRecording" xml:space="preserve">
     <value>Înregistrare audio</value>
@@ -480,7 +480,7 @@ Puteți crea sau edita chestionare utilizând Survey Solutions Designer</value>
     <value>Intră în cont</value>
   </data>
   <data name="LoginTitleText" xml:space="preserve">
-    <value>Tester de chestionare Survey Solutions</value>
+    <value>Tester de chestionare AGRID</value>
   </data>
   <data name="MenuItem_Title_AreaCancel" xml:space="preserve">
     <value>Ieșire Editor Hărți</value>
@@ -609,7 +609,7 @@ Puteți crea sau edita chestionare utilizând Survey Solutions Designer</value>
     <value>Atenționări</value>
   </data>
   <data name="Supervisor_ApplicationName" xml:space="preserve">
-    <value>Supervizor Survey Solutions</value>
+    <value>Supervizor AGRID</value>
   </data>
   <data name="Supervisor_Complete_Approve_btn" xml:space="preserve">
     <value>Aprobare</value>
@@ -717,7 +717,7 @@ Puteți crea sau edita chestionare utilizând Survey Solutions Designer</value>
     <value>Aplicația trebuie să aibă permisiunea de a folosi microfonul pentru a răspunde la această întrebare. Reîncercați ultima operație și permiteți accesul microfonului. Dacă nu vedeți apărând fereastra de permisiuni a microfonului mergeți la Setări și permiteți aplicației să folosească microfonul.</value>
   </data>
   <data name="MissingPermissions_Storage_Global" xml:space="preserve">
-    <value>Pentru a stoca hărți pe dispozitivul mobil, Survey Solutions are nevoie de acces la fișiere. Dacă această permisiune nu este acordată, aplicația nu va putea stoca nicio hartă pentru utilizare offline.</value>
+    <value>Pentru a stoca hărți pe dispozitivul mobil, AGRID are nevoie de acces la fișiere. Dacă această permisiune nu este acordată, aplicația nu va putea stoca nicio hartă pentru utilizare offline.</value>
   </data>
   <data name="Notifications_SummaryTitle" xml:space="preserve">
     <value>{0} notificări</value>

@@ -210,7 +210,7 @@
     <value>Неправильний пароль</value>
   </data>
   <data name="Maintenance" xml:space="preserve">
-    <value>Сайт Survey Solutions Supervisor знаходиться на технічному обслуговуванні. Вибачте за незручності</value>
+    <value>Сайт AGRID Supervisor знаходиться на технічному обслуговуванні. Вибачте за незручності</value>
   </data>
   <data name="MenuItem_Title_Dashboard" xml:space="preserve">
     <value>Панель керування</value>
@@ -270,10 +270,10 @@
     <value>Запит скасовано користувачем</value>
   </data>
   <data name="RequestTimeout" xml:space="preserve">
-    <value>Тайм-аут під час підключення до веб-сайту Survey Solutions Supervisor. Перевірте підключення до Інтернету.</value>
+    <value>Тайм-аут під час підключення до веб-сайту AGRID Supervisor. Перевірте підключення до Інтернету.</value>
   </data>
   <data name="ServiceUnavailable" xml:space="preserve">
-    <value>Немає зв'язку з Survey Solutions Supervisor. Переконайтесь, що веб-сайт доступний.</value>
+    <value>Немає зв'язку з AGRID Supervisor. Переконайтесь, що веб-сайт доступний.</value>
   </data>
   <data name="Synchronization_Cancel" xml:space="preserve">
     <value>Скасувати</value>
@@ -1015,7 +1015,7 @@
     <value>Рекомендується увімкнути геофенсинг для перевірки цільової зони. Бажаєте продовжити?</value>
   </data>
   <data name="CommunicationIntegrityFailed" xml:space="preserve">
-    <value>Отримана відповідь, схоже, не походить із сервера Survey Solutions. Зазвичай це спричинено перехопленням з'єднання мережевим проксі, брандмауером або шлюзом безпеки. Перевірте мережне підключення або зверніться до служби ІТ-підтримки.</value>
+    <value>Отримана відповідь, схоже, не походить із сервера AGRID. Зазвичай це спричинено перехопленням з'єднання мережевим проксі, брандмауером або шлюзом безпеки. Перевірте мережне підключення або зверніться до служби ІТ-підтримки.</value>
   </data>
   <data name="Dashboard_CompleteAssignment" xml:space="preserve">
     <value>Завершити завдання</value>

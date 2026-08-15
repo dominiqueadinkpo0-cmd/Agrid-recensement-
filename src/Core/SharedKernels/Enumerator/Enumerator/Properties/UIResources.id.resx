@@ -123,7 +123,7 @@
   <data name="Dashboard_EmptyQuestionnairesList" xml:space="preserve">
     <value>Belum ada kuesioner
 
-Anda dapat membuat atau menyunting kuesioner Anda pada Desainer Survey Solutions</value>
+Anda dapat membuat atau menyunting kuesioner Anda pada Desainer AGRID</value>
   </data>
   <data name="Dashboard_EmptySearchResult" xml:space="preserve">
     <value>Kuesioner tidak ditemukan</value>
@@ -153,16 +153,16 @@ Anda dapat membuat atau menyunting kuesioner Anda pada Desainer Survey Solutions
     <value>Server error. Silahkan hubungi tim pendukung.</value>
   </data>
   <data name="ErrorMessage_InvalidEndpoint" xml:space="preserve">
-    <value>Url untuk Desainer Survey Solutions yang disediakan tidak valid. Periksa pengaturan.</value>
+    <value>Url untuk Desainer AGRID yang disediakan tidak valid. Periksa pengaturan.</value>
   </data>
   <data name="ErrorMessage_Maintenance" xml:space="preserve">
-    <value>Situs Desainer Survey Solutions sedang dalam perbaikan. Maaf atas ketidaknyamanannya</value>
+    <value>Situs Desainer AGRID sedang dalam perbaikan. Maaf atas ketidaknyamanannya</value>
   </data>
   <data name="ErrorMessage_RequestTimeout" xml:space="preserve">
-    <value>Waktu habis ketika menyambungkan ke Situs Desainer Survey Solutions. Periksa koneksi internet Anda.</value>
+    <value>Waktu habis ketika menyambungkan ke Situs Desainer AGRID. Periksa koneksi internet Anda.</value>
   </data>
   <data name="ErrorMessage_ServiceUnavailable" xml:space="preserve">
-    <value>Tidak ada koneksi ke Survey Solutions Designer. Pastikan bahwa situs ini tersedia.</value>
+    <value>Tidak ada koneksi ke AGRID Designer. Pastikan bahwa situs ini tersedia.</value>
   </data>
   <data name="ErrorMessage_Unauthorized" xml:space="preserve">
     <value>Login atau sandi salah</value>
@@ -303,7 +303,7 @@ Anda dapat membuat atau menyunting kuesioner Anda pada Desainer Survey Solutions
     <value>Terganggu</value>
   </data>
   <data name="Interviewer_ApplicationName" xml:space="preserve">
-    <value>Pewawancara Survey Solutions</value>
+    <value>Pewawancara AGRID</value>
   </data>
   <data name="Interviewer_RelinkDevice_Cancel" xml:space="preserve">
     <value>Batal</value>
@@ -327,7 +327,7 @@ Anda dapat membuat atau menyunting kuesioner Anda pada Desainer Survey Solutions
     <value>Masuk</value>
   </data>
   <data name="LoginTitleText" xml:space="preserve">
-    <value>Penguji Kuesioner Survey Solutions</value>
+    <value>Penguji Kuesioner AGRID</value>
   </data>
   <data name="No" xml:space="preserve">
     <value>Tidak</value>
@@ -497,7 +497,7 @@ Anda dapat membuat atau menyunting kuesioner Anda pada Desainer Survey Solutions
   </data>
 
   <data name="Supervisor_ApplicationName" xml:space="preserve">
-    <value>Survey Solutions Supervisor</value>
+    <value>AGRID Supervisor</value>
   </data>
 
   <data name="Interviewer_Reassign_Comment" xml:space="preserve">

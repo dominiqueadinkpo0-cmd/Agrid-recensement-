@@ -47,8 +47,8 @@
   <data name="RefreshPage" xml:space="preserve"><value>Rifresko faqen</value></data>
   <data name="InvitationSmallText" xml:space="preserve"><value>Procesi i intervistimit kërkon lidhje interneti. Nuk nevojitet softuer shtesë.</value></data>
   <data name="InvitationText" xml:space="preserve"><value>Jeni ftuar të merrni pjesë në anketën e mëposhtme: "%QUESTIONNAIRE%"</value></data>
-  <data name="WelcomeText" xml:space="preserve"><value>Mirë se vini në Anketën Web të Survey Solutions</value></data>
-  <data name="WebSurvey" xml:space="preserve"><value>Anketa Web e Survey Solutions</value></data>
+  <data name="WelcomeText" xml:space="preserve"><value>Mirë se vini në Anketën Web të AGRID</value></data>
+  <data name="WebSurvey" xml:space="preserve"><value>Anketa Web e AGRID</value></data>
   <data name="CompletionText" xml:space="preserve"><value>Kjo intervistë është kompletuar</value></data>
   <data name="InProgressText" xml:space="preserve"><value>Në vazhdim</value></data>
   <data name="NotStartedText" xml:space="preserve"><value>Nuk ka filluar</value></data>
@@ -72,7 +72,7 @@
   <data name="HasPreviousStartedInterview" xml:space="preserve"><value>Keni filluar një intervistë</value></data>
   <data name="Resume_InvitationSmallText" xml:space="preserve"><value>Procesi i intervistimit kërkon lidhje interneti, nuk nevojitet softuer shtesë</value></data>
   <data name="Resume_InvitationText" xml:space="preserve"><value>Mund të navigoni tek intervista në anketën e mëposhtme: "%QUESTIONNAIRE%"</value></data>
-  <data name="Resume_WelcomeText" xml:space="preserve"><value>Mirë se vini në Anketën Web të Survey Solutions</value></data>
+  <data name="Resume_WelcomeText" xml:space="preserve"><value>Mirë se vini në Anketën Web të AGRID</value></data>
   <data name="Error_InterviewExpired" xml:space="preserve"><value>Lidhja ka skaduar</value></data>
   <data name="Error_NoActionsNeeded" xml:space="preserve"><value>Informacioni mbi atë intervistë është regjistruar. Nuk kërkohen veprime të mëtejshme</value></data>
   <data name="InterviewReceivedByInterviewer" xml:space="preserve"><value>Nuk mund të modifikohet intervista e marrë nga pajisja</value></data>

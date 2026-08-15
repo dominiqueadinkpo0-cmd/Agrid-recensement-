@@ -47,8 +47,8 @@
   <data name="RefreshPage" xml:space="preserve"><value>Làm mới trang</value></data>
   <data name="InvitationSmallText" xml:space="preserve"><value>Quá trình phỏng vấn yêu cầu kết nối internet. Không cần phần mềm bổ sung.</value></data>
   <data name="InvitationText" xml:space="preserve"><value>Bạn được mời tham gia cuộc khảo sát sau: "%QUESTIONNAIRE%"</value></data>
-  <data name="WelcomeText" xml:space="preserve"><value>Xin chào và Chào mừng đến với Khảo sát Web của Survey Solutions</value></data>
-  <data name="WebSurvey" xml:space="preserve"><value>Khảo sát Web của Survey Solutions</value></data>
+  <data name="WelcomeText" xml:space="preserve"><value>Xin chào và Chào mừng đến với Khảo sát Web của AGRID</value></data>
+  <data name="WebSurvey" xml:space="preserve"><value>Khảo sát Web của AGRID</value></data>
   <data name="CompletionText" xml:space="preserve"><value>Cuộc phỏng vấn này đã hoàn thành</value></data>
   <data name="InProgressText" xml:space="preserve"><value>Đang tiến hành</value></data>
   <data name="NotStartedText" xml:space="preserve"><value>Chưa bắt đầu</value></data>
@@ -72,7 +72,7 @@
   <data name="HasPreviousStartedInterview" xml:space="preserve"><value>Bạn đã bắt đầu một cuộc phỏng vấn</value></data>
   <data name="Resume_InvitationSmallText" xml:space="preserve"><value>Quá trình phỏng vấn yêu cầu kết nối internet, không cần phần mềm bổ sung</value></data>
   <data name="Resume_InvitationText" xml:space="preserve"><value>Bạn có thể điều hướng đến cuộc phỏng vấn trong khảo sát sau: "%QUESTIONNAIRE%"</value></data>
-  <data name="Resume_WelcomeText" xml:space="preserve"><value>Xin chào và Chào mừng đến với Khảo sát Web của Survey Solutions</value></data>
+  <data name="Resume_WelcomeText" xml:space="preserve"><value>Xin chào và Chào mừng đến với Khảo sát Web của AGRID</value></data>
   <data name="Error_InterviewExpired" xml:space="preserve"><value>Liên kết đã hết hạn</value></data>
   <data name="Error_NoActionsNeeded" xml:space="preserve"><value>Thông tin về cuộc phỏng vấn đó đã được ghi lại. Không cần hành động thêm</value></data>
   <data name="InterviewReceivedByInterviewer" xml:space="preserve"><value>Không thể sửa đổi cuộc phỏng vấn đã được thiết bị nhận</value></data>

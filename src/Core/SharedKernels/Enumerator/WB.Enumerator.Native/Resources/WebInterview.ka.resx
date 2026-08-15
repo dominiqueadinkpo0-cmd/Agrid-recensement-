@@ -69,14 +69,14 @@
   <data name="RefreshPage" xml:space="preserve"><value>გვერდის განახლება</value></data>
   <data name="Resume_InvitationSmallText" xml:space="preserve"><value>გასაუბრების პროცესისთვის საჭიროა ინტერნეტ კავშირი, დამატებითი პროგრამა არ არის საჭირო</value></data>
   <data name="Resume_InvitationText" xml:space="preserve"><value>შეგიძლიათ გადახვიდეთ გასაუბრებაზე შემდეგ გამოკითხვაში: "%QUESTIONNAIRE%"</value></data>
-  <data name="Resume_WelcomeText" xml:space="preserve"><value>გამარჯობა და კეთილი იყოს თქვენი მობრძანება Survey Solutions ვებ გამოკითხვაში</value></data>
+  <data name="Resume_WelcomeText" xml:space="preserve"><value>გამარჯობა და კეთილი იყოს თქვენი მობრძანება AGRID ვებ გამოკითხვაში</value></data>
   <data name="ServerUnderLoad" xml:space="preserve"><value>ბოდიში, ამ საიტს ძალიან ბევრი ადამიანი ეწვევა ერთდროულად. ჩვენ ვმუშაობთ ამ პრობლემის მოსაგვარებლად. სცადეთ მოგვიანებით.</value></data>
   <data name="StartedInterviewText" xml:space="preserve"><value>ეს გასაუბრება არ დასრულებულა</value></data>
   <data name="StartPageTitle" xml:space="preserve"><value>ვებ გამოკითხვა</value></data>
   <data name="SurveyFormatText" xml:space="preserve"><value>გამოკითხვა: "%QUESTIONNAIRE%"</value></data>
   <data name="ToInterview" xml:space="preserve"><value>გასაუბრებაზე</value></data>
-  <data name="WebSurvey" xml:space="preserve"><value>Survey Solutions ვებ გამოკითხვა</value></data>
-  <data name="WelcomeText" xml:space="preserve"><value>გამარჯობა და კეთილი იყოს თქვენი მობრძანება Survey Solutions ვებ გამოკითხვაში</value></data>
+  <data name="WebSurvey" xml:space="preserve"><value>AGRID ვებ გამოკითხვა</value></data>
+  <data name="WelcomeText" xml:space="preserve"><value>გამარჯობა და კეთილი იყოს თქვენი მობრძანება AGRID ვებ გამოკითხვაში</value></data>
   <data name="DownloadAnswers" xml:space="preserve"><value>გასაუბრების ამონარიდის ჩამოტვირთვა</value></data>
   <data name="DownloadAnswersHint" xml:space="preserve"><value>გასაუბრების პასუხების PDF ფაილად ჩამოტვირთვა</value></data>
   <data name="Start" xml:space="preserve"><value>ახალი გასაუბრების დაწყება</value></data>

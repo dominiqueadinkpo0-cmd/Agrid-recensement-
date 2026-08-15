@@ -47,8 +47,8 @@
   <data name="RefreshPage" xml:space="preserve"><value>ផ្ទុកទំព័រឡើងវិញ</value></data>
   <data name="InvitationSmallText" xml:space="preserve"><value>ដំណើរការសំភាសន៍ត្រូវការការតភ្ជាប់អ៊ីនធឺណិត។ មិនត្រូវការកម្មវិធីបន្ថែម។</value></data>
   <data name="InvitationText" xml:space="preserve"><value>អ្នកត្រូវបានអញ្ជើញឱ្យចូលរួមក្នុងការស្ទង់មតិខាងក្រោម: "%QUESTIONNAIRE%"</value></data>
-  <data name="WelcomeText" xml:space="preserve"><value>សូមស្វាគមន៍មកកាន់ការស្ទង់មតិតាមវែបរបស់ Survey Solutions</value></data>
-  <data name="WebSurvey" xml:space="preserve"><value>ការស្ទង់មតិតាមវែបរបស់ Survey Solutions</value></data>
+  <data name="WelcomeText" xml:space="preserve"><value>សូមស្វាគមន៍មកកាន់ការស្ទង់មតិតាមវែបរបស់ AGRID</value></data>
+  <data name="WebSurvey" xml:space="preserve"><value>ការស្ទង់មតិតាមវែបរបស់ AGRID</value></data>
   <data name="CompletionText" xml:space="preserve"><value>ការសំភាសន៍នេះបានបញ្ចប់ហើយ</value></data>
   <data name="InProgressText" xml:space="preserve"><value>កំពុងដំណើរការ</value></data>
   <data name="NotStartedText" xml:space="preserve"><value>មិនទាន់ចាប់ផ្តើម</value></data>
@@ -72,7 +72,7 @@
   <data name="HasPreviousStartedInterview" xml:space="preserve"><value>អ្នកបានចាប់ផ្តើមការសំភាសន៍</value></data>
   <data name="Resume_InvitationSmallText" xml:space="preserve"><value>ដំណើរការសំភាសន៍ត្រូវការការតភ្ជាប់អ៊ីនធឺណិត មិនត្រូវការកម្មវិធីបន្ថែម</value></data>
   <data name="Resume_InvitationText" xml:space="preserve"><value>អ្នកអាចចូលទៅកាន់ការសំភាសន៍ក្នុងការស្ទង់មតិខាងក្រោម: "%QUESTIONNAIRE%"</value></data>
-  <data name="Resume_WelcomeText" xml:space="preserve"><value>សូមស្វាគមន៍មកកាន់ការស្ទង់មតិតាមវែបរបស់ Survey Solutions</value></data>
+  <data name="Resume_WelcomeText" xml:space="preserve"><value>សូមស្វាគមន៍មកកាន់ការស្ទង់មតិតាមវែបរបស់ AGRID</value></data>
   <data name="Error_InterviewExpired" xml:space="preserve"><value>តំណភ្ជាប់ផុតកំណត់</value></data>
   <data name="Error_NoActionsNeeded" xml:space="preserve"><value>ព័ត៌មានអំពីការសំភាសន៍នោះត្រូវបានកត់ត្រា។ មិនចាំបាច់ធ្វើសកម្មភាពបន្ថែម</value></data>
   <data name="InterviewReceivedByInterviewer" xml:space="preserve"><value>មិនអាចកែប្រែការសំភាសន៍ដែលទទួលបានដោយឧបករណ៍</value></data>

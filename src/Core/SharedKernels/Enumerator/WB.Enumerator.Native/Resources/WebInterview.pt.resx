@@ -160,10 +160,10 @@
     <value>Você foi convidado a participar da seguinte pesquisa: "%QUESTIONNAIRE%"</value>
   </data>
   <data name="WelcomeText" xml:space="preserve">
-    <value>Olá e Bem-vindo à Pesquisa Web do Survey Solutions</value>
+    <value>Olá e Bem-vindo à Pesquisa Web do AGRID</value>
   </data>
   <data name="WebSurvey" xml:space="preserve">
-    <value>Pesquisa Web do Survey Solutions</value>
+    <value>Pesquisa Web do AGRID</value>
   </data>
   <data name="CompletionText" xml:space="preserve">
     <value>Esta entrevista foi concluída</value>
@@ -236,7 +236,7 @@
     <value>Você pode navegar para a entrevista na seguinte pesquisa: "%QUESTIONNAIRE%"</value>
   </data>
   <data name="Resume_WelcomeText" xml:space="preserve">
-    <value>Olá e Bem-vindo à Pesquisa Web do Survey Solutions</value>
+    <value>Olá e Bem-vindo à Pesquisa Web do AGRID</value>
   </data>
   <data name="Error_InterviewExpired" xml:space="preserve">
     <value>O link expirou</value>

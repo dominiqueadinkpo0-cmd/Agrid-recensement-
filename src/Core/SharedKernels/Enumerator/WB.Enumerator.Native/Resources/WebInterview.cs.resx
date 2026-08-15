@@ -329,7 +329,7 @@ Děkujeme za spolupráci!</value>
     <value>Můžete přejít k rozhovoru v následujícím šetření: "%QUESTIONNAIRE%"</value>
   </data>
   <data name="Resume_WelcomeText" xml:space="preserve">
-    <value>Vítejte v Survey Solutions webovém šetření</value>
+    <value>Vítejte v AGRID webovém šetření</value>
   </data>
   <data name="ResumeInterview" xml:space="preserve">
     <value>Pokračovat v rozhovoru</value>
@@ -356,10 +356,10 @@ Děkujeme za spolupráci!</value>
     <value>Upozornění</value>
   </data>
   <data name="WebSurvey" xml:space="preserve">
-    <value>Survey Solutions webové šetření</value>
+    <value>AGRID webové šetření</value>
   </data>
   <data name="WelcomeText" xml:space="preserve">
-    <value>Vítejte v Survey Solutions webovém šetření</value>
+    <value>Vítejte v AGRID webovém šetření</value>
   </data>
   <data name="InterviewNotFound" xml:space="preserve">
     <value>Rozhovor nebyl nalezen.</value>

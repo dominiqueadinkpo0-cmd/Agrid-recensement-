@@ -123,7 +123,7 @@
   </data>
   <data name="Dashboard_EmptyQuestionnairesList" xml:space="preserve">
     <value>ยังไม่มีแบบสอบถาม
-คุณสามารถสร้างหรือแก้ไขแบบสอบถามด้วย Survey Solutions Designer</value>
+คุณสามารถสร้างหรือแก้ไขแบบสอบถามด้วย AGRID Designer</value>
   </data>
   <data name="Dashboard_EmptySearchResult" xml:space="preserve">
     <value>ไม่พบแบบสอบถาม</value>
@@ -153,22 +153,22 @@
     <value>ข้อผิดพลาดของเซิร์ฟเวอร์ กรุณาติดต่อทีมสนับสนุนที่</value>
   </data>
   <data name="ErrorMessage_InvalidEndpoint" xml:space="preserve">
-    <value>แอดเดรสของ Survey Solutions Designer ไม่ถูกต้อง กรุณาตรวจสอบการตั้งค่า</value>
+    <value>แอดเดรสของ AGRID Designer ไม่ถูกต้อง กรุณาตรวจสอบการตั้งค่า</value>
   </data>
   <data name="ErrorMessage_Maintenance" xml:space="preserve">
-    <value>Survey Solutions Designer อยู่ระหว่างการบำรุงรักษา ขออภัยในความไม่สะดวก</value>
+    <value>AGRID Designer อยู่ระหว่างการบำรุงรักษา ขออภัยในความไม่สะดวก</value>
   </data>
   <data name="ErrorMessage_RequestTimeout" xml:space="preserve">
-    <value>หมดเวลาการเชื่อมต่อ Survey Solutions Designer กรุณาตรวจสอบการเชื่อมต่ออินเทอร์เน็ต</value>
+    <value>หมดเวลาการเชื่อมต่อ AGRID Designer กรุณาตรวจสอบการเชื่อมต่ออินเทอร์เน็ต</value>
   </data>
   <data name="ErrorMessage_ServiceUnavailable" xml:space="preserve">
-    <value>ไม่สามารถเชื่อมต่อกับเว็บไซต์ Survey Solutions Designer กรุณาตรวจสอบให้แน่ใจว่าเว็บไซต์พร้อมใช้งาน</value>
+    <value>ไม่สามารถเชื่อมต่อกับเว็บไซต์ AGRID Designer กรุณาตรวจสอบให้แน่ใจว่าเว็บไซต์พร้อมใช้งาน</value>
   </data>
   <data name="ErrorMessage_Unauthorized" xml:space="preserve">
     <value>ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง</value>
   </data>
   <data name="ErrorMessage_UpgradeRequired" xml:space="preserve">
-    <value>มีเวอร์ชันใหม่แล้ว  กรุณาปรับปรุงเวอร์ชั่นของโปรแกรม Survey Solutions ในเครื่องของท่าน</value>
+    <value>มีเวอร์ชันใหม่แล้ว  กรุณาปรับปรุงเวอร์ชั่นของโปรแกรม AGRID ในเครื่องของท่าน</value>
   </data>
   <data name="FilteredComboboxQuestion_Hint" xml:space="preserve">
     <value>แตะเพื่อป้อนข้อความ</value>
@@ -307,7 +307,7 @@
     <value>ถูกขัดจังหวะ</value>
   </data>
   <data name="Interviewer_ApplicationName" xml:space="preserve">
-    <value>Survey Solutions ผู้สัมภาษณ์</value>
+    <value>AGRID ผู้สัมภาษณ์</value>
   </data>
   <data name="Interviewer_RelinkDevice_Cancel" xml:space="preserve">
     <value>ยกเลิก</value>
@@ -331,7 +331,7 @@
     <value>เข้าสู่ระบบ</value>
   </data>
   <data name="LoginTitleText" xml:space="preserve">
-    <value>Survey Solutions เครื่องมือทดสอบแบบสอบถาม</value>
+    <value>AGRID เครื่องมือทดสอบแบบสอบถาม</value>
   </data>
   <data name="No" xml:space="preserve">
     <value>ไม่ใช่</value>
@@ -497,7 +497,7 @@
   </data>
 
   <data name="Supervisor_ApplicationName" xml:space="preserve">
-    <value>Survey Solutions หัวหน้างาน</value>
+    <value>AGRID หัวหน้างาน</value>
   </data>
 
   <data name="Interviewer_Reassign_Comment" xml:space="preserve">

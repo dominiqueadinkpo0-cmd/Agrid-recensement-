@@ -196,7 +196,7 @@
     <value>Anulo</value>
   </data>
   <data name="Dashboard_EmptyQuestionnairesList" xml:space="preserve">
-    <value>Nuk ka ende pyetësorë                                                                            Ju mund të krijoni ose redaktoni pyetësorët tuaj në Survey Solutions Designer</value>
+    <value>Nuk ka ende pyetësorë                                                                            Ju mund të krijoni ose redaktoni pyetësorët tuaj në AGRID Designer</value>
   </data>
   <data name="Dashboard_EmptySearchResult" xml:space="preserve">
     <value>Nuk u gjet asnjë pyetësor</value>
@@ -241,16 +241,16 @@
     <value>Gabim i serverit. Ju lutemi, kontaktoni ekipin e mbështetës</value>
   </data>
   <data name="ErrorMessage_InvalidEndpoint" xml:space="preserve">
-    <value>URL-ja e dhënë e Survey Solutions Designer është e pavlefshme.</value>
+    <value>URL-ja e dhënë e AGRID Designer është e pavlefshme.</value>
   </data>
   <data name="ErrorMessage_Maintenance" xml:space="preserve">
-    <value>Faqja e internetit e Survey Solutions Designer është në modalitet mirëmbajtjeje tani. Na falni për shqetësimin</value>
+    <value>Faqja e internetit e AGRID Designer është në modalitet mirëmbajtjeje tani. Na falni për shqetësimin</value>
   </data>
   <data name="ErrorMessage_RequestTimeout" xml:space="preserve">
-    <value>Koha përfundoi kur po lidheshit me faqen e Survey Solutions Designer. Kontrolloni lidhjen tuaj me internetin.</value>
+    <value>Koha përfundoi kur po lidheshit me faqen e AGRID Designer. Kontrolloni lidhjen tuaj me internetin.</value>
   </data>
   <data name="ErrorMessage_ServiceUnavailable" xml:space="preserve">
-    <value>Nuk jeni të lidhur me Survey Solutions Designer. Ju lutemi, sigurohuni që faqja është e disponueshme.</value>
+    <value>Nuk jeni të lidhur me AGRID Designer. Ju lutemi, sigurohuni që faqja është e disponueshme.</value>
   </data>
   <data name="ErrorMessage_Unauthorized" xml:space="preserve">
     <value>Emri i regjistrimit ose fjalëkalimi juaj është i pasaktë</value>
@@ -502,7 +502,7 @@
     <value>Ruaj nënshkrimin</value>
   </data>
   <data name="Interviewer_ApplicationName" xml:space="preserve">
-    <value>Intervistuesi Survey Solutions</value>
+    <value>Intervistuesi AGRID</value>
   </data>
   <data name="Interviewer_AudioRecording" xml:space="preserve">
     <value>Regjistrim audio</value>
@@ -541,7 +541,7 @@
     <value>Hyr</value>
   </data>
   <data name="LoginTitleText" xml:space="preserve">
-    <value>Testuesi i Pyetësorit i Survey Solutions </value>
+    <value>Testuesi i Pyetësorit i AGRID </value>
   </data>
   <data name="MenuItem_Title_AreaCancel" xml:space="preserve">
     <value>Dil nga Map Editor</value>
@@ -652,7 +652,7 @@
     <value>Qëndro i regjistruar</value>
   </data>
   <data name="Supervisor_ApplicationName" xml:space="preserve">
-    <value>Supervizori i Survey Solutions</value>
+    <value>Supervizori i AGRID</value>
   </data>
   <data name="Supervisor_Complete_Approve_btn" xml:space="preserve">
     <value>Mirato</value>

@@ -121,7 +121,7 @@
     <value>Cancelar</value>
   </data>
     <data name="Dashboard_EmptyQuestionnairesList" xml:space="preserve">
-    <value>Todavía no hay cuestionarios. Puede crear o editar sus cuestionarios en Survey Solutions Designer</value>
+    <value>Todavía no hay cuestionarios. Puede crear o editar sus cuestionarios en AGRID Designer</value>
   </data>
     <data name="Dashboard_EmptySearchResult" xml:space="preserve">
     <value>No se encuentra ningún cuestionario</value>
@@ -151,16 +151,16 @@
     <value>Error del servidor. Por favor, póngase en contacto con el equipo de soporte.</value>
   </data>
     <data name="ErrorMessage_InvalidEndpoint" xml:space="preserve">
-    <value>La URL de Survey Solutions Designer no es válida. Compruebe la configuración.</value>
+    <value>La URL de AGRID Designer no es válida. Compruebe la configuración.</value>
   </data>
     <data name="ErrorMessage_Maintenance" xml:space="preserve">
-    <value>La web de Survey Solutions Designer está ahora en el modo de mantenimiento. Disculpen las molestias</value>
+    <value>La web de AGRID Designer está ahora en el modo de mantenimiento. Disculpen las molestias</value>
   </data>
     <data name="ErrorMessage_RequestTimeout" xml:space="preserve">
-    <value>Se ha excedido el tiempo de espera de conexión a la página web de Survey Solutions Designer. Compruebe su conexión a internet.</value>
+    <value>Se ha excedido el tiempo de espera de conexión a la página web de AGRID Designer. Compruebe su conexión a internet.</value>
   </data>
     <data name="ErrorMessage_ServiceUnavailable" xml:space="preserve">
-    <value>No hay conexión con Survey Solutions Designer. Por favor, asegúrese de que el sitio web está disponible.</value>
+    <value>No hay conexión con AGRID Designer. Por favor, asegúrese de que el sitio web está disponible.</value>
   </data>
     <data name="ErrorMessage_Unauthorized" xml:space="preserve">
     <value>Su cuenta de usuario o contraseña es incorrecta</value>
@@ -301,7 +301,7 @@
     <value>Interrumpido</value>
   </data>
     <data name="Interviewer_ApplicationName" xml:space="preserve">
-    <value>Entrevistador de Survey Solutions</value>
+    <value>Entrevistador de AGRID</value>
   </data>
     <data name="Interviewer_RelinkDevice_Cancel" xml:space="preserve">
     <value>Cancelar</value>
@@ -325,7 +325,7 @@
     <value>Iniciar sesión</value>
   </data>
     <data name="LoginTitleText" xml:space="preserve">
-    <value>Probador de cuestionarios de Survey Solutions</value>
+    <value>Probador de cuestionarios de AGRID</value>
   </data>
     <data name="No" xml:space="preserve">
     <value>No</value>
@@ -676,7 +676,7 @@
     <value>La aplicación debe tener permiso para usar el micrófono. Vuelva a intentar la última acción y permita el acceso. Si no ve la ventana emergente de permisos, vaya a Configuración y permita que la aplicación use el micrófono.</value>
   </data>
     <data name="MissingPermissions_Storage_Global" xml:space="preserve">
-    <value>Para almacenar mapas en el dispositivo móvil, Survey Solutions necesita acceso a los archivos. Si no se concede este permiso, la aplicación no podrá almacenar ningún mapa para su uso sin conexión.</value>
+    <value>Para almacenar mapas en el dispositivo móvil, AGRID necesita acceso a los archivos. Si no se concede este permiso, la aplicación no podrá almacenar ningún mapa para su uso sin conexión.</value>
   </data>
     <data name="Notifications_SummaryTitle" xml:space="preserve">
     <value>{0} Notificaciones</value>

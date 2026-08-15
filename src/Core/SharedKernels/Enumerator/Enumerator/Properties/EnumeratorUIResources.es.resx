@@ -127,7 +127,7 @@
     <value>Su cuenta no está aprobada. Por favor, póngase en contacto con su supervisor.</value>
   </data>
   <data name="CommunicationIntegrityFailed" xml:space="preserve">
-    <value>La respuesta recibida no parece provenir del servidor de Survey Solutions. Esto suele ser causado por un proxy de red, firewall o pasarela de seguridad que intercepta la conexión. Por favor, compruebe su conexión de red o contacte con el soporte de TI.</value>
+    <value>La respuesta recibida no parece provenir del servidor de AGRID. Esto suele ser causado por un proxy de red, firewall o pasarela de seguridad que intercepta la conexión. Por favor, compruebe su conexión de red o contacte con el soporte de TI.</value>
   </data>
   <data name="ApplicationIncompatibleWithServer" xml:space="preserve">
     <value>Su aplicación no es compatible con el servidor. Actualice la aplicación del entrevistador.</value>
@@ -265,7 +265,7 @@
     <value>Tiempo de espera cuando se conecta a la Página Web de Surrey Solutions Supervisor. Compruebe su conexión a internet.</value>
   </data>
   <data name="ServiceUnavailable" xml:space="preserve">
-    <value>No hay conexión con el Survey Solutions Supervisor. Por favor, asegúrese de que el sitio web está disponible.</value>
+    <value>No hay conexión con el AGRID Supervisor. Por favor, asegúrese de que el sitio web está disponible.</value>
   </data>
   <data name="Synchronization_Cancel" xml:space="preserve">
     <value>Cancelar</value>

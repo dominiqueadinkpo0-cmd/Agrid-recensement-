@@ -89,10 +89,10 @@
     <value>Đăng nhập</value>
 </data>
 <data name="LoginTitleText" xml:space="preserve">
-    <value>Trình kiểm tra bảng câu hỏi Survey Solutions</value>
+    <value>Trình kiểm tra bảng câu hỏi AGRID</value>
 </data>
 <data name="ErrorMessage_Maintenance" xml:space="preserve">
-    <value>Trang web của Survey Solutions Designer đang trong chế độ bảo trì. Xin lỗi vì sự bất tiện này</value>
+    <value>Trang web của AGRID Designer đang trong chế độ bảo trì. Xin lỗi vì sự bất tiện này</value>
 </data>
 <data name="PrefilledQuestions_StartInterview" xml:space="preserve">
     <value>BẮT ĐẦU</value>
@@ -110,10 +110,10 @@
     <value>Xác nhận mật khẩu mới</value>
 </data>
 <data name="ErrorMessage_RequestTimeout" xml:space="preserve">
-    <value>Hết thời gian kết nối với trang web Survey Solutions Designer. Kiểm tra kết nối internet của bạn.</value>
+    <value>Hết thời gian kết nối với trang web AGRID Designer. Kiểm tra kết nối internet của bạn.</value>
 </data>
 <data name="ErrorMessage_ServiceUnavailable" xml:space="preserve">
-    <value>Không có kết nối với Survey Solutions Designer. Vui lòng đảm bảo rằng trang web có sẵn.</value>
+    <value>Không có kết nối với AGRID Designer. Vui lòng đảm bảo rằng trang web có sẵn.</value>
 </data>
 <data name="StaySignedInText" xml:space="preserve">
     <value>Giữ đăng nhập</value>
@@ -241,7 +241,7 @@
   <data name="Dashboard_EmptyQuestionnairesList" xml:space="preserve">
       <value>Chưa có bảng câu hỏi nào.
   
-  Bạn có thể tạo hoặc chỉnh sửa bảng câu hỏi của mình trong Survey Solutions Designer</value>
+  Bạn có thể tạo hoặc chỉnh sửa bảng câu hỏi của mình trong AGRID Designer</value>
   </data>
   <data name="TextListQuestion_Hint" xml:space="preserve">
       <value>Nhấn để nhập mục mới</value>
@@ -262,7 +262,7 @@
       <value>Không tìm thấy ứng dụng điều hướng</value>
   </data>
   <data name="ErrorMessage_InvalidEndpoint" xml:space="preserve">
-      <value>URL của Survey Solutions Designer được cung cấp không hợp lệ. Kiểm tra cài đặt.</value>
+      <value>URL của AGRID Designer được cung cấp không hợp lệ. Kiểm tra cài đặt.</value>
   </data>
   <data name="Interview_LinkedQuestion_Empty" xml:space="preserve">
       <value>Các danh mục sẽ xuất hiện chỉ sau khi trả lời câu hỏi xác định các danh mục của câu hỏi này.</value>
@@ -352,10 +352,10 @@
       <value>Hoàn thành</value>
   </data>
   <data name="Interviewer_ApplicationName" xml:space="preserve">
-      <value>Survey Solutions Interviewer</value>
+      <value>AGRID Interviewer</value>
   </data>
   <data name="Supervisor_ApplicationName" xml:space="preserve">
-      <value>Survey Solutions Supervisor</value>
+      <value>AGRID Supervisor</value>
   </data>
   <data name="Interview_CompleteScreen_ButtonText" xml:space="preserve">
       <value>Để hoàn thành màn hình</value>
@@ -511,7 +511,7 @@
     <value>Ứng dụng cần có quyền sử dụng micro. Thử lại hành động cuối cùng và cho phép truy cập. Nếu bạn không thấy cửa sổ bật lên quyền, hãy vào Cài đặt và cho phép ứng dụng sử dụng micro.</value>
   </data>
   <data name="MissingPermissions_Storage_Global" xml:space="preserve">
-    <value>Để lưu bản đồ trên thiết bị di động, Survey Solutions cần quyền truy cập vào tệp. Nếu không cấp quyền này, ứng dụng sẽ không thể lưu bất kỳ bản đồ nào để sử dụng ngoại tuyến.</value>
+    <value>Để lưu bản đồ trên thiết bị di động, AGRID cần quyền truy cập vào tệp. Nếu không cấp quyền này, ứng dụng sẽ không thể lưu bất kỳ bản đồ nào để sử dụng ngoại tuyến.</value>
   </data>
   <data name="MissingPermission" xml:space="preserve">
     <value>Ứng dụng không có đủ quyền để thực hiện hành động yêu cầu</value>

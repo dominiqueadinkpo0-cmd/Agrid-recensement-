@@ -196,10 +196,10 @@ Musíte vytvořit nebo upravit Vaše dotazníky v aplikaci Designer</value>
     <value>Aplikaci není uděleno oprávnění k vlastní aktualizaci. V nabídce nastavení „Informace o aplikaci“ povolte možnost „Povolit z tohoto zdroje“.</value>
   </data>
   <data name="ErrorMessage_RequestTimeout" xml:space="preserve">
-    <value>Vypršel časový limit při připojení k Survey Solutions Designer. Zkontrolujte připojení k internetu.</value>
+    <value>Vypršel časový limit při připojení k AGRID Designer. Zkontrolujte připojení k internetu.</value>
   </data>
   <data name="ErrorMessage_ServiceUnavailable" xml:space="preserve">
-    <value>Nelze se připojit k Survey Solutions Designer. Ujistěte se, že je stránka k dispozici.</value>
+    <value>Nelze se připojit k AGRID Designer. Ujistěte se, že je stránka k dispozici.</value>
   </data>
   <data name="ErrorMessage_Unauthorized" xml:space="preserve">
     <value>Vaše uživatelské jméno nebo heslo je chybné</value>
@@ -553,7 +553,7 @@ Musíte vytvořit nebo upravit Vaše dotazníky v aplikaci Designer</value>
     <value>Pokud chcete odpovědět na tuto otázku, musí mít aplikace povolení k použití úložiště. Opakujte poslední akci a povolte přístup. Pokud nevidíte vyskakovací okno oprávnění, přejděte do Nastavení a povolte aplikaci používat úložiště.</value>
   </data>
   <data name="MissingPermissions_Storage_Global" xml:space="preserve">
-    <value>Aby bylo možné ukládat mapy do mobilního zařízení, Survey Solutions potřebuje přístup k souborům. Pokud toto oprávnění neudělíte, aplikace nebude moci ukládat žádné mapy pro offline použití.</value>
+    <value>Aby bylo možné ukládat mapy do mobilního zařízení, AGRID potřebuje přístup k souborům. Pokud toto oprávnění neudělíte, aplikace nebude moci ukládat žádné mapy pro offline použití.</value>
   </data>
   <data name="Multimedia_PickFromGallery" xml:space="preserve">
     <value>Vyberte z galerie</value>

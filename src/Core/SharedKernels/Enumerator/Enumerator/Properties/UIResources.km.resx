@@ -122,7 +122,7 @@
   </data>
   <data name="Dashboard_EmptyQuestionnairesList" xml:space="preserve">
     <value>មិនមានកម្រងសំនូរទេ​
-អ្នកអាចបង្កើត ឬពិនិត្យកែ កម្រងសំនួររបស់អ្នក ក្នុង រៀបការបង្កើត Survey Solutions </value>
+អ្នកអាចបង្កើត ឬពិនិត្យកែ កម្រងសំនួររបស់អ្នក ក្នុង រៀបការបង្កើត AGRID </value>
   </data>
   <data name="Dashboard_EmptySearchResult" xml:space="preserve">
     <value>មិនអាចស្វែងរកកម្រងសំនួរ</value>
@@ -152,16 +152,16 @@
     <value>Server មិនដំណើរការ។ សូមទាក់ទងទៅក្រុមជំនួយ</value>
   </data>
   <data name="ErrorMessage_InvalidEndpoint" xml:space="preserve">
-    <value>Survey Solutions Designer URL មិនមានដំណើរការ។ សូមពិនិត្យទៅ ស៊ីតធីង</value>
+    <value>AGRID Designer URL មិនមានដំណើរការ។ សូមពិនិត្យទៅ ស៊ីតធីង</value>
   </data>
   <data name="ErrorMessage_Maintenance" xml:space="preserve">
-    <value>គេហទំព័រ របស់ Survey Solutions Designer ឥឡូវកំពុងរៀបចំ។ សូមអាធ្យាស្រ័យសំរាប់ការរអាក់រអួល</value>
+    <value>គេហទំព័រ របស់ AGRID Designer ឥឡូវកំពុងរៀបចំ។ សូមអាធ្យាស្រ័យសំរាប់ការរអាក់រអួល</value>
   </data>
   <data name="ErrorMessage_RequestTimeout" xml:space="preserve">
-    <value>មិនអាចដំណើរការ ពេលភ្ជាប់ទៅ​គេហទំព័រ Survey Solutions Designer ។ សូមពិនិត្យការភ្ជាប់អ៊ិនធឺណែតរបស់អ្នក។</value>
+    <value>មិនអាចដំណើរការ ពេលភ្ជាប់ទៅ​គេហទំព័រ AGRID Designer ។ សូមពិនិត្យការភ្ជាប់អ៊ិនធឺណែតរបស់អ្នក។</value>
   </data>
   <data name="ErrorMessage_ServiceUnavailable" xml:space="preserve">
-    <value>មិនអាចភ្ជាប់ទៅនឹងSurvey Solutions Designer។ សូមប្រាកដាថា ឈ្មោះគេហទំព័រត្រឹមត្រូវ</value>
+    <value>មិនអាចភ្ជាប់ទៅនឹងAGRID Designer។ សូមប្រាកដាថា ឈ្មោះគេហទំព័រត្រឹមត្រូវ</value>
   </data>
   <data name="ErrorMessage_Unauthorized" xml:space="preserve">
     <value>ចុះឈ្មោះចូល ឬ លេខកូដរបស់អ្នកមិនត្រឹមត្រូវ</value>
@@ -308,7 +308,7 @@
     <value>ផ្អាក</value>
   </data>
   <data name="Interviewer_ApplicationName" xml:space="preserve">
-    <value>អ្នកសម្ភាសន៍ Survey Solutions</value>
+    <value>អ្នកសម្ភាសន៍ AGRID</value>
   </data>
   <data name="Interviewer_Diagnostics" xml:space="preserve">
     <value>អ្នកវិនិច្ឆ័យរោគ</value>
@@ -507,7 +507,7 @@
   </data>
 
   <data name="Supervisor_ApplicationName" xml:space="preserve">
-    <value>Survey Solutions អ្នកត្រួតពិនិត្យ</value>
+    <value>AGRID អ្នកត្រួតពិនិត្យ</value>
   </data>
 
   <data name="Interviewer_Reassign_Comment" xml:space="preserve">

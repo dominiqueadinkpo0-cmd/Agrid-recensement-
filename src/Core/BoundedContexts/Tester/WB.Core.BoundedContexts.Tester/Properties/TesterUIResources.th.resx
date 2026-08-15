@@ -139,13 +139,13 @@
     <value>ไม่สามารถเปิดแบบสอบถาม "{0}" ได้ เนื่องจากไม่พบแบบสอบถาม กรุณากดรีเฟรช</value>
   </data>
   <data name="ImportQuestionnaire_Error_PreconditionFailed" xml:space="preserve">
-    <value>ไม่สามารถเปิดแบบสอบถาม "{0}" ได้ เนื่องจากแบบสอบถามมีข้อผิดพลาด กรุณาแก้ไขแบบสอบถามที่ Survey Solutions Designer</value>
+    <value>ไม่สามารถเปิดแบบสอบถาม "{0}" ได้ เนื่องจากแบบสอบถามมีข้อผิดพลาด กรุณาแก้ไขแบบสอบถามที่ AGRID Designer</value>
   </data>
   <data name="ImportQuestionnaire_StoreQuestionnaire" xml:space="preserve">
     <value>กำลังบันทึกแบบสอบถามไว้บนเครื่องที่ใช้งาน</value>
   </data>
   <data name="Login_Error_NotFound" xml:space="preserve">
-    <value>ไม่สามารถเข้าถึงเว็บแอพพลิเคชันของ Survey Solutions Designer ได้ในขณะนี้ กรุณาตรวจสอบการตั้งค่าการเชื่อมต่อ หรือลองอีกครั้งภายหลัง</value>
+    <value>ไม่สามารถเข้าถึงเว็บแอพพลิเคชันของ AGRID Designer ได้ในขณะนี้ กรุณาตรวจสอบการตั้งค่าการเชื่อมต่อ หรือลองอีกครั้งภายหลัง</value>
   </data>
   <data name="MenuItem_Title_Dashboard" xml:space="preserve">
     <value>แบบสอบถาม</value>
@@ -166,10 +166,10 @@
     <value>การตั้งค่าการเชื่อมต่อ</value>
   </data>
   <data name="Prefs_DesignerEndPointSummary" xml:space="preserve">
-    <value>URL ที่ใช้ในการติดต่อกับ Survey Solutions Designer</value>
+    <value>URL ที่ใช้ในการติดต่อกับ AGRID Designer</value>
   </data>
   <data name="Prefs_DesignerEndPointTitle" xml:space="preserve">
-    <value>URL ของ Survey Solutions Designer</value>
+    <value>URL ของ AGRID Designer</value>
   </data>
   <data name="Prefs_GpsReceiveTimeoutSecSummary" xml:space="preserve">
     <value>จำนวนวินาทีในการจับพิกัด</value>

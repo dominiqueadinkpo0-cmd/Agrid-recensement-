@@ -175,7 +175,7 @@
     <value>取消</value>
   </data>
   <data name="Dashboard_EmptyQuestionnairesList" xml:space="preserve">
-    <value>暂时没有问卷，您可以在Survey Solutions Designer中创建或编辑问卷。</value>
+    <value>暂时没有问卷，您可以在AGRID Designer中创建或编辑问卷。</value>
   </data>
   <data name="Dashboard_EmptySearchResult" xml:space="preserve">
     <value>找不到问卷</value>
@@ -211,13 +211,13 @@
     <value>服务器错误。请联系.</value>
   </data>
   <data name="ErrorMessage_InvalidEndpoint" xml:space="preserve">
-    <value>提供的Survey Solutions Designer URL非法，请检查设置。</value>
+    <value>提供的AGRID Designer URL非法，请检查设置。</value>
   </data>
   <data name="ErrorMessage_Maintenance" xml:space="preserve">
-    <value>Survey Solutions Designer的网站正在维护，很抱歉给您带来不便。</value>
+    <value>AGRID Designer的网站正在维护，很抱歉给您带来不便。</value>
   </data>
   <data name="ErrorMessage_RequestTimeout" xml:space="preserve">
-    <value>到Survey Solutions Designer网站的连接已超时，请检查网络设置。</value>
+    <value>到AGRID Designer网站的连接已超时，请检查网络设置。</value>
   </data>
   <data name="ErrorMessage_ServiceUnavailable" xml:space="preserve">
     <value>没有到问卷设计系统的连接。请确保网站可用。</value>
@@ -418,7 +418,7 @@
     <value>督导员评论</value>
   </data>
   <data name="Interviewer_ApplicationName" xml:space="preserve">
-    <value>Survey Solutions调查员</value>
+    <value>AGRID调查员</value>
   </data>
   <data name="Interviewer_AudioRecording" xml:space="preserve">
     <value>正在录音</value>
@@ -454,7 +454,7 @@
     <value>登录</value>
   </data>
   <data name="LoginTitleText" xml:space="preserve">
-    <value>Survey Solutions问卷测试器</value>
+    <value>AGRID问卷测试器</value>
   </data>
   <data name="MenuItem_Title_AreaCancel" xml:space="preserve">
     <value>退出地图编辑器</value>
@@ -640,7 +640,7 @@
     <value>If interviewers don't have an access to the internet, 如果调研员无法连网，此功能应被启用，应该它可以让他们的app可以借助督导员的app进行离线更新。</value>
   </data>
   <data name="Supervisor_ApplicationName" xml:space="preserve">
-    <value>Survey Solutions 督导员</value>
+    <value>AGRID 督导员</value>
   </data>
   <data name="Supervisor_Complete_Approve_btn" xml:space="preserve">
     <value>接受</value>
