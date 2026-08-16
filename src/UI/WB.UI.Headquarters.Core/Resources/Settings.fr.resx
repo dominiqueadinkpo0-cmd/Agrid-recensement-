@@ -133,7 +133,7 @@
     <value>GeoJSON</value>
   </data>
   <data name="GeographyExportFormat_ArrayOfCoordinates" xml:space="preserve">
-    <value>Chaîne de géométrie de Survey Solutions</value>
+    <value>Chaîne de géométrie de AGRID</value>
   </data>
   <data name="ClearExportCache_Title" xml:space="preserve">
     <value>Effacer le cache d'exportation</value>
@@ -295,13 +295,13 @@ Raisons possibles :
     <value>Service de livraison d'e-mails SendGrid</value>
   </data>
   <data name="EmailProvider_NoneDescription" xml:space="preserve">
-    <value>Les messages d'invitation pour les entretiens web ne sont pas envoyés aux répondants par Survey Solutions.</value>
+    <value>Les messages d'invitation pour les entretiens web ne sont pas envoyés aux répondants par AGRID.</value>
   </data>
   <data name="EmailProvider_AmazonDescription" xml:space="preserve">
-    <value>Configurez les paramètres pour accéder à Amazon SES ci-dessous. Plus d'informations sur l'utilisation d'Amazon SES avec Survey Solutions sont disponibles </value>
+    <value>Configurez les paramètres pour accéder à Amazon SES ci-dessous. Plus d'informations sur l'utilisation d'Amazon SES avec AGRID sont disponibles </value>
   </data>
   <data name="EmailProvider_SendgridDescription" xml:space="preserve">
-    <value>Configurez les paramètres pour accéder à SendGrid ci-dessous. Plus d'informations sur l'utilisation de SendGrid avec Survey Solutions sont disponibles </value>
+    <value>Configurez les paramètres pour accéder à SendGrid ci-dessous. Plus d'informations sur l'utilisation de SendGrid avec AGRID sont disponibles </value>
   </data>
   <data name="EmailProvider_SenderAddress" xml:space="preserve">
     <value>Adresse e-mail de l'expéditeur</value>
@@ -403,7 +403,7 @@ Raisons possibles :
     <value>Serveur SMTP</value>
   </data>
   <data name="EmailProvider_SmtpDescription" xml:space="preserve">
-    <value>Configurez les paramètres pour accéder au serveur SMTP ci-dessous. Plus d'informations sur l'utilisation du serveur SMTP avec Survey Solutions sont disponibles </value>
+    <value>Configurez les paramètres pour accéder au serveur SMTP ci-dessous. Plus d'informations sur l'utilisation du serveur SMTP avec AGRID sont disponibles </value>
   </data>
   <data name="EmailProvider_SmtpHost" xml:space="preserve">
     <value>Hôte</value>

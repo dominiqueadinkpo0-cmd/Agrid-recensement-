@@ -293,7 +293,7 @@
         <value>การตรวจสอบซ้ำไม่สำเร็จ</value>
     </data>
     <data name="InterviewController_RepeatLastStatus" xml:space="preserve">
-        <value>สถานะที่กำหนดโดยทีมสนับสนุน Survey Solutions</value>
+        <value>สถานะที่กำหนดโดยทีมสนับสนุน AGRID</value>
     </data>
     <data name="InterviewController_RepeatLastStatusFailed" xml:space="preserve">
         <value>การทำซ้ำสถานะล่าสุดไม่สำเร็จ</value>
@@ -410,7 +410,7 @@
         <value>ปิด</value>
     </data>
     <data name="InterviewerProfile_InterviewerVersion" xml:space="preserve">
-        <value>เวอร์ชันโซลูชันแบบสำรวจ</value>
+        <value>เวอร์ชันAGRID</value>
     </data>
     <data name="InterviewerProfile_AndroidVersion" xml:space="preserve">
         <value>เวอร์ชัน Android</value>
@@ -443,7 +443,7 @@
         <value>สามารถอัพเดตได้</value>
     </data>
     <data name="InterviewerProfile_InterviewerUpdatedDate" xml:space="preserve">
-        <value>วันที่อัปเดตโซลูชั่นแบบสำรวจล่าสุด</value>
+        <value>วันที่อัปเดตAGRIDล่าสุด</value>
     </data>
     <data name="InterviewerProfile_NumberOfSuccessSynchronizations" xml:space="preserve">
         <value>จำนวนการซิงโครไนซ์ที่สำเร็จทั้งหมด</value>
@@ -1119,10 +1119,10 @@
         <value>เทคโนโลยีการสัมภาษณ์ส่วนตัวโดยใช้คอมพิวเตอร์ช่วย พัฒนาโดยธนาคารโลก</value>
     </data>
     <data name="DownloadPage_Welcome" xml:space="preserve">
-        <value>ยินดีต้อนรับสู่หน้าดาวน์โหลด Survey Solutions Interviewer</value>
+        <value>ยินดีต้อนรับสู่หน้าดาวน์โหลด AGRID Interviewer</value>
     </data>
     <data name="DownloadSupervisorPage_Welcome" xml:space="preserve">
-        <value>ยินดีต้อนรับสู่หน้าดาวน์โหลด Survey Solutions Supervisor</value>
+        <value>ยินดีต้อนรับสู่หน้าดาวน์โหลด AGRID Supervisor</value>
     </data>
     <data name="DownloadPage_PageTitle" xml:space="preserve">
         <value>ดาวน์โหลดแอพ ผู้สัมภาษณ์</value>

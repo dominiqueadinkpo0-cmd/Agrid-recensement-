@@ -137,16 +137,16 @@
     <value>You can navigate to interview in the following survey: "%QUESTIONNAIRE%"</value>
   </data>
   <data name="Resume_WelcomeText" xml:space="preserve">
-    <value>Hello and Welcome to the Survey Solutions Web Survey</value>
+    <value>Hello and Welcome to the AGRID Web Survey</value>
   </data>
   <data name="SurveyFormatText" xml:space="preserve">
     <value>Survey: "%QUESTIONNAIRE%"</value>
   </data>
   <data name="WebSurvey" xml:space="preserve">
-    <value>Survey Solutions Web Survey</value>
+    <value>AGRID Web Survey</value>
   </data>
   <data name="WelcomeText" xml:space="preserve">
-    <value>Hello and Welcome to the Survey Solutions Web Survey</value>
+    <value>Hello and Welcome to the AGRID Web Survey</value>
   </data>
   <data name="StartNewInterview" xml:space="preserve">
     <value>Start new interview</value>
@@ -161,6 +161,6 @@
     <value>Web Interview</value>
   </data>
   <data name="LinkWelcome" xml:space="preserve">
-    <value>Hello and Welcome to the Survey Solutions Web Survey</value>
+    <value>Hello and Welcome to the AGRID Web Survey</value>
   </data>
 </root>

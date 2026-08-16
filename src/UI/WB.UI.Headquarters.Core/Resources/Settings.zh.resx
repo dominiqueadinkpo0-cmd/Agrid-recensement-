@@ -136,7 +136,7 @@
     <value>GeoJSON</value>
   </data>
   <data name="GeographyExportFormat_ArrayOfCoordinates" xml:space="preserve">
-    <value>Survey Solutions 几何字符串</value>
+    <value>AGRID 几何字符串</value>
   </data>
   <data name="ExportEncryptionSettings" xml:space="preserve">
     <value>导出加密设置</value>
@@ -337,15 +337,15 @@
   </data>
 
   <data name="EmailProvider_NoneDescription" xml:space="preserve">
-    <value>Survey Solutions 不会向受访者发送网络访谈邀请消息。</value>
+    <value>AGRID 不会向受访者发送网络访谈邀请消息。</value>
   </data>
 
   <data name="EmailProvider_AmazonDescription" xml:space="preserve">
-    <value>请在下方配置访问 Amazon SES 所需的参数。有关在 Survey Solutions 中使用 Amazon SES 的更多信息，请参见 </value>
+    <value>请在下方配置访问 Amazon SES 所需的参数。有关在 AGRID 中使用 Amazon SES 的更多信息，请参见 </value>
   </data>
 
   <data name="EmailProvider_SendgridDescription" xml:space="preserve">
-    <value>请在下方配置访问 SendGrid 所需的参数。有关在 Survey Solutions 中使用 SendGrid 的更多信息，请参见 </value>
+    <value>请在下方配置访问 SendGrid 所需的参数。有关在 AGRID 中使用 SendGrid 的更多信息，请参见 </value>
   </data>
 
   <data name="EmailProvider_SenderAddress" xml:space="preserve">
@@ -481,7 +481,7 @@
   </data>
 
   <data name="EmailProvider_SmtpDescription" xml:space="preserve">
-    <value>请在下方配置访问 SMTP 服务器所需的参数。有关在 Survey Solutions 中使用 SMTP 服务器的更多信息，请参见 </value>
+    <value>请在下方配置访问 SMTP 服务器所需的参数。有关在 AGRID 中使用 SMTP 服务器的更多信息，请参见 </value>
   </data>
 
   <data name="EmailProvider_SmtpHost" xml:space="preserve">

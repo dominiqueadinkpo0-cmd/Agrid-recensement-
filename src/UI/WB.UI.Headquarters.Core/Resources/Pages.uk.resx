@@ -406,7 +406,7 @@
     <value>Версія</value>
   </data>
   <data name="DownloadPage_Welcome" xml:space="preserve">
-    <value>Ласкаво просимо на сторінку завантаження Survey Solutions Interviewer</value>
+    <value>Ласкаво просимо на сторінку завантаження AGRID Interviewer</value>
   </data>
   <data name="DownloadReport" xml:space="preserve">
     <value>Завантажити звіт у форматі</value>
@@ -415,7 +415,7 @@
     <value>Завантажити додаток Supervisor</value>
   </data>
   <data name="DownloadSupervisorPage_Welcome" xml:space="preserve">
-    <value>Ласкаво просимо на сторінку завантаження Survey Solutions Supervisor</value>
+    <value>Ласкаво просимо на сторінку завантаження AGRID Supervisor</value>
   </data>
   <data name="EditQuestion_Save" xml:space="preserve">
     <value>Зберегти</value>
@@ -622,7 +622,7 @@
     <value>Інструкція з інсталяції</value>
   </data>
   <data name="InterviewController_RepeatLastStatus" xml:space="preserve">
-    <value>Статус, встановлений службою підтримки Survey Solutions</value>
+    <value>Статус, встановлений службою підтримки AGRID</value>
   </data>
   <data name="InterviewController_RepeatLastStatusFailed" xml:space="preserve">
     <value>Повторення останнього статусу було невдалим.</value>
@@ -841,13 +841,13 @@
     <value>Інтерв'юери</value>
   </data>
   <data name="InterviewerProfile_InterviewerUpdatedDate" xml:space="preserve">
-    <value>Дата останнього оновлення рішень для опитувань</value>
+    <value>Дата останнього оновлення AGRID</value>
   </data>
   <data name="InterviewerProfile_InterviewerUpToDate" xml:space="preserve">
     <value>Актуально</value>
   </data>
   <data name="InterviewerProfile_InterviewerVersion" xml:space="preserve">
-    <value>Версія Survey Solutions</value>
+    <value>Версія AGRID</value>
   </data>
   <data name="InterviewerProfile_LastConnectionStatistics" xml:space="preserve">
     <value>Статистика останнього з'єднання</value>

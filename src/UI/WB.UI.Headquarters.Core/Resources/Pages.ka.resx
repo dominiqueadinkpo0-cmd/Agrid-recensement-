@@ -220,7 +220,7 @@
     <value>ვერსია</value>
   </data>
   <data name="DownloadPage_Welcome" xml:space="preserve">
-    <value>კეთილი იყოს თქვენი მობრძანება Survey Solutions Interviewer-ის გვერდი</value>
+    <value>კეთილი იყოს თქვენი მობრძანება AGRID Interviewer-ის გვერდი</value>
   </data>
   <data name="DownloadReport" xml:space="preserve">
     <value>ანგარიშის ჩამოტვირთვა</value>
@@ -340,7 +340,7 @@
     <value>დაყენების ინსტრუქცია</value>
   </data>
   <data name="InterviewController_RepeatLastStatus" xml:space="preserve">
-    <value>სტატუსი დადგენილია კვლევის გადაწყვეტილებების მხარდაჭერის გუნდიდან.</value>
+    <value>სტატუსი დადგენილია AGRID მხარდაჭერის გუნდიდან.</value>
   </data>
   <data name="InterviewController_RepeatLastStatusFailed" xml:space="preserve">
     <value>ბოლო სტატუსის განმეორება იყო წარუმატებელი.</value>
@@ -550,13 +550,13 @@
     <value>ინტერვიუერები</value>
   </data>
   <data name="InterviewerProfile_InterviewerUpdatedDate" xml:space="preserve">
-    <value>ბოლო კვლევის გადაწყვეტილებების განახლებული თარიღი</value>
+    <value>ბოლო AGRID განახლებული თარიღი</value>
   </data>
   <data name="InterviewerProfile_InterviewerUpToDate" xml:space="preserve">
     <value>დღემდე</value>
   </data>
   <data name="InterviewerProfile_InterviewerVersion" xml:space="preserve">
-    <value>კვლევის გადაწყვეტილებების ვერსია</value>
+    <value>AGRID ვერსია</value>
   </data>
   <data name="InterviewerProfile_LastConnectionStatistics" xml:space="preserve">
     <value>ბოლო კავშირის სტატისტიკა</value>
@@ -1247,7 +1247,7 @@
     <value>ამ ანგარიშს ერთი მოწყობილობა აქვს მიბმული.</value>
   </data>
   <data name="DownloadSupervisorPage_Welcome" xml:space="preserve">
-    <value>მოგესალმებათ Survey Solutions სუპერვაიზერის ჩამოტვირთვის გვერდი</value>
+    <value>მოგესალმებათ AGRID სუპერვაიზერის ჩამოტვირთვის გვერდი</value>
   </data>
   <data name="DownloadSupervisorPage_PageTitle" xml:space="preserve">
     <value>სუპერვაიზერის აპლიკაციის ჩამოტვირთვა</value>

@@ -8,7 +8,7 @@
   <data name="DesignerAppDescription" xml:space="preserve"><value>Ini adalah alat gratis untuk membuat kuesioner.</value></data>
   <data name="InvalidCredentials" xml:space="preserve"><value>Pengguna tidak diotorisasi. Silakan periksa login dan kata sandi Anda.</value></data>
   <data name="LoginWatermark" xml:space="preserve"><value>Login atau email</value></data>
-  <data name="PageHeader" xml:space="preserve"><value>Gunakan kredensial Designer Survey Solutions Anda</value></data>
+  <data name="PageHeader" xml:space="preserve"><value>Gunakan kredensial Designer AGRID Anda</value></data>
   <data name="Questionnaire" xml:space="preserve"><value>Kuesioner</value></data>
   <data name="SessionExpired" xml:space="preserve"><value>Sesi telah berakhir, silakan masuk lagi</value></data>
   <data name="UnableToImportNewQuestionnaire" xml:space="preserve"><value>Tidak dapat mengimpor kuesioner baru:</value></data>

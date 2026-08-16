@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessForbidden" xml:space="preserve">
-    <value>O servidor não está registrado no Questionnaire Designer. Por favor, envie uma solicitação para registrar um servidor auto-hospedado no portal Survey Solutions https://mysurvey.solutions/NewServerRequest</value>
+    <value>O servidor não está registrado no Questionnaire Designer. Por favor, envie uma solicitação para registrar um servidor auto-hospedado no portal AGRID https://mysurvey.solutions/NewServerRequest</value>
   </data>
   <data name="DesignerAppDescription" xml:space="preserve">
     <value>Esta é uma ferramenta gratuita para criar questionários para a plataforma CAPI do Banco Mundial. Pode ser encontrada em</value>
@@ -130,7 +130,7 @@
     <value>Login ou email</value>
   </data>
   <data name="PageHeader" xml:space="preserve">
-    <value>Use suas credenciais do Survey Solutions Designer para acessar seus questionários.</value>
+    <value>Use suas credenciais do AGRID Designer para acessar seus questionários.</value>
   </data>
   <data name="Questionnaire" xml:space="preserve">
     <value>Questionário</value>

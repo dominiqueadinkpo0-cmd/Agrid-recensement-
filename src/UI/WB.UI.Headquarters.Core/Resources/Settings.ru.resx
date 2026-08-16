@@ -133,7 +133,7 @@
     <value>GeoJSON</value>
   </data>
   <data name="GeographyExportFormat_ArrayOfCoordinates" xml:space="preserve">
-    <value>Строка геометрии Survey Solutions</value>
+    <value>Строка геометрии AGRID</value>
   </data>
   <data name="ClearExportCache_Title" xml:space="preserve">
     <value>Удалить экспортный кэш</value>
@@ -265,13 +265,13 @@
     <value>SendGrid Email Delivery Service</value>
   </data>
   <data name="EmailProvider_NoneDescription" xml:space="preserve">
-    <value>Вы не можете отправлять приглашения и напоминания для участия в онайн обследованиях Survey Solutions.</value>
+    <value>Вы не можете отправлять приглашения и напоминания для участия в онайн обследованиях AGRID.</value>
   </data>
   <data name="EmailProvider_AmazonDescription" xml:space="preserve">
-    <value>Настройте параметры для доступа к Amazon SES ниже. Дополнительная информация об использовании Amazon SES с Survey Solutions доступна </value>
+    <value>Настройте параметры для доступа к Amazon SES ниже. Дополнительная информация об использовании Amazon SES с AGRID доступна </value>
   </data>
   <data name="EmailProvider_SendgridDescription" xml:space="preserve">
-    <value>Настройте параметры для доступа к SendGrid ниже. Дополнительная информация об использовании SendGrid с Survey Solutions доступна </value>
+    <value>Настройте параметры для доступа к SendGrid ниже. Дополнительная информация об использовании SendGrid с AGRID доступна </value>
   </data>
   <data name="EmailProvider_SenderAddress" xml:space="preserve">
     <value>Электронная почта отправителя</value>
@@ -421,7 +421,7 @@
       <value>Аутентификация SMTP проверяет подлинность почтового клиента или сервера, прежде чем разрешить ему отправлять электронную почту через SMTP сервер.</value>
   </data>
   <data name="EmailProvider_SmtpDescription" xml:space="preserve">
-      <value>Настройте параметры для доступа к SMTP серверу. Более подробная информация об использовании SMTP сервера доступна на Survey Solutions</value>
+      <value>Настройте параметры для доступа к SMTP серверу. Более подробная информация об использовании SMTP сервера доступна на AGRID</value>
   </data>
   <data name="EmailProvider_SmtpHost" xml:space="preserve">
       <value>Хост</value>

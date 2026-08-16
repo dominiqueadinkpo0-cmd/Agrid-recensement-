@@ -133,7 +133,7 @@
     <value>GeoJSON</value>
   </data>
   <data name="GeographyExportFormat_ArrayOfCoordinates" xml:space="preserve">
-    <value>سلسلة هندسية لـ Survey Solutions</value>
+    <value>سلسلة هندسية لـ AGRID</value>
   </data>
     <data name="ClearExportCache_Title" xml:space="preserve">
   <value>مسح ذاكرة التخزين المؤقت للتصدير</value>
@@ -294,13 +294,13 @@
   <value>خدمة توصيل البريد الإلكتروني SendGrid</value>
 </data>
     <data name="EmailProvider_NoneDescription" xml:space="preserve">
-  <value>لا يتم إرسال رسائل الدعوة للمقابلات عبر الويب إلى المستجيبين بواسطة Survey Solutions.</value>
+  <value>لا يتم إرسال رسائل الدعوة للمقابلات عبر الويب إلى المستجيبين بواسطة AGRID.</value>
 </data>
     <data name="EmailProvider_AmazonDescription" xml:space="preserve">
-  <value>قم بتكوين المعلمات للوصول إلى Amazon SES أدناه. تتوفر مزيد من المعلومات حول استخدام Amazon SES مع Survey Solutions </value>
+  <value>قم بتكوين المعلمات للوصول إلى Amazon SES أدناه. تتوفر مزيد من المعلومات حول استخدام Amazon SES مع AGRID </value>
 </data>
     <data name="EmailProvider_SendgridDescription" xml:space="preserve">
-  <value>قم بتكوين المعلمات للوصول إلى SendGrid أدناه. تتوفر المزيد من المعلومات حول استخدام SendGrid مع Survey Solutions</value>
+  <value>قم بتكوين المعلمات للوصول إلى SendGrid أدناه. تتوفر المزيد من المعلومات حول استخدام SendGrid مع AGRID</value>
 </data>
     <data name="EmailProvider_SenderAddress" xml:space="preserve">
   <value>عنوان البريد الإلكتروني للمرسل</value>
@@ -402,7 +402,7 @@
   <value>خادم SMTP</value>
 </data>
     <data name="EmailProvider_SmtpDescription" xml:space="preserve">
-  <value>قم بتكوين المعلمات للوصول إلى خادم SMTP أدناه. تتوفر المزيد من المعلومات حول استخدام خادم SMTP مع Survey Solutions</value>
+  <value>قم بتكوين المعلمات للوصول إلى خادم SMTP أدناه. تتوفر المزيد من المعلومات حول استخدام خادم SMTP مع AGRID</value>
 </data>
     <data name="EmailProvider_SmtpHost" xml:space="preserve">
   <value>المضيف</value>

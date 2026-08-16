@@ -143,10 +143,10 @@
     <value>Опрос: "%QUESTIONNAIRE%"</value>
   </data>
   <data name="WebSurvey" xml:space="preserve">
-    <value>Survey Solutions Web Survey</value>
+    <value>AGRID Web Survey</value>
   </data>
   <data name="WelcomeText" xml:space="preserve">
-    <value>Здравствуйте и Добро пожаловать в Survey Solutions Web Survey</value>
+    <value>Здравствуйте и Добро пожаловать в AGRID Web Survey</value>
   </data>
   <data name="StartNewInterview" xml:space="preserve">
     <value>Начать новое интервью</value>
@@ -161,6 +161,6 @@
     <value>Веб Интервью</value>
   </data>
   <data name="LinkWelcome" xml:space="preserve">
-    <value>Здравствуйте и Добро пожаловать в Survey Solutions Web Survey</value>
+    <value>Здравствуйте и Добро пожаловать в AGRID Web Survey</value>
   </data>
 </root>

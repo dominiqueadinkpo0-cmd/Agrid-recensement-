@@ -9,7 +9,7 @@
   <data name="GeographyExportFormat_Description" xml:space="preserve"><value>Pilih cara format jawaban untuk pertanyaan geografi.</value></data>
   <data name="GeographyExportFormat_Wkt" xml:space="preserve"><value>WKT (Well-Known Text)</value></data>
   <data name="GeographyExportFormat_GeoJson" xml:space="preserve"><value>GeoJSON</value></data>
-  <data name="GeographyExportFormat_ArrayOfCoordinates" xml:space="preserve"><value>String Geometri Survey Solutions</value></data>
+  <data name="GeographyExportFormat_ArrayOfCoordinates" xml:space="preserve"><value>String Geometri AGRID</value></data>
   <data name="ClearExportCache_Title" xml:space="preserve"><value>Bersihkan cache ekspor</value></data>
   <data name="ClearExportCache_Description" xml:space="preserve"><value>Operasi ini akan menghapus semua data cache ekspor.</value></data>
   <data name="RemoveExportCache" xml:space="preserve"><value>Bersihkan cache</value></data>

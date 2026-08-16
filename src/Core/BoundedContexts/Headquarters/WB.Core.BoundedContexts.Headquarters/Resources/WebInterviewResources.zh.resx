@@ -77,16 +77,16 @@
         <value>您可以进入以下调查中的访谈："%QUESTIONNAIRE%"</value>
     </data>
     <data name="Resume_WelcomeText" xml:space="preserve">
-        <value>您好,欢迎使用 Survey Solutions 网络调查</value>
+        <value>您好,欢迎使用 AGRID 网络调查</value>
     </data>
     <data name="SurveyFormatText" xml:space="preserve">
         <value>调查："%QUESTIONNAIRE%"</value>
     </data>
     <data name="WebSurvey" xml:space="preserve">
-        <value>Survey Solutions 网络调查</value>
+        <value>AGRID 网络调查</value>
     </data>
     <data name="WelcomeText" xml:space="preserve">
-        <value>您好,欢迎使用 Survey Solutions 网络调查</value>
+        <value>您好,欢迎使用 AGRID 网络调查</value>
     </data>
     <data name="StartNewInterview" xml:space="preserve">
         <value>开始新访谈</value>
@@ -101,6 +101,6 @@
         <value>网络访谈</value>
     </data>
     <data name="LinkWelcome" xml:space="preserve">
-        <value>您好,欢迎使用 Survey Solutions 网络调查</value>
+        <value>您好,欢迎使用 AGRID 网络调查</value>
     </data>
 </root>

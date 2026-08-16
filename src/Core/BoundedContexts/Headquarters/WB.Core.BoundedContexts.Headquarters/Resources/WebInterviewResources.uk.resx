@@ -136,7 +136,7 @@
     <value>Веб-інтерв'ю</value>
   </data>
   <data name="LinkWelcome" xml:space="preserve">
-    <value>Привіт і ласкаво просимо до веб-опитування Survey Solutions</value>
+    <value>Привіт і ласкаво просимо до веб-опитування AGRID</value>
   </data>
   <data name="NoteForSupervisor" xml:space="preserve">
       <value>Примітка</value>
@@ -145,7 +145,7 @@
     <value>Ви можете перейти до інтерв'ю в наступному опитуванні: "%QUESTIONNAIRE%"</value>
   </data>
   <data name="Resume_WelcomeText" xml:space="preserve">
-    <value>Привіт і ласкаво просимо до веб-опитування Survey Solutions</value>
+    <value>Привіт і ласкаво просимо до веб-опитування AGRID</value>
   </data>
   <data name="ResumeInterview" xml:space="preserve">
     <value>Продовжити інтерв'ю</value>
@@ -157,9 +157,9 @@
     <value>Опитування: "%QUESTIONNAIRE%"</value>
   </data>
   <data name="WebSurvey" xml:space="preserve">
-    <value>Веб-анкети Survey Solutions</value>
+    <value>Веб-анкети AGRID</value>
   </data>
   <data name="WelcomeText" xml:space="preserve">
-    <value>Привіт і ласкаво просимо до веб-опитування Survey Solutions</value>
+    <value>Привіт і ласкаво просимо до веб-опитування AGRID</value>
   </data>
 </root>

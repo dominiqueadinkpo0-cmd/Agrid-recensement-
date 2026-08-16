@@ -39,13 +39,13 @@
   <data name="InvitationText" xml:space="preserve"><value>Jeni ftuar të merrni pjesë në anketën e mëposhtme: "%QUESTIONNAIRE%"</value></data>
   <data name="NoteForSupervisor" xml:space="preserve"><value>Koment</value></data>
   <data name="Resume_InvitationText" xml:space="preserve"><value>Mund të navigoni tek intervista në anketën e mëposhtme: "%QUESTIONNAIRE%"</value></data>
-  <data name="Resume_WelcomeText" xml:space="preserve"><value>Mirë se vini në Anketën Web të Survey Solutions</value></data>
+  <data name="Resume_WelcomeText" xml:space="preserve"><value>Mirë se vini në Anketën Web të AGRID</value></data>
   <data name="SurveyFormatText" xml:space="preserve"><value>Anketa: "%QUESTIONNAIRE%"</value></data>
-  <data name="WebSurvey" xml:space="preserve"><value>Anketa Web e Survey Solutions</value></data>
-  <data name="WelcomeText" xml:space="preserve"><value>Mirë se vini në Anketën Web të Survey Solutions</value></data>
+  <data name="WebSurvey" xml:space="preserve"><value>Anketa Web e AGRID</value></data>
+  <data name="WelcomeText" xml:space="preserve"><value>Mirë se vini në Anketën Web të AGRID</value></data>
   <data name="StartNewInterview" xml:space="preserve"><value>Filloni intervistën e re</value></data>
   <data name="ResumeInterview" xml:space="preserve"><value>Vazhdoni intervistën</value></data>
   <data name="LinkInvitation" xml:space="preserve"><value>Jeni ftuar të merrni pjesë në anketën e mëposhtme: "%QUESTIONNAIRE%". Intervista juaj nuk është ende gati.</value></data>
   <data name="LinkToInterviewPage" xml:space="preserve"><value>Intervistë Web</value></data>
-  <data name="LinkWelcome" xml:space="preserve"><value>Mirë se vini në Anketën Web të Survey Solutions</value></data>
+  <data name="LinkWelcome" xml:space="preserve"><value>Mirë se vini në Anketën Web të AGRID</value></data>
 </root>

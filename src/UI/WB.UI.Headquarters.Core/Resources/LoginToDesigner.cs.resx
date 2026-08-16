@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessForbidden" xml:space="preserve">
-    <value>Server není registrován u aplikace Designer dotazníků. Odešlete žádost o registraci serveru s vlastním hostitelem na portálu Survey Solutions https://mysurvey.solutions/NewServerRequest</value>
+    <value>Server není registrován u aplikace Designer dotazníků. Odešlete žádost o registraci serveru s vlastním hostitelem na portálu AGRID https://mysurvey.solutions/NewServerRequest</value>
   </data>
   <data name="DesignerAppDescription" xml:space="preserve">
     <value>Toto je bezplatný nástroj pro vytváření typů dotazníků pro platformu CAPI Světové banky. Lze jej nalézt na</value>

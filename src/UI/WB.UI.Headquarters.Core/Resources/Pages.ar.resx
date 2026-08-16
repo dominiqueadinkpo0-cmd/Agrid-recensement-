@@ -293,7 +293,7 @@
     <value>فشلت إعادة التحقق.</value>
   </data>
   <data name="InterviewController_RepeatLastStatus" xml:space="preserve">
-    <value>تم تعيين الحالة من قبل فريق دعم حلول الاستبيان</value>
+    <value>تم تعيين الحالة من قبل فريق دعم AGRID</value>
   </data>
   <data name="InterviewController_RepeatLastStatusFailed" xml:space="preserve">
     <value>فشل تكرار الحالة الأخيرة.</value>
@@ -410,7 +410,7 @@
     <value>إيقاف</value>
   </data>
   <data name="InterviewerProfile_InterviewerVersion" xml:space="preserve">
-    <value>إصدار حلول الاستبيان</value>
+    <value>إصدار AGRID</value>
   </data>
   <data name="InterviewerProfile_AndroidVersion" xml:space="preserve">
     <value>إصدار أندرويد</value>
@@ -443,7 +443,7 @@
     <value>يمكن تحديثه</value>
   </data>
   <data name="InterviewerProfile_InterviewerUpdatedDate" xml:space="preserve">
-    <value>تاريخ آخر تحديث لحلول الاستبيان</value>
+    <value>تاريخ آخر تحديث لAGRID</value>
   </data>
   <data name="InterviewerProfile_NumberOfSuccessSynchronizations" xml:space="preserve">
     <value>إجمالي عدد التزامنات الناجحة</value>
@@ -1122,10 +1122,10 @@
     <value>تكنولوجيا المقابلات الشخصية بمساعدة الكمبيوتر التي طورتها البنك الدولي.</value>
   </data>
   <data name="DownloadPage_Welcome" xml:space="preserve">
-    <value>مرحبًا بكم في صفحة تنزيل تطبيق المحاور الخاص بـ Survey Solutions</value>
+    <value>مرحبًا بكم في صفحة تنزيل تطبيق المحاور الخاص بـ AGRID</value>
   </data>
   <data name="DownloadSupervisorPage_Welcome" xml:space="preserve">
-    <value>مرحبًا بكم في صفحة تنزيل تطبيق المشرف الخاص بـ Survey Solutions</value>
+    <value>مرحبًا بكم في صفحة تنزيل تطبيق المشرف الخاص بـ AGRID</value>
   </data>
   <data name="DownloadPage_PageTitle" xml:space="preserve">
     <value>تنزيل تطبيق المحاور</value>

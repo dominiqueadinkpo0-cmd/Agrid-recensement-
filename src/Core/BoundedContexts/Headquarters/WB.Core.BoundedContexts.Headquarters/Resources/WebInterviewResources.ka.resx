@@ -39,13 +39,13 @@
   <data name="InvitationText" xml:space="preserve"><value>თქვენ მოგეწვიათ შემდეგ გამოკითხვაში მონაწილეობისთვის: "%QUESTIONNAIRE%"</value></data>
   <data name="NoteForSupervisor" xml:space="preserve"><value>კომენტარი</value></data>
   <data name="Resume_InvitationText" xml:space="preserve"><value>შეგიძლიათ გადახვიდეთ გასაუბრებაზე შემდეგ გამოკითხვაში: "%QUESTIONNAIRE%"</value></data>
-  <data name="Resume_WelcomeText" xml:space="preserve"><value>გამარჯობა და კეთილი იყოს თქვენი მობრძანება Survey Solutions ვებ გამოკითხვაში</value></data>
+  <data name="Resume_WelcomeText" xml:space="preserve"><value>გამარჯობა და კეთილი იყოს თქვენი მობრძანება AGRID ვებ გამოკითხვაში</value></data>
   <data name="SurveyFormatText" xml:space="preserve"><value>გამოკითხვა: "%QUESTIONNAIRE%"</value></data>
-  <data name="WebSurvey" xml:space="preserve"><value>Survey Solutions ვებ გამოკითხვა</value></data>
-  <data name="WelcomeText" xml:space="preserve"><value>გამარჯობა და კეთილი იყოს თქვენი მობრძანება Survey Solutions ვებ გამოკითხვაში</value></data>
+  <data name="WebSurvey" xml:space="preserve"><value>AGRID ვებ გამოკითხვა</value></data>
+  <data name="WelcomeText" xml:space="preserve"><value>გამარჯობა და კეთილი იყოს თქვენი მობრძანება AGRID ვებ გამოკითხვაში</value></data>
   <data name="StartNewInterview" xml:space="preserve"><value>ახალი გასაუბრების დაწყება</value></data>
   <data name="ResumeInterview" xml:space="preserve"><value>გასაუბრების განახლება</value></data>
   <data name="LinkInvitation" xml:space="preserve"><value>თქვენ მოგეწვიათ შემდეგ გამოკითხვაში მონაწილეობისთვის: "%QUESTIONNAIRE%". თქვენი გასაუბრება ჯერ არ არის მზად.</value></data>
   <data name="LinkToInterviewPage" xml:space="preserve"><value>ვებ გასაუბრება</value></data>
-  <data name="LinkWelcome" xml:space="preserve"><value>გამარჯობა და კეთილი იყოს თქვენი მობრძანება Survey Solutions ვებ გამოკითხვაში</value></data>
+  <data name="LinkWelcome" xml:space="preserve"><value>გამარჯობა და კეთილი იყოს თქვენი მობრძანება AGRID ვებ გამოკითხვაში</value></data>
 </root>

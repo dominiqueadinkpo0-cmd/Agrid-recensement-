@@ -137,16 +137,16 @@
     <value>Vous pouvez accéder à l'entretien dans l'enquête suivante : "%QUESTIONNAIRE%"</value>
   </data>
   <data name="Resume_WelcomeText" xml:space="preserve">
-    <value>Bonjour et bienvenue à l'enquête Web de Survey Solutions</value>
+    <value>Bonjour et bienvenue à l'enquête Web de AGRID</value>
   </data>
   <data name="SurveyFormatText" xml:space="preserve">
     <value>Enquête : "%QUESTIONNAIRE%"</value>
   </data>
   <data name="WebSurvey" xml:space="preserve">
-    <value>Enquête Web de Survey Solutions</value>
+    <value>Enquête Web de AGRID</value>
   </data>
   <data name="WelcomeText" xml:space="preserve">
-    <value>Bonjour et bienvenue à l'enquête Web de Survey Solutions</value>
+    <value>Bonjour et bienvenue à l'enquête Web de AGRID</value>
   </data>
   <data name="StartNewInterview" xml:space="preserve">
     <value>Commencer une nouvelle interview</value>
@@ -161,6 +161,6 @@
     <value>Interview Web</value>
   </data>
   <data name="LinkWelcome" xml:space="preserve">
-    <value>Bonjour et bienvenue à l'enquête Web de Survey Solutions</value>
+    <value>Bonjour et bienvenue à l'enquête Web de AGRID</value>
   </data>
 </root>

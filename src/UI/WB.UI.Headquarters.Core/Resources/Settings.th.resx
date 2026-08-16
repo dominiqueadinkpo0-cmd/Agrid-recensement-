@@ -8,7 +8,7 @@
   <data name="GeographyExportFormat_Title" xml:space="preserve"><value>รูปแบบการส่งออกภูมิศาสตร์</value></data>
   <data name="GeographyExportFormat_Wkt" xml:space="preserve"><value>WKT</value></data>
   <data name="GeographyExportFormat_GeoJson" xml:space="preserve"><value>GeoJSON</value></data>
-  <data name="GeographyExportFormat_ArrayOfCoordinates" xml:space="preserve"><value>สตริงเรขาคณิตของ Survey Solutions</value></data>
+  <data name="GeographyExportFormat_ArrayOfCoordinates" xml:space="preserve"><value>สตริงเรขาคณิตของ AGRID</value></data>
   <data name="ClearExportCache_Title" xml:space="preserve"><value>ล้างแคชการส่งออก</value></data>
   <data name="RemoveExportCache" xml:space="preserve"><value>ล้างแคช</value></data>
   <data name="RemoveExportCacheConfirm" xml:space="preserve"><value>คุณแน่ใจหรือไม่ว่าต้องการล้างแคชการส่งออก?</value></data>
@@ -138,13 +138,13 @@
         <value>บริการส่งอีเมล SendGrid</value>
     </data>
     <data name="EmailProvider_NoneDescription" xml:space="preserve">
-        <value>Survey Solutions จะไม่ส่งข้อความเชิญสำหรับการสัมภาษณ์ทางเว็บไปยังผู้ตอบแบบสอบถาม</value>
+        <value>AGRID จะไม่ส่งข้อความเชิญสำหรับการสัมภาษณ์ทางเว็บไปยังผู้ตอบแบบสอบถาม</value>
     </data>
     <data name="EmailProvider_AmazonDescription" xml:space="preserve">
-        <value>กำหนดค่าพารามิเตอร์เพื่อเข้าถึง Amazon SES ด้านล่าง มีข้อมูลเพิ่มเติมเกี่ยวกับการใช้งาน Amazon SES พร้อมโซลูชันแบบสำรวจ</value>
+        <value>กำหนดค่าพารามิเตอร์เพื่อเข้าถึง Amazon SES ด้านล่าง มีข้อมูลเพิ่มเติมเกี่ยวกับการใช้งาน Amazon SES พร้อมAGRID</value>
     </data>
     <data name="EmailProvider_SendgridDescription" xml:space="preserve">
-        <value>กำหนดค่าพารามิเตอร์เพื่อเข้าถึง SendGrid ด้านล่าง มีข้อมูลเพิ่มเติมเกี่ยวกับการใช้งาน SendGrid พร้อม Survey Solutions</value>
+        <value>กำหนดค่าพารามิเตอร์เพื่อเข้าถึง SendGrid ด้านล่าง มีข้อมูลเพิ่มเติมเกี่ยวกับการใช้งาน SendGrid พร้อม AGRID</value>
     </data>
     <data name="EmailProvider_SendGridApiKey" xml:space="preserve">
         <value>คีย์เอพีไอ</value>
@@ -222,7 +222,7 @@
         <value>เซิร์ฟเวอร์ SMTP</value>
     </data>
     <data name="EmailProvider_SmtpDescription" xml:space="preserve">
-        <value>กำหนดค่าพารามิเตอร์เพื่อเข้าถึงเซิร์ฟเวอร์ SMTP ด้านล่าง มีข้อมูลเพิ่มเติมเกี่ยวกับการใช้งานเซิร์ฟเวอร์ SMTP พร้อม Survey Solutions</value>
+        <value>กำหนดค่าพารามิเตอร์เพื่อเข้าถึงเซิร์ฟเวอร์ SMTP ด้านล่าง มีข้อมูลเพิ่มเติมเกี่ยวกับการใช้งานเซิร์ฟเวอร์ SMTP พร้อม AGRID</value>
     </data>
     <data name="EmailProvider_SmtpHost" xml:space="preserve">
         <value>เจ้าภาพ</value>

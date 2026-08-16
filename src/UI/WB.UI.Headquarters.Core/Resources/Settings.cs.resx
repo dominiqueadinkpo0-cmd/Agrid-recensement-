@@ -169,7 +169,7 @@
     <value>Amazon Simple Email Service (SES)</value>
   </data>
   <data name="EmailProvider_AmazonDescription" xml:space="preserve">
-    <value>Níže nakonfigurujte parametry pro přístup k Amazon SES. Další informace o použití Amazon SES s Survey Solutions jsou k dispozici</value>
+    <value>Níže nakonfigurujte parametry pro přístup k Amazon SES. Další informace o použití Amazon SES s AGRID jsou k dispozici</value>
   </data>
   <data name="EmailProvider_AwsAccessKeyId" xml:space="preserve">
     <value>ID přístupového klíče</value>
@@ -202,7 +202,7 @@
     <value>Žádné</value>
   </data>
   <data name="EmailProvider_NoneDescription" xml:space="preserve">
-    <value>Pozvánky na webové dotazníky nejsou respondentům zasílány od Survey Solutions</value>
+    <value>Pozvánky na webové dotazníky nejsou respondentům zasílány od AGRID</value>
   </data>
   <data name="EmailProvider_PageDesc" xml:space="preserve">
     <value>Nastavte poskytovatele hromadných e-mailových služeb. Nakonfigurujte, jak se budou zasílat pozvánky na webové rozhovory.</value>
@@ -238,7 +238,7 @@
     <value>Najdete jej na stránce API Keys pod položkou nabídky SendGrid nastavení</value>
   </data>
   <data name="EmailProvider_SendgridDescription" xml:space="preserve">
-    <value>Níže nakonfigurujte parametry pro přístup k SendGrid. Další informace o použití SendGrid s Survey Solutions jsou k dispozici</value>
+    <value>Níže nakonfigurujte parametry pro přístup k SendGrid. Další informace o použití SendGrid s AGRID jsou k dispozici</value>
   </data>
   <data name="EmailProvider_SendTestEmail" xml:space="preserve">
     <value>Poslat email</value>
@@ -283,7 +283,7 @@
     <value>GeoJSON</value>
   </data>
   <data name="GeographyExportFormat_ArrayOfCoordinates" xml:space="preserve">
-    <value>Řetězec geometrie Survey Solutions</value>
+    <value>Řetězec geometrie AGRID</value>
   </data>
   <data name="ExportEncryptionSettings" xml:space="preserve">
     <value>Nastavení šifrování exportu</value>
@@ -385,7 +385,7 @@
     <value>SMTP server</value>
   </data>
   <data name="EmailProvider_SmtpDescription" xml:space="preserve">
-    <value>Níže nakonfigurujte parametry pro přístup k SMTP serveru. Další informace o použití SMTP se Survey Solutions jsou k dispozici </value>
+    <value>Níže nakonfigurujte parametry pro přístup k SMTP serveru. Další informace o použití SMTP se AGRID jsou k dispozici </value>
   </data>
   <data name="EmailProvider_SmtpHost" xml:space="preserve">
     <value>Hostitel</value>

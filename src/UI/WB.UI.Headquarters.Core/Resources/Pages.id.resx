@@ -293,7 +293,7 @@
         <value>Validasi ulang tidak berhasil.</value>
     </data>
     <data name="InterviewController_RepeatLastStatus" xml:space="preserve">
-        <value>Status ditetapkan oleh tim dukungan Solusi Survei</value>
+        <value>Status ditetapkan oleh tim dukungan AGRID</value>
     </data>
     <data name="InterviewController_RepeatLastStatusFailed" xml:space="preserve">
         <value>Pengulangan status terakhir tidak berhasil.</value>
@@ -410,7 +410,7 @@
         <value>mati</value>
     </data>
     <data name="InterviewerProfile_InterviewerVersion" xml:space="preserve">
-        <value>Versi Solusi Survei</value>
+        <value>Versi AGRID</value>
     </data>
     <data name="InterviewerProfile_AndroidVersion" xml:space="preserve">
         <value>versi Android</value>
@@ -443,7 +443,7 @@
         <value>Dapat diperbarui</value>
     </data>
     <data name="InterviewerProfile_InterviewerUpdatedDate" xml:space="preserve">
-        <value>Tanggal terakhir Solusi Survei diperbarui</value>
+        <value>Tanggal terakhir AGRID diperbarui</value>
     </data>
     <data name="InterviewerProfile_NumberOfSuccessSynchronizations" xml:space="preserve">
         <value>Jumlah total sinkronisasi yang berhasil</value>
@@ -1119,10 +1119,10 @@
         <value>Teknologi Wawancara Pribadi Berbantuan Komputer yang dikembangkan oleh Bank Dunia.</value>
     </data>
     <data name="DownloadPage_Welcome" xml:space="preserve">
-        <value>Selamat datang di halaman unduh Pewawancara Solusi Survei</value>
+        <value>Selamat datang di halaman unduh Pewawancara AGRID</value>
     </data>
     <data name="DownloadSupervisorPage_Welcome" xml:space="preserve">
-        <value>Selamat datang di halaman unduh Survey Solutions Supervisor</value>
+        <value>Selamat datang di halaman unduh AGRID Supervisor</value>
     </data>
     <data name="DownloadPage_PageTitle" xml:space="preserve">
         <value>Unduh aplikasi Pewawancara</value>

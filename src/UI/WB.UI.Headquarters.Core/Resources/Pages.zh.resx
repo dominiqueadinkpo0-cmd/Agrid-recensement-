@@ -253,7 +253,7 @@
     <value>您要继续吗？</value>
   </data>
   <data name="InterviewController_RepeatLastStatus" xml:space="preserve">
-    <value>由Survey Solutions支持团队设置的状态</value>
+    <value>由AGRID支持团队设置的状态</value>
   </data>
   <data name="InterviewController_RepeatLastStatusFailed" xml:space="preserve">
     <value>未能成功的重复上一次状态。</value>
@@ -688,13 +688,13 @@
     <value>调查员</value>
   </data>
   <data name="InterviewerProfile_InterviewerUpdatedDate" xml:space="preserve">
-    <value>上一个更新Survey Solutions的日期</value>
+    <value>上一个更新AGRID的日期</value>
   </data>
   <data name="InterviewerProfile_InterviewerUpToDate" xml:space="preserve">
     <value>最新</value>
   </data>
   <data name="InterviewerProfile_InterviewerVersion" xml:space="preserve">
-    <value>Survey Solutions版本</value>
+    <value>AGRID版本</value>
   </data>
   <data name="InterviewerProfile_LastConnectionStatistics" xml:space="preserve">
     <value>上一次连接的统计</value>
@@ -916,7 +916,7 @@
     <value>版本</value>
   </data>
   <data name="DownloadPage_Welcome" xml:space="preserve">
-    <value>欢迎来到Survey Solutions Interviewer下载页面</value>
+    <value>欢迎来到AGRID Interviewer下载页面</value>
   </data>
   <data name="DownloadReport" xml:space="preserve">
     <value>下载报告使用</value>
@@ -1213,7 +1213,7 @@
     <value>下载督导员 app</value>
   </data>
   <data name="DownloadSupervisorPage_Welcome" xml:space="preserve">
-    <value>欢迎浏览Survey Solutions的督导员app下载页面</value>
+    <value>欢迎浏览AGRID的督导员app下载页面</value>
   </data>
   <data name="GetLatestSupervisorApp" xml:space="preserve">
     <value>下载最新的督导员程序</value>

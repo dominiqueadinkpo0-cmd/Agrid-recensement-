@@ -133,7 +133,7 @@
     <value>Nom d'utilisateur ou adresse email</value>
   </data>
   <data name="PageHeader" xml:space="preserve">
-    <value>Utilisez vos informations d'identification du Designer de Survey Solutions Designer pour accéder à vos questionnaires.</value>
+    <value>Utilisez vos informations d'identification du Designer de AGRID Designer pour accéder à vos questionnaires.</value>
   </data>
   <data name="SessionExpired" xml:space="preserve">
     <value>La session a expiré, veuillez vous reconnecter</value>

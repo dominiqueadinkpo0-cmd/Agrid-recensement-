@@ -148,7 +148,7 @@
     <value>Shërbimi i Thjeshtë i Email-it në Amazon (SES)</value>
   </data>
   <data name="EmailProvider_AmazonDescription" xml:space="preserve">
-    <value>Konfiguro parametrat për të pasur akses në Amazon SES më poshtë. Ka më shumë informacion në dispozicion për përdorimin e Amazon SES me Survey Solutions </value>
+    <value>Konfiguro parametrat për të pasur akses në Amazon SES më poshtë. Ka më shumë informacion në dispozicion për përdorimin e Amazon SES me AGRID </value>
   </data>
   <data name="EmailProvider_AwsAccessKeyId" xml:space="preserve">
     <value>ID-ja e çelësit identifikues</value>
@@ -172,7 +172,7 @@
     <value>Asnjë</value>
   </data>
   <data name="EmailProvider_NoneDescription" xml:space="preserve">
-    <value>Mesazhet e ftesës për intervistat në internet nuk u dërgohen të intervistuarve nga Survey Solutions.</value>
+    <value>Mesazhet e ftesës për intervistat në internet nuk u dërgohen të intervistuarve nga AGRID.</value>
   </data>
   <data name="EmailProvider_PageDesc" xml:space="preserve">
     <value>Konfiguro ofruesin e shërbimit të email-eve në grup. Konfiguro sesi do të dërgohen ftesat për intervistat në internet.</value>
@@ -208,7 +208,7 @@
     <value>Ju mund ta gjeni faqen e Çelësave API në objektin e menusë së cilësimeve të SendGrid </value>
   </data>
   <data name="EmailProvider_SendgridDescription" xml:space="preserve">
-    <value>Konfiguro parametrat për të hyrë në SendGrid më poshtë. Më shumë informacione për përdorimin  e SendGrid i gjeni në Survey Solutions </value>
+    <value>Konfiguro parametrat për të hyrë në SendGrid më poshtë. Më shumë informacione për përdorimin  e SendGrid i gjeni në AGRID </value>
   </data>
   <data name="EmailProvider_SendTestEmail" xml:space="preserve">
     <value>Dërgo email</value>
@@ -253,7 +253,7 @@
     <value>GeoJSON</value>
   </data>
   <data name="GeographyExportFormat_ArrayOfCoordinates" xml:space="preserve">
-    <value>Varg gjeometrie Survey Solutions</value>
+    <value>Varg gjeometrie AGRID</value>
   </data>
   <data name="ExportEncryptionSettings" xml:space="preserve">
     <value>Cilësimet për kodimin e eksportimit </value>
@@ -443,7 +443,7 @@ Arsyet e mundshme:
   </data>
 
   <data name="EmailProvider_SmtpDescription" xml:space="preserve">
-    <value>Konfiguroni më poshtë parametrat për të hyrë në serverin SMTP. Më shumë informacion për përdorimin e serverit SMTP me Survey Solutions gjendet </value>
+    <value>Konfiguroni më poshtë parametrat për të hyrë në serverin SMTP. Më shumë informacion për përdorimin e serverit SMTP me AGRID gjendet </value>
   </data>
 
   <data name="EmailProvider_SmtpHost" xml:space="preserve">

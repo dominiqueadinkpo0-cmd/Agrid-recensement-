@@ -352,7 +352,7 @@
     <value>A revalidação não foi bem-sucedida.</value>
   </data>
   <data name="InterviewController_RepeatLastStatus" xml:space="preserve">
-    <value>Status definido pela equipe de suporte do Survey Solutions</value>
+    <value>Status definido pela equipe de suporte do AGRID</value>
   </data>
   <data name="InterviewController_RepeatLastStatusFailed" xml:space="preserve">
     <value>A repetição do último status não foi bem-sucedida.</value>
@@ -469,7 +469,7 @@
     <value>desligado</value>
   </data>
   <data name="InterviewerProfile_InterviewerVersion" xml:space="preserve">
-    <value>Versão do Survey Solutions</value>
+    <value>Versão do AGRID</value>
   </data>
   <data name="InterviewerProfile_AndroidVersion" xml:space="preserve">
     <value>Versão do Android</value>
@@ -502,7 +502,7 @@
     <value>Pode ser atualizado</value>
   </data>
   <data name="InterviewerProfile_InterviewerUpdatedDate" xml:space="preserve">
-    <value>Data da última atualização do Survey Solutions</value>
+    <value>Data da última atualização do AGRID</value>
   </data>
   <data name="InterviewerProfile_NumberOfSuccessSynchronizations" xml:space="preserve">
     <value>Número total de sincronizações bem-sucedidas</value>
@@ -1181,10 +1181,10 @@
     <value>A tecnologia de Entrevista Assistida por Computador desenvolvida pelo Banco Mundial.</value>
   </data>
   <data name="DownloadPage_Welcome" xml:space="preserve">
-    <value>Bem-vindo à página de download do Entrevistador do Survey Solutions</value>
+    <value>Bem-vindo à página de download do Entrevistador do AGRID</value>
   </data>
   <data name="DownloadSupervisorPage_Welcome" xml:space="preserve">
-    <value>Bem-vindo à página de download do Supervisor do Survey Solutions</value>
+    <value>Bem-vindo à página de download do Supervisor do AGRID</value>
   </data>
   <data name="DownloadPage_PageTitle" xml:space="preserve">
     <value>Baixar aplicativo Entrevistador</value>

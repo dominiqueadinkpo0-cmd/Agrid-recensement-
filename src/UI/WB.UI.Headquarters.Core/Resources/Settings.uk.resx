@@ -163,7 +163,7 @@
     <value>Amazon Simple Email Service (SES)</value>
   </data>
   <data name="EmailProvider_AmazonDescription" xml:space="preserve">
-    <value>Налаштуйте параметри для доступу до Amazon SES нижче. Додаткові відомості про використання Amazon SES з Survey Solutions доступні </value>
+    <value>Налаштуйте параметри для доступу до Amazon SES нижче. Додаткові відомості про використання Amazon SES з AGRID доступні </value>
   </data>
   <data name="EmailProvider_AwsAccessKeyId" xml:space="preserve">
     <value>Ідентифікатор ключа доступу</value>
@@ -196,7 +196,7 @@
       <value>Без розсилки</value>
   </data>
   <data name="EmailProvider_NoneDescription" xml:space="preserve">
-    <value>Повідомлення із запрошеннями на веб-інтерв'ю не надсилаються Survey Solutions респондентам.</value>
+    <value>Повідомлення із запрошеннями на веб-інтерв'ю не надсилаються AGRID респондентам.</value>
   </data>
   <data name="EmailProvider_PageDesc" xml:space="preserve">
     <value>Налаштуйте постачальника послуг масової розсилки. Налаштуйте спосіб надсилання запрошень на веб-інтерв'ю.</value>
@@ -232,7 +232,7 @@
     <value>Ви можете знайти його на сторінці API Keys в пункті меню налаштувань SendGrid</value>
   </data>
   <data name="EmailProvider_SendgridDescription" xml:space="preserve">
-    <value>Налаштуйте параметри для доступу до SendGrid нижче. Додаткові відомості про використання SendGrid з рішеннями для проведення опитувань доступні </value>
+    <value>Налаштуйте параметри для доступу до SendGrid нижче. Додаткові відомості про використання SendGrid з AGRID доступні </value>
   </data>
   <data name="EmailProvider_SendTestEmail" xml:space="preserve">
     <value>Надіслати електронну лист</value>
@@ -277,7 +277,7 @@
     <value>GeoJSON</value>
   </data>
   <data name="GeographyExportFormat_ArrayOfCoordinates" xml:space="preserve">
-    <value>Рядок геометрії Survey Solutions</value>
+    <value>Рядок геометрії AGRID</value>
   </data>
   <data name="ExportEncryptionSettings" xml:space="preserve">
     <value>Налаштування шифрування експорту </value>
@@ -422,7 +422,7 @@
   </data>
 
   <data name="EmailProvider_SmtpDescription" xml:space="preserve">
-    <value>Налаштуйте нижче параметри доступу до SMTP сервера. Додаткова інформація про використання SMTP сервера з Survey Solutions доступна </value>
+    <value>Налаштуйте нижче параметри доступу до SMTP сервера. Додаткова інформація про використання SMTP сервера з AGRID доступна </value>
   </data>
 
   <data name="EmailProvider_SmtpHost" xml:space="preserve">

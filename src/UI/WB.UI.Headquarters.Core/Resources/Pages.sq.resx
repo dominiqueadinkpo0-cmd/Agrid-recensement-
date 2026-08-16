@@ -229,7 +229,7 @@
     <value>Versioni</value>
   </data>
   <data name="DownloadPage_Welcome" xml:space="preserve">
-    <value>Mirë se erdhët në faqen e shkarkimit të Intervistuesit në Survey Solutions</value>
+    <value>Mirë se erdhët në faqen e shkarkimit të Intervistuesit në AGRID</value>
   </data>
   <data name="DownloadReport" xml:space="preserve">
     <value>Shkarko raportin si</value>
@@ -238,7 +238,7 @@
     <value>Shkarko aplikacionin e Supervizorit </value>
   </data>
   <data name="DownloadSupervisorPage_Welcome" xml:space="preserve">
-    <value>Mirë se erdhët në faqen e shkarkimit të Supervizorit në Survey Solutions</value>
+    <value>Mirë se erdhët në faqen e shkarkimit të Supervizorit në AGRID</value>
   </data>
   <data name="EditQuestion_Save" xml:space="preserve">
     <value>Ruaj</value>
@@ -370,7 +370,7 @@
     <value>Udhëzim për instalimin</value>
   </data>
   <data name="InterviewController_RepeatLastStatus" xml:space="preserve">
-    <value>Status i vendosur nga ekipi mbështetës i Survey Solutions</value>
+    <value>Status i vendosur nga ekipi mbështetës i AGRID</value>
   </data>
   <data name="InterviewController_RepeatLastStatusFailed" xml:space="preserve">
     <value>Përsëritja e statusit të fundit nuk pati sukses.</value>
@@ -586,13 +586,13 @@
     <value>Intervistuesit</value>
   </data>
   <data name="InterviewerProfile_InterviewerUpdatedDate" xml:space="preserve">
-    <value>Data e përditësimit të fundit të Survey Solutions</value>
+    <value>Data e përditësimit të fundit të AGRID</value>
   </data>
   <data name="InterviewerProfile_InterviewerUpToDate" xml:space="preserve">
     <value>Përditësuar</value>
   </data>
   <data name="InterviewerProfile_InterviewerVersion" xml:space="preserve">
-    <value>Versioni Survey Solutions </value>
+    <value>Versioni AGRID </value>
   </data>
   <data name="InterviewerProfile_LastConnectionStatistics" xml:space="preserve">
     <value>Statistikat e lidhjes së fundit </value>

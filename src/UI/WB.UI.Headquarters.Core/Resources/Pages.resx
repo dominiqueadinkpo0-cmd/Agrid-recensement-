@@ -352,7 +352,7 @@
     <value>Revalidation was unsuccessful.</value>
   </data>
   <data name="InterviewController_RepeatLastStatus" xml:space="preserve">
-    <value>Status set by Survey Solutions support team</value>
+    <value>Status set by AGRID support team</value>
   </data>
   <data name="InterviewController_RepeatLastStatusFailed" xml:space="preserve">
     <value>Repeating of last status was unsuccessful.</value>
@@ -469,7 +469,7 @@
     <value>off</value>
   </data>
   <data name="InterviewerProfile_InterviewerVersion" xml:space="preserve">
-    <value>Survey Solutions version</value>
+    <value>AGRID version</value>
   </data>
   <data name="InterviewerProfile_AndroidVersion" xml:space="preserve">
     <value>Android version</value>
@@ -502,7 +502,7 @@
     <value>Can be updated</value>
   </data>
   <data name="InterviewerProfile_InterviewerUpdatedDate" xml:space="preserve">
-    <value>Last Survey Solutions updated date</value>
+    <value>Last AGRID updated date</value>
   </data>
   <data name="InterviewerProfile_NumberOfSuccessSynchronizations" xml:space="preserve">
     <value>Total number of successful synchronizations</value>
@@ -1181,10 +1181,10 @@
     <value>The Computer-Assisted Personal Interview technology developed by the World Bank.</value>
   </data>
   <data name="DownloadPage_Welcome" xml:space="preserve">
-    <value>Welcome to Survey Solutions Interviewer download page</value>
+    <value>Welcome to AGRID Interviewer download page</value>
   </data>
   <data name="DownloadSupervisorPage_Welcome" xml:space="preserve">
-    <value>Welcome to Survey Solutions Supervisor download page</value>
+    <value>Welcome to AGRID Supervisor download page</value>
   </data>
   <data name="DownloadPage_PageTitle" xml:space="preserve">
     <value>Download Interviewer app</value>

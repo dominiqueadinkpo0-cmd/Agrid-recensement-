@@ -220,7 +220,7 @@
     <value>Versiune</value>
   </data>
   <data name="DownloadPage_Welcome" xml:space="preserve">
-    <value>Bine ați venit pe pagina de descărcare a Survey Solutions Interviewer</value>
+    <value>Bine ați venit pe pagina de descărcare a AGRID Interviewer</value>
   </data>
   <data name="DownloadReport" xml:space="preserve">
     <value>Descărcați raportul ca</value>
@@ -229,7 +229,7 @@
     <value>Descărcați aplicația Supervisor</value>
   </data>
   <data name="DownloadSupervisorPage_Welcome" xml:space="preserve">
-    <value>Bine ați venit pe pagina de descărcare a Survey Solutions Supervisor</value>
+    <value>Bine ați venit pe pagina de descărcare a AGRID Supervisor</value>
   </data>
   <data name="EditQuestion_Save" xml:space="preserve">
     <value>Salvare</value>
@@ -352,7 +352,7 @@
     <value>Instrucțiuni de instalare</value>
   </data>
   <data name="InterviewController_RepeatLastStatus" xml:space="preserve">
-    <value>Starea stabilită de echipa de asistență Survey Solutions</value>
+    <value>Starea stabilită de echipa de asistență AGRID</value>
   </data>
   <data name="InterviewController_RepeatLastStatusFailed" xml:space="preserve">
     <value>Repetarea ultimului stare a fost nereușită.</value>
@@ -562,13 +562,13 @@
     <value>Anchetatori</value>
   </data>
   <data name="InterviewerProfile_InterviewerUpdatedDate" xml:space="preserve">
-    <value>Ultima dată a actualiării Survey Solutions</value>
+    <value>Ultima dată a actualiării AGRID</value>
   </data>
   <data name="InterviewerProfile_InterviewerUpToDate" xml:space="preserve">
     <value>La zi</value>
   </data>
   <data name="InterviewerProfile_InterviewerVersion" xml:space="preserve">
-    <value>Versiunea Survey Solutions</value>
+    <value>Versiunea AGRID</value>
   </data>
   <data name="InterviewerProfile_LastConnectionStatistics" xml:space="preserve">
     <value>Ultimele statistici privind conexiunile</value>

@@ -293,7 +293,7 @@
         <value>Việc xác nhận lại không thành công.</value>
         </data>
     <data name="InterviewController_RepeatLastStatus" xml:space="preserve">
-        <value>Trạng thái do nhóm hỗ trợ Giải pháp khảo sát đặt ra</value>
+        <value>Trạng thái do nhóm hỗ trợ AGRID đặt ra</value>
         </data>
     <data name="InterviewController_RepeatLastStatusFailed" xml:space="preserve">
         <value>Việc lặp lại trạng thái cuối cùng không thành công.</value>
@@ -410,7 +410,7 @@
         <value>tắt</value>
         </data>
     <data name="InterviewerProfile_InterviewerVersion" xml:space="preserve">
-        <value>Phiên bản Giải pháp khảo sát</value>
+        <value>Phiên bản AGRID</value>
         </data>
     <data name="InterviewerProfile_AndroidVersion" xml:space="preserve">
         <value>Phiên bản Android</value>
@@ -443,7 +443,7 @@
         <value>Có thể được cập nhật</value>
         </data>
     <data name="InterviewerProfile_InterviewerUpdatedDate" xml:space="preserve">
-        <value>Ngày cập nhật Giải pháp khảo sát lần cuối</value>
+        <value>Ngày cập nhật AGRID lần cuối</value>
         </data>
     <data name="InterviewerProfile_NumberOfSuccessSynchronizations" xml:space="preserve">
         <value>Tổng số lần đồng bộ hóa thành công</value>
@@ -1119,10 +1119,10 @@
         <value>Công nghệ Phỏng vấn Cá nhân có sự hỗ trợ của Máy tính do Ngân hàng Thế giới phát triển.</value>
         </data>
     <data name="DownloadPage_Welcome" xml:space="preserve">
-        <value>Chào mừng bạn đến với trang tải xuống Người phỏng vấn Giải pháp Khảo sát</value>
+        <value>Chào mừng bạn đến với trang tải xuống Người phỏng vấn AGRID</value>
         </data>
     <data name="DownloadSupervisorPage_Welcome" xml:space="preserve">
-        <value>Chào mừng bạn đến với trang tải xuống Giám sát giải pháp khảo sát</value>
+        <value>Chào mừng bạn đến với trang tải xuống Giám sát AGRID</value>
         </data>
     <data name="DownloadPage_PageTitle" xml:space="preserve">
         <value>Tải ứng dụng Người phỏng vấn</value>

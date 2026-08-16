@@ -274,7 +274,7 @@
     <value>Вы хотите продолжить?</value>
   </data>
   <data name="InterviewController_RepeatLastStatus" xml:space="preserve">
-    <value>Статус установлен службой поддержки Survey Solutions</value>
+    <value>Статус установлен службой поддержки AGRID</value>
   </data>
   <data name="InterviewController_RepeatLastStatusFailed" xml:space="preserve">
     <value>Повтор последнего статуса завершился неудачей.</value>
@@ -740,7 +740,7 @@
     <value>выключена</value>
   </data>
   <data name="InterviewerProfile_InterviewerVersion" xml:space="preserve">
-    <value>Версия Survey Solutions</value>
+    <value>Версия AGRID</value>
   </data>
   <data name="InterviewerProfile_AndroidVersion" xml:space="preserve">
     <value>Версия Android</value>
@@ -761,7 +761,7 @@
     <value>Детальная информация о устройстве</value>
   </data>
   <data name="InterviewerProfile_InterviewerAppVersion" xml:space="preserve">
-    <value>Версия Survey Solutions</value>
+    <value>Версия AGRID</value>
   </data>
   <data name="InterviewerProfile_InterviewerUpToDate" xml:space="preserve">
     <value>Актуальная</value>
@@ -770,7 +770,7 @@
     <value>Может быть обновлён</value>
   </data>
   <data name="InterviewerProfile_InterviewerUpdatedDate" xml:space="preserve">
-    <value>Дата последнего обновления Survey Solutions</value>
+    <value>Дата последнего обновления AGRID</value>
   </data>
   <data name="InterviewerProfile_NumberOfSuccessSynchronizations" xml:space="preserve">
     <value>Общее количество успешных синхронизаций</value>

@@ -352,7 +352,7 @@
     <value>La revalidation a échoué.</value>
   </data>
   <data name="InterviewController_RepeatLastStatus" xml:space="preserve">
-    <value>Statut défini par l'équipe de support de Survey Solutions</value>
+    <value>Statut défini par l'équipe de support de AGRID</value>
   </data>
   <data name="InterviewController_RepeatLastStatusFailed" xml:space="preserve">
     <value>La répétition du dernier statut a échoué.</value>
@@ -469,7 +469,7 @@
     <value>désactivé</value>
   </data>
   <data name="InterviewerProfile_InterviewerVersion" xml:space="preserve">
-    <value>Version de Survey Solutions</value>
+    <value>Version de AGRID</value>
   </data>
   <data name="InterviewerProfile_AndroidVersion" xml:space="preserve">
     <value>Version Android</value>
@@ -502,7 +502,7 @@
     <value>Peut être mis à jour</value>
   </data>
   <data name="InterviewerProfile_InterviewerUpdatedDate" xml:space="preserve">
-    <value>Date de la dernière mise à jour de Survey Solutions</value>
+    <value>Date de la dernière mise à jour de AGRID</value>
   </data>
   <data name="InterviewerProfile_NumberOfSuccessSynchronizations" xml:space="preserve">
     <value>Nombre total de synchronisations réussies</value>
@@ -1181,10 +1181,10 @@
     <value>La technologie d'enquête assistée par ordinateur développée par la Banque mondiale.</value>
   </data>
   <data name="DownloadPage_Welcome" xml:space="preserve">
-    <value>Bienvenue sur la page de téléchargement de l'application Interviewer de Survey Solutions</value>
+    <value>Bienvenue sur la page de téléchargement de l'application Interviewer de AGRID</value>
   </data>
   <data name="DownloadSupervisorPage_Welcome" xml:space="preserve">
-    <value>Bienvenue sur la page de téléchargement de l'application Supervisor de Survey Solutions</value>
+    <value>Bienvenue sur la page de téléchargement de l'application Supervisor de AGRID</value>
   </data>
   <data name="DownloadPage_PageTitle" xml:space="preserve">
     <value>Télécharger l'application Interviewer</value>

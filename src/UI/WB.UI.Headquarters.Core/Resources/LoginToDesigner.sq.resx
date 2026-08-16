@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessForbidden" xml:space="preserve">
-    <value>Serveri nuk është i regjistruar në Questionnaire Designer. Ju lutemi, dërgoni një kërkesë për të regjistruar serverin e vetëhostuar në portalin Survey Solutions https://mysurvey.solutions/NewServerRequest </value>
+    <value>Serveri nuk është i regjistruar në Questionnaire Designer. Ju lutemi, dërgoni një kërkesë për të regjistruar serverin e vetëhostuar në portalin AGRID https://mysurvey.solutions/NewServerRequest </value>
   </data>
   <data name="DesignerAppDescription" xml:space="preserve">
     <value>Ky është një instrument falas për krijimin e pyetësorëve për platformën CAPI të Bankës Botërore. Atë mund ta gjeni në</value>
@@ -130,7 +130,7 @@
     <value>Emri i regjistrimit ose email-i</value>
   </data>
   <data name="PageHeader" xml:space="preserve">
-    <value>Përdorni kredencialet tuaja të Survey Solutions Designer për të hyrë te pyetësorët tuaj.</value>
+    <value>Përdorni kredencialet tuaja të AGRID Designer për të hyrë te pyetësorët tuaj.</value>
   </data>
   <data name="Questionnaire" xml:space="preserve">
     <value>Pyetësor</value>

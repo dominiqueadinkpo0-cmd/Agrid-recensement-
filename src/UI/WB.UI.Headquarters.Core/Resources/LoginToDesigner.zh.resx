@@ -124,7 +124,7 @@
     <value>用户未认证。请检查您的用户名和密码。</value>
   </data>
   <data name="PageHeader" xml:space="preserve">
-    <value>请使用您的Survey Solutions问卷设计网站账号来访问您的问卷。</value>
+    <value>请使用您的AGRID问卷设计网站账号来访问您的问卷。</value>
   </data>
   <data name="Questionnaire" xml:space="preserve">
     <value>问卷</value>

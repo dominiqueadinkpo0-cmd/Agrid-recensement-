@@ -8,7 +8,7 @@
   <data name="DesignerAppDescription" xml:space="preserve"><value>នេះ​ជា​ឧបករណ៍​ឥត​គិត​ថ្លៃ​សម្រាប់​បង្កើត​កម្រង​សំណួរ</value></data>
   <data name="InvalidCredentials" xml:space="preserve"><value>អ្នកប្រើប្រាស់មិនត្រូវបានអនុញ្ញាត សូមពិនិត្យការចូលនិងពាក្យសម្ងាត់របស់អ្នក</value></data>
   <data name="LoginWatermark" xml:space="preserve"><value>ការចូល ឬអ៊ីម៉ែល</value></data>
-  <data name="PageHeader" xml:space="preserve"><value>ប្រើព័ត៌មានសម្ងាត់ Survey Solutions Designer របស់អ្នក</value></data>
+  <data name="PageHeader" xml:space="preserve"><value>ប្រើព័ត៌មានសម្ងាត់ AGRID Designer របស់អ្នក</value></data>
   <data name="Questionnaire" xml:space="preserve"><value>កម្រងសំណួរ</value></data>
   <data name="SessionExpired" xml:space="preserve"><value>វគ្គបានផុតកំណត់ សូមចូលម្ដងទៀត</value></data>
   <data name="UnableToImportNewQuestionnaire" xml:space="preserve"><value>មិនអាចនាំចូលកម្រងសំណួរថ្មី:</value></data>

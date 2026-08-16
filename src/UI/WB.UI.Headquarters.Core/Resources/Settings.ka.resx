@@ -145,7 +145,7 @@
     <value>GeoJSON</value>
   </data>
   <data name="GeographyExportFormat_ArrayOfCoordinates" xml:space="preserve">
-    <value>Survey Solutions გეომეტრიის სტრიქონი</value>
+    <value>AGRID გეომეტრიის სტრიქონი</value>
   </data>
   <data name="ExportEncryptionSettings" xml:space="preserve">
     <value>დაშიფვრის ექსპორტის პარამეტრები</value>
@@ -341,15 +341,15 @@
   </data>
 
   <data name="EmailProvider_NoneDescription" xml:space="preserve">
-    <value>ვებ ინტერვიუებისთვის მოსაწვევი შეტყობინებები რესპონდენტებს Survey Solutions-ის მიერ არ ეგზავნებათ.</value>
+    <value>ვებ ინტერვიუებისთვის მოსაწვევი შეტყობინებები რესპონდენტებს AGRID-ის მიერ არ ეგზავნებათ.</value>
   </data>
 
   <data name="EmailProvider_AmazonDescription" xml:space="preserve">
-    <value>ქვემოთ დააკონფიგურირეთ Amazon SES-ზე წვდომის პარამეტრები. მეტი ინფორმაცია Survey Solutions-თან Amazon SES-ის გამოყენების შესახებ ხელმისაწვდომია </value>
+    <value>ქვემოთ დააკონფიგურირეთ Amazon SES-ზე წვდომის პარამეტრები. მეტი ინფორმაცია AGRID-თან Amazon SES-ის გამოყენების შესახებ ხელმისაწვდომია </value>
   </data>
 
   <data name="EmailProvider_SendgridDescription" xml:space="preserve">
-    <value>ქვემოთ დააკონფიგურირეთ SendGrid-ზე წვდომის პარამეტრები. მეტი ინფორმაცია Survey Solutions-თან SendGrid-ის გამოყენების შესახებ ხელმისაწვდომია </value>
+    <value>ქვემოთ დააკონფიგურირეთ SendGrid-ზე წვდომის პარამეტრები. მეტი ინფორმაცია AGRID-თან SendGrid-ის გამოყენების შესახებ ხელმისაწვდომია </value>
   </data>
 
   <data name="EmailProvider_SenderAddress" xml:space="preserve">
@@ -485,7 +485,7 @@
   </data>
 
   <data name="EmailProvider_SmtpDescription" xml:space="preserve">
-    <value>ქვემოთ დააკონფიგურირეთ SMTP სერვერზე წვდომის პარამეტრები. მეტი ინფორმაცია Survey Solutions-თან SMTP სერვერის გამოყენების შესახებ ხელმისაწვდომია </value>
+    <value>ქვემოთ დააკონფიგურირეთ SMTP სერვერზე წვდომის პარამეტრები. მეტი ინფორმაცია AGRID-თან SMTP სერვერის გამოყენების შესახებ ხელმისაწვდომია </value>
   </data>
 
   <data name="EmailProvider_SmtpHost" xml:space="preserve">

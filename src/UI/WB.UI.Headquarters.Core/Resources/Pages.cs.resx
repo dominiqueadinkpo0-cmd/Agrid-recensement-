@@ -175,16 +175,16 @@
     <value>Stáhněte si aplikaci Tazatel</value>
   </data>
   <data name="DownloadPage_Welcome" xml:space="preserve">
-    <value>Vítejte na stránce Survey Solutions ke stažení aplikace Tazatel</value>
+    <value>Vítejte na stránce AGRID ke stažení aplikace Tazatel</value>
   </data>
   <data name="DownloadReport" xml:space="preserve">
     <value>Stáhnout zprávu jako</value>
   </data>
   <data name="DownloadSupervisorPage_PageTitle" xml:space="preserve">
-    <value>Stáhnout mobilní garantskou aplikaci Survey Solutions</value>
+    <value>Stáhnout mobilní garantskou aplikaci AGRID</value>
   </data>
   <data name="DownloadSupervisorPage_Welcome" xml:space="preserve">
-    <value>Vítejte na stránce Survey Solutions ke stažení mobilní garantské aplikace Survey Solutions</value>
+    <value>Vítejte na stránce AGRID ke stažení mobilní garantské aplikace AGRID</value>
   </data>
   <data name="EditQuestion_Save" xml:space="preserve">
     <value>Uložit</value>
@@ -208,7 +208,7 @@
     <value>Stáhněte si nejnovější verzi aplikace Tazatel</value>
   </data>
   <data name="GetLatestSupervisorApp" xml:space="preserve">
-    <value>Stáhněte si nejnovější verzi mobilní garantské aplikace Survey Solutions</value>
+    <value>Stáhněte si nejnovější verzi mobilní garantské aplikace AGRID</value>
   </data>
   <data name="GlobalSettings_NotifyDialogText" xml:space="preserve">
     <value>Váš předchozí požadavek není hotov. Počkejte prosím na dokončení a opakujte.</value>
@@ -703,7 +703,7 @@
     <value>Instrukce k instalaci</value>
   </data>
   <data name="InterviewController_RepeatLastStatus" xml:space="preserve">
-    <value>Stav nastavený týmem podpory Survey Solutions</value>
+    <value>Stav nastavený týmem podpory AGRID</value>
   </data>
   <data name="InterviewController_RepeatLastStatusFailed" xml:space="preserve">
     <value>Opakování posledního stavu bylo neúspěšné.</value>
@@ -916,13 +916,13 @@
     <value>Tazatelé</value>
   </data>
   <data name="InterviewerProfile_InterviewerUpdatedDate" xml:space="preserve">
-    <value>Poslední datum aktualizace aplikace Survey Solutions</value>
+    <value>Poslední datum aktualizace aplikace AGRID</value>
   </data>
   <data name="InterviewerProfile_InterviewerUpToDate" xml:space="preserve">
     <value>Nejnovější</value>
   </data>
   <data name="InterviewerProfile_InterviewerVersion" xml:space="preserve">
-    <value>Verze aplikace Survey Solutions</value>
+    <value>Verze aplikace AGRID</value>
   </data>
   <data name="InterviewerProfile_LastConnectionStatistics" xml:space="preserve">
     <value>Statistika o posledním připojením</value>

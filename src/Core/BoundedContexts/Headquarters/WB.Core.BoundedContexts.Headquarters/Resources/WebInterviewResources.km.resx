@@ -10,13 +10,13 @@
   <data name="InvitationText" xml:space="preserve"><value>អ្នកត្រូវបានអញ្ជើញឱ្យចូលរួមក្នុងការស្ទង់មតិខាងក្រោម: "%QUESTIONNAIRE%"</value></data>
   <data name="NoteForSupervisor" xml:space="preserve"><value>យោបល់</value></data>
   <data name="Resume_InvitationText" xml:space="preserve"><value>អ្នកអាចចូលទៅកាន់ការសំភាសន៍ក្នុងការស្ទង់មតិខាងក្រោម: "%QUESTIONNAIRE%"</value></data>
-  <data name="Resume_WelcomeText" xml:space="preserve"><value>សូមស្វាគមន៍មកកាន់ការស្ទង់មតិតាមវែបរបស់ Survey Solutions</value></data>
+  <data name="Resume_WelcomeText" xml:space="preserve"><value>សូមស្វាគមន៍មកកាន់ការស្ទង់មតិតាមវែបរបស់ AGRID</value></data>
   <data name="SurveyFormatText" xml:space="preserve"><value>ការស្ទង់មតិ: "%QUESTIONNAIRE%"</value></data>
-  <data name="WebSurvey" xml:space="preserve"><value>ការស្ទង់មតិតាមវែបរបស់ Survey Solutions</value></data>
-  <data name="WelcomeText" xml:space="preserve"><value>សូមស្វាគមន៍មកកាន់ការស្ទង់មតិតាមវែបរបស់ Survey Solutions</value></data>
+  <data name="WebSurvey" xml:space="preserve"><value>ការស្ទង់មតិតាមវែបរបស់ AGRID</value></data>
+  <data name="WelcomeText" xml:space="preserve"><value>សូមស្វាគមន៍មកកាន់ការស្ទង់មតិតាមវែបរបស់ AGRID</value></data>
   <data name="StartNewInterview" xml:space="preserve"><value>ចាប់ផ្តើមការសំភាសន៍ថ្មី</value></data>
   <data name="ResumeInterview" xml:space="preserve"><value>បន្តការសំភាសន៍</value></data>
   <data name="LinkInvitation" xml:space="preserve"><value>អ្នកត្រូវបានអញ្ជើញឱ្យចូលរួមក្នុងការស្ទង់មតិខាងក្រោម: "%QUESTIONNAIRE%"។ ការសំភាសន៍របស់អ្នកនៅមិនទាន់រួចរាល់ទេ</value></data>
   <data name="LinkToInterviewPage" xml:space="preserve"><value>ការសំភាសន៍តាមវែប</value></data>
-  <data name="LinkWelcome" xml:space="preserve"><value>សូមស្វាគមន៍មកកាន់ការស្ទង់មតិតាមវែបរបស់ Survey Solutions</value></data>
+  <data name="LinkWelcome" xml:space="preserve"><value>សូមស្វាគមន៍មកកាន់ការស្ទង់មតិតាមវែបរបស់ AGRID</value></data>
 </root>

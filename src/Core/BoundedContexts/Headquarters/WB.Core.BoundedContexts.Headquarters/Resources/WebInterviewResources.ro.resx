@@ -136,7 +136,7 @@
       <value>Puteți naviga la interviu în următorul sondaj: „%QUESTIONNAIRE%”</value>
   </data>
   <data name="Resume_WelcomeText" xml:space="preserve">
-    <value>Bună ziua și Bine ați venit la Survey Solutions Web Survey</value>
+    <value>Bună ziua și Bine ați venit la AGRID Web Survey</value>
   </data>
   <data name="ResumeInterview" xml:space="preserve">
     <value>Reluați interviul</value>
@@ -148,10 +148,10 @@
       <value>Sondaj: „%QUESTIONNAIRE%”</value>
   </data>
   <data name="WebSurvey" xml:space="preserve">
-    <value>Survey Solutions Sondaj web</value>
+    <value>AGRID Sondaj web</value>
   </data>
   <data name="WelcomeText" xml:space="preserve">
-    <value>Bună ziua și Bine ați venit la Survey Solutions Web Survey</value>
+    <value>Bună ziua și Bine ați venit la AGRID Web Survey</value>
   </data>
 
 
@@ -164,6 +164,6 @@
   </data>
 
   <data name="LinkWelcome" xml:space="preserve">
-    <value>Bună ziua și bine ați venit la sondajul web Survey Solutions</value>
+    <value>Bună ziua și bine ați venit la sondajul web AGRID</value>
   </data>
 </root>

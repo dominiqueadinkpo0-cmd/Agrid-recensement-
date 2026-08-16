@@ -8,7 +8,7 @@
   <data name="DesignerAppDescription" xml:space="preserve"><value>นี่คือเครื่องมือฟรีสำหรับสร้างแบบสอบถาม</value></data>
   <data name="InvalidCredentials" xml:space="preserve"><value>ผู้ใช้ไม่ได้รับอนุญาต กรุณาตรวจสอบชื่อเข้าใช้และรหัสผ่านของคุณ</value></data>
   <data name="LoginWatermark" xml:space="preserve"><value>ชื่อเข้าใช้หรืออีเมล</value></data>
-  <data name="PageHeader" xml:space="preserve"><value>ใช้ข้อมูลรับรอง Survey Solutions Designer ของคุณ</value></data>
+  <data name="PageHeader" xml:space="preserve"><value>ใช้ข้อมูลรับรอง AGRID Designer ของคุณ</value></data>
   <data name="Questionnaire" xml:space="preserve"><value>แบบสอบถาม</value></data>
   <data name="SessionExpired" xml:space="preserve"><value>เซสชันหมดอายุแล้ว กรุณาเข้าสู่ระบบอีกครั้ง</value></data>
   <data name="UnableToImportNewQuestionnaire" xml:space="preserve"><value>ไม่สามารถนำเข้าแบบสอบถามใหม่:</value></data>

@@ -443,7 +443,7 @@
         <value>អាចត្រូវបានធ្វើឱ្យទាន់សម័យ</value>
     </data>
     <data name="InterviewerProfile_InterviewerUpdatedDate" xml:space="preserve">
-        <value>Last Survey Solutions បានធ្វើបច្ចុប្បន្នភាពកាលបរិច្ឆេទ</value>
+        <value>Last AGRID បានធ្វើបច្ចុប្បន្នភាពកាលបរិច្ឆេទ</value>
     </data>
     <data name="InterviewerProfile_NumberOfSuccessSynchronizations" xml:space="preserve">
         <value>ចំនួនសរុបនៃការធ្វើសមកាលកម្មជោគជ័យ</value>
@@ -1119,10 +1119,10 @@
         <value>បច្ចេកវិជ្ជាសម្ភាសន៍ផ្ទាល់ខ្លួនដែលជួយដោយកុំព្យូទ័រដែលបង្កើតឡើងដោយធនាគារពិភពលោក។</value>
     </data>
     <data name="DownloadPage_Welcome" xml:space="preserve">
-        <value>សូមស្វាគមន៍មកកាន់ទំព័រទាញយក Survey Solutions Interviewer</value>
+        <value>សូមស្វាគមន៍មកកាន់ទំព័រទាញយក AGRID Interviewer</value>
     </data>
     <data name="DownloadSupervisorPage_Welcome" xml:space="preserve">
-        <value>សូមស្វាគមន៍មកកាន់ទំព័រទាញយក Survey Solutions Supervisor</value>
+        <value>សូមស្វាគមន៍មកកាន់ទំព័រទាញយក AGRID Supervisor</value>
     </data>
     <data name="DownloadPage_PageTitle" xml:space="preserve">
         <value>ទាញយកកម្មវិធី Interviewer</value>

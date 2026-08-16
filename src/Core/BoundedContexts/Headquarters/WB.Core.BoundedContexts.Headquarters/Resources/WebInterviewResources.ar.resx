@@ -137,16 +137,16 @@
   <value>يمكنك الانتقال إلى المقابلة في الاستبيان التالي: "%QUESTIONNAIRE%"</value>
 </data>
     <data name="Resume_WelcomeText" xml:space="preserve">
-  <value>مرحبًا بكم في استبيان حلول المسح على الويب</value>
+  <value>مرحبًا بكم في استبيان AGRID على الويب</value>
 </data>
     <data name="SurveyFormatText" xml:space="preserve">
   <value>استبيان: "%QUESTIONNAIRE%"</value>
 </data>
     <data name="WebSurvey" xml:space="preserve">
-  <value>استبيان حلول المسح على الويب</value>
+  <value>استبيان AGRID على الويب</value>
 </data>
     <data name="WelcomeText" xml:space="preserve">
-  <value>مرحبًا بكم في استبيان حلول المسح على الويب</value>
+  <value>مرحبًا بكم في استبيان AGRID على الويب</value>
 </data>
     <data name="StartNewInterview" xml:space="preserve">
   <value>بدء مقابلة جديدة</value>
@@ -161,6 +161,6 @@
   <value>مقابلة الويب</value>
 </data>
     <data name="LinkWelcome" xml:space="preserve">
-  <value>مرحبًا بكم في استبيان حلول المسح على الويب</value>
+  <value>مرحبًا بكم في استبيان AGRID على الويب</value>
 </data>
 </root>
